@@ -1,0 +1,108 @@
+{
+  "type": "object",
+  "title": "Pantalla de Transparencia",
+  "description": "",
+  "properties": {
+    "location": {
+      "type": "object",
+      "title": "Ubicación",
+      "description": "información del banner, bla bla bla, ",
+      "properties": {
+        "address": {
+          "title": "Dirección",
+          "attrs": {
+            "placeholder": "Sub Full Name",
+            "title": "Please enter your full name"
+          }
+        }
+      }
+    },
+    "socialMedia": {
+      "type": "object",
+      "title": "Redes Sociales",
+      "description": "información del banner, bla bla bla, ",
+      "properties": {
+        "facebook": {
+          "title": "Facebook",
+          "attrs": {
+            "placeholder": "Sub Full Name",
+            "title": "Please enter your full name"
+          }
+        },
+        "instagram": {
+          "title": "Instagram ",
+          "attrs": {
+            "placeholder": "Sub Full Name",
+            "title": "Please enter your full name"
+          }
+        }
+      }
+    },
+    "personal": {
+      "type": "object",
+      "title": "Personal",
+      "description": "información del banner, bla bla bla, ",
+      "properties": {
+        "image": {
+          "title": "Imágen",
+          "attrs": {
+            "placeholder": "Sub Full Name",
+            "title": "Please enter your full name"
+          }
+        },
+        "name": {
+          "title": "Nombre ",
+          "attrs": {
+            "placeholder": "Sub Full Name",
+            "title": "Please enter your full name"
+          }
+        },
+        "lastName": {
+          "title": "Apellidos ",
+          "attrs": {
+            "placeholder": "Sub Full Name",
+            "title": "Please enter your full name"
+          }
+        },
+        "position": {
+          "title": "Puesto ",
+          "attrs": {
+            "placeholder": "Sub Full Name",
+            "title": "Please enter your full name"
+          }
+        },
+        "email": {
+          "title": "Correo",
+          "attrs": {
+            "type": "email",
+            "placeholder": "Sub Full Name",
+            "title": "Please enter your full name"
+          }
+        },
+        "webPage": {
+          "title": "Página web",
+          "attrs": {
+            "placeholder": "Sub Full Name",
+            "title": "Please enter your full name"
+          }
+        },
+        "phone": {
+          "title": "Teléfono",
+          "attrs": {
+            "placeholder": "Sub Full Name",
+            "title": "Please enter your full name"
+          }
+        },
+        "ext": {
+          "title": "Extención",
+          "attrs": {
+            "placeholder": "Sub Full Name",
+            "title": "Please enter your full name"
+          }
+        }
+      }
+    }
+  },
+  "additionalProperties": false,
+  "required": ["name", "Imágen", "lists"]
+}

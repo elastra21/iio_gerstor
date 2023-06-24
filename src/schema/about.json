@@ -1,0 +1,44 @@
+{
+  "type": "object",
+  "title": "Pantalla de Nosotros",
+  "description": "",
+  "properties": {
+    "location": {
+      "type": "object",
+      "title": "Ubicación",
+      "description": "información del banner, bla bla bla, ",
+      "properties": {
+        "address": {
+          "title": "Dirección",
+          "attrs": {
+            "placeholder": "Sub Full Name",
+            "title": "Please enter your full name"
+          }
+        }
+      }
+    },
+    "socialMedia": {
+      "type": "object",
+      "title": "Redes Sociales",
+      "description": "información del banner, bla bla bla, ",
+      "properties": {
+        "facebook": {
+          "title": "Facebook",
+          "attrs": {
+            "placeholder": "Sub Full Name",
+            "title": "Please enter your full name"
+          }
+        },
+        "instagram": {
+          "title": "Instagram ",
+          "attrs": {
+            "placeholder": "Sub Full Name",
+            "title": "Please enter your full name"
+          }
+        }
+      }
+    }
+  },
+  "additionalProperties": false,
+  "required": ["name", "Imágen", "lists"]
+}

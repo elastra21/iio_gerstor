@@ -1,0 +1,246 @@
+{
+  "home": {
+    "slider": [
+      {
+        "title": "Investigaciones Oceanológicas",
+        "description": " consectetur adipiscing elit. In imperdiet purus tortor, nec bibendum turpis interdum sed. Donec accumsan porttitor leo eget scelerisque. Vestibulum vulputate dolor ut leo interdum, quis sagittis leo dapibus. Integer tempus mauris metus, ut rhoncus quam tincidunt ut. Etiam eu arcu eros. Pellentesque porta vel mauris ut imperdiet. ",
+        "background": "https://images.freeimages.com/images/large-previews/947/sea-turtle-1372628.jpg"
+      },
+      {
+        "title": "Universidad Autonóma",
+        "description": "Sed sit amet erat fermentum, semper sapien et, iaculis ex. Fusce faucibus tortor et porttitor finibus. Proin blandit purus a metus suscipit facilisis. Vivamus tempor nibh id risus faucibus, ac posuere eros eleifend. Fusce ut mauris lorem. Vivamus dictum nisl magna, vitae vehicula enim vehicula sed. ",
+        "background": "https://images.freeimages.com/images/large-previews/fda/diver-1409937.jpg"
+      },
+      {
+        "title": "Media Ambiente",
+        "description": "Mauris vel dolor viverra, sagittis dolor vitae, venenatis ante. Morbi pulvinar dolor sem, varius scelerisque ex tristique eu. Fusce luctus sed ex et fermentum. Phasellus at fringilla quam. Aenean aliquet, justo a commodo tincidunt, leo nisl eleifend diam, eu facilisis orci purus quis dolor.",
+        "background": "https://images.freeimages.com/images/large-previews/6b0/barracuda-1362522.jpg"
+      }
+    ],
+    "banner": {
+      "starts": "9/9/2021, 8:51:10 AM",
+      "ends": "12/14/2021, 6:21:10 PM",
+      "icon": "mdi-account-check",
+      "title": "Le Banner",
+      "description": "información del banner, bla bla bla, "
+    },
+    "news": [
+      {
+        "image": "https://images.unsplash.com/photo-1580894732930-0babd100d356?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80",
+        "title": "NOTICIA #1",
+        "description": "",
+        "link": ""
+      },
+      {
+        "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.elvigia.net%2Fu%2Ffotografias%2Ffotosnoticias%2F2018%2F1%2F15%2F354453.jpg&f=1&nofb=1",
+        "title": "NOTICIA #2",
+        "description": "",
+        "link": ""
+      },
+      {
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.elimparcial.com%2F__export%2F1554467484196%2Fsites%2Felimparcial%2Fimg%2F2018%2F10%2F05%2F1924875-N.JPG_388226474.jpg&f=1&nofb=1",
+        "title": "NOTICIA #3",
+        "description": "",
+        "link": ""
+      }
+    ],
+    "announcement": {
+      "starts": "9/9/2021, 8:51:10 AM",
+      "ends": "9/14/2021, 6:21:10 PM",
+      "image": ""
+    }
+  },
+  "about": {
+    "social-media": {
+      "facebook": "https://www.facebook.com/IIO.UABC",
+      "instagram": "https://www.instagram.com/iio_uabc/"
+    },
+    "location": {
+      "address": "Carretera Ensenada-Tijuana No. 3917, Fracc. Playitas, Ensenada, Baja California, C.P. 22860"
+    },
+    "personal": [
+      {
+        "image": "",
+        "name": "Dr. Luis Walter",
+        "lastName": "Daesslé Heuser",
+        "tasks": [],
+        "position": "DIRECTOR PROVISIONAL",
+        "email": "walter@uabc.edu.mx",
+        "webPage": "",
+        "phone": "(646) 152 8222",
+        "ext": "64700"
+      },
+      {
+        "image": "",
+        "name": "Dr. Leopoldo G.",
+        "lastName": "Mendoza Espinosa",
+        "tasks": [],
+        "position": "SUBDIRECTOR",
+        "email": "lmendoza@uabc.edu.mx",
+        "webPage": "",
+        "phone": "(646) 152 8222",
+        "ext": "64702"
+      },
+      {
+        "image": "",
+        "name": "C.P. Clara Hilda",
+        "lastName": "Verdugo Meza",
+        "tasks": [],
+        "position": "ADMINISTRADORA",
+        "email": "clara@uabc.edu.mx",
+        "webPage": "",
+        "phone": "(646) 152 8222",
+        "ext": "64704"
+      },
+      {
+        "image": "",
+        "name": "Dra. Cira Gabriela",
+        "lastName": "Montaño Moctezuma",
+        "tasks": [],
+        "position": "COORDINADOR POSGRADO E INVESTIGACIÓN",
+        "email": "gmontano@uabc.edu.mx",
+        "webPage": "",
+        "phone": "(646) 152 8222",
+        "ext": "64754"
+      },
+      {
+        "image": "",
+        "name": "Lic. Suemy",
+        "lastName": "Franco Orlayneta",
+        "tasks": [],
+        "position": "REVISTA CIENCIAS MARINAS",
+        "email": "suemy@uabc.edu.mx",
+        "webPage": "",
+        "phone": "(646) 152 8222",
+        "ext": "64730"
+      },
+      {
+        "image": "",
+        "name": "L.D. Luis Gerardo",
+        "lastName": "Ybañez Gómez",
+        "tasks": [],
+        "position": "REVISTA CIENCIAS MARINAS",
+        "email": "gerardo.ybanez@uabc.edu.mx",
+        "webPage": "",
+        "phone": "(646) 152 8222",
+        "ext": "64728"
+      },
+      {
+        "image": "",
+        "name": "L.C.C. Eduardo",
+        "lastName": "Morales Estrada",
+        "tasks": [],
+        "position": "CENTRO DE CÓMPUTO",
+        "email": "emorales@uabc.edu.mx",
+        "webPage": "",
+        "phone": "(646) 152 8222",
+        "ext": "64709"
+      },
+      {
+        "image": "",
+        "name": "Hugo ",
+        "lastName": "Hernández Álvarez",
+        "tasks": [],
+        "position": "ENCARGADO DE ALMACÉN",
+        "email": "hugo.hernandez.alvarez@uabc.edu.mx",
+        "webPage": "",
+        "phone": "(646) 152 8222",
+        "ext": "64725"
+      },
+      {
+        "image": "",
+        "name": "Cristina",
+        "lastName": "Medina Torres",
+        "tasks": [],
+        "position": "SECRETARIA DE LA DIRECCIÓN",
+        "email": "dire_iio@uabc.edu.mx",
+        "webPage": "",
+        "phone": "(646) 152 8222",
+        "ext": "64701"
+      },
+      {
+        "image": "",
+        "name": "Yolanda",
+        "lastName": "Navarrete Gutiérrez",
+        "tasks": [],
+        "position": "SECRETARIA DE LA SUBDIRECCIÓN",
+        "email": "yolynavarrete@uabc.edu.mx",
+        "webPage": "",
+        "phone": "(646) 152 8222",
+        "ext": "64703"
+      },
+      {
+        "image": "",
+        "name": "Cynthia",
+        "lastName": "Soto Silva",
+        "tasks": [],
+        "position": "SECRETARIA DE LA ADMINISTRACIÓN",
+        "email": "soto.cynthia@uabc.edu.mx",
+        "webPage": "",
+        "phone": "(646) 152 8222",
+        "ext": "64705"
+      },
+      {
+        "image": "",
+        "name": "Lic. Miriam",
+        "lastName": "Enriquez Jácome",
+        "tasks": [],
+        "position": "REVISTA CIENCIAS MARINAS",
+        "email": "mjacome@uabc.edu.mx",
+        "webPage": "",
+        "phone": "(646) 152 8222",
+        "ext": "64727"
+      },
+      {
+        "image": "",
+        "name": "M.C. Melba",
+        "lastName": "de Jesús Huerta",
+        "tasks": [],
+        "position": "COORDINADORA DE EDITORIAL Y DIFUSIÓN",
+        "email": "mdejesus@uabc.edu.mx",
+        "webPage": "",
+        "phone": "(646) 152 8222",
+        "ext": "64759"
+      },
+      {
+        "image": "",
+        "name": "M.C. Claudia Adriana",
+        "lastName": "Michel Villalobos",
+        "tasks": [],
+        "position": "REVISTA CIENCIAS MARINAS",
+        "email": "michel.claudia@uabc.edu.mx",
+        "webPage": "",
+        "phone": "(646) 152 8222",
+        "ext": "64729"
+      },
+      {
+        "image": "",
+        "name": "Irak José Luis",
+        "lastName": "Marín García",
+        "tasks": [],
+        "position": "ENCARGADO DE ALMACÉN",
+        "email": "irak.marin@uabc.edu.mx",
+        "webPage": "",
+        "phone": "(646) 152 8222",
+        "ext": "64725"
+      },
+      {
+        "image": "",
+        "name": "Claudia Edith",
+        "lastName": "Atondo de Loera",
+        "tasks": [],
+        "position": "SECRETARIA DE LA ADMINISTRACIÓN",
+        "email": "atondo.claudia@uabc.edu.mx",
+        "webPage": "",
+        "phone": "(646) 152 8222",
+        "ext": "64706"
+      }
+    ],
+    "retired": []
+  },
+  "doctorate": {
+    "calendarLink": "http://www.uabc.mx/Calendario-de-Actividades-2021-2-2022-1.pdf"
+  },
+
+  "transparency": {}
+}

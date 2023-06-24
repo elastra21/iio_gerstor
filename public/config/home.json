@@ -1,0 +1,2256 @@
+{
+  "home": {
+    "slider": [
+      {
+        "title": "",
+        "description": "<h1 class=\"white--text mobile-h3 carousel-title\" > Instituto de Investigaciones Oceanológicas</h1> <br>",
+        "image": "iio_slider2.jpeg",
+        "link": "{\"route\":\"/nosotros\"}"
+      },
+      {
+        "title": "Acuacultura",
+        "description": "Desarrollo de soluciones y biotecnias de cultivo desde una perspectiva integral y sostenible que considera el uso de especies con interés comercial, en veda o en peligro de extinción.",
+        "image": "acuacultura.jpeg",
+        "link": "{\"route\":\"/investigacion/Acuacultura\"}"
+      },
+      {
+        "title": "Oceanografía Física",
+        "description": "Estudios de dispersión de contaminantes, de la variabilidad morfológica de las costas, cambios en patrones hidrodinámicos, la utilización de energías renovables marinas y los efectos del cambio climático.",
+        "image": "oceanografia.jpeg",
+        "link": "{\"route\":\"/investigacion/oceanografia-fisica\"}"
+      },
+      {
+        "title": "Ciencias Ambientales y del Agua",
+        "description": "Investigación interdisciplinaria sobre los factores que intervienen en el deterioro del medio, tierra-agua-aire, así como en los procesos que ayuden a la remediación de los impactos sobre él.",
+        "image": "ambientales.jpeg",
+        "link": "{\"route\":\"/investigacion/ciencias-ambientales-y-del-agua\"}"
+      },
+      {
+        "title": "Ecología Marina Integrativa",
+        "description": "Estudio de los organismos y recursos biológicos marinos, considerando sus distintos niveles funcionales de organización: molecular- fisiológico/metabólico-organismo-comunidad-ecosistema.",
+        "image": "ecologia.jpeg",
+        "link": "{\"route\":\"/investigacion/ecologia-marina-integrativa\"}"
+      },
+      {
+        "title": "Biogeoquímica Marina y Cambio Global",
+        "description": "Investigación de los procesos involucrados en los ciclos biogeoquímicos de elementos como el C, N, Si, Fe y Mn, así como de elementos traza, desde cuencas marinas hasta la zona costera.",
+        "image": "bgqm.jpeg",
+        "link": "{\"route\":\"/investigacion/biogeoquimica-marina-y-cambio-global\"}"
+      },
+      {
+        "title": "Paleoceanografía",
+        "description": "Investigación interdisciplinaria sobre paleoceanografía y paleoclimatología a través del uso de aplicaciones geoquímicas de isótopos estables y metales traza.",
+        "image": "diver.jpeg",
+        "link": "{\"route\":\"/investigacion/laboratorio-de-paleoceanografia\"}"
+      },
+      {
+        "title": "Plan de regreso a clases presenciales 2022-1",
+        "description": "",
+        "link": "https://iio.ens.uabc.mx/archivos/protocolo/Protocolo%20Regreso%20Clases%20UABC2022-1%20Actualizado.docx",
+        "image": "plan_de_regreso_a_clases_presenciales_2022-1.jpg"
+      }
+    ],
+    "banner": {
+      "title": "Plan de regreso a clases presenciales 2022-1 en: https://iio.ens.uabc.mx/archivos/protocolo/Protocolo%20Regreso%20Clases%20UABC2022-1%20Actualizado.docx",
+      "description": "",
+      "icon": "mdi-alert",
+      "starts": "Thu Jan 27 2022 12:15:01 GMT-0800 (Pacific Standard Time)",
+      "ends": "Mon Jan 31 2022 12:17:41 GMT-0800 (Pacific Standard Time)"
+    },
+    "noticias": [
+      {
+        "content": "El 15 de diciembre se llevará a cabo el coloquio interno sobre los avancesde las actividades de académicos y académicas del IIO. El objetivo en esta primera emisión de IIO-2021, denominada ¨Los Avances¨ es que todos nos conozcamos e interactuemos, especialmente con los compañeros de reciente ingreso. Tras una auto presentación en unos 3 minutos, 2 minutos se dedicarán a que cada académico platique sobre sus logros académicos más importantes del año.",
+        "date": "2021/12/4",
+        "tag": "",
+        "image": "iio.jpeg",
+        "title": "Se llevará a cabo IIO-2021 Los Avances"
+      },
+      {
+        "content": "Un componente fundacional de la revista CM, Chris ayudó a dar forma al formato bilingüe por el cual se conoce a CM, lo cual hizo posible que una audiencia más amplia tuviera acceso a hallazgos científicos que de otra manera estarían limitados a instituciones monolingües. Ella vio la revista evolucionar por 26 años, y durante ese tiempo indudablemente fortaleció su estructura y tocó muchos corazones. Por encima de todo, siempre recordaremos a Chris por su integridad y su personalidad bella, amable y altruista. Fuimos muy afortunados de haberla tenido con nosotros y por siempre la tendremos en nuestros corazones con cariño.",
+        "date": "2021/12/7",
+        "tag": "",
+        "image": "image0-min.jpeg",
+        "title": "Hoy honramos a una de nuestras más queridas colegas, Christine Harris."
+      },
+      {
+        "content": "La UABC establece un programa destinado a estimular el desempeño del personal académico que ejerza la docencia.<br><br> <a href='http://gaceta.uabc.mx/gacetasimpresas/gaceta-476-edicion-especial' target='_blank'>http://gaceta.uabc.mx/<wbr>gacetasimpresas/gaceta-476-<wbr>edicion-especial</a> ",
+        "date": "2021/12/13",
+        "tag": "",
+        "image": "iio.jpeg",
+        "title": "La convocatoria PREDEPA 2022-2023 ya está disponible"
+      },
+      {
+        "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/cORy8W4hGsc\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "date": "2021/12/15",
+        "tag": "",
+        "image": "navidad.jpeg",
+        "title": "La Navidad LLega al IIO"
+      },
+      {
+        "content": "Despedimos a nuestro colega y amigo desde 1989, Dr. Albino Muñoz Barbosa, quien se jubila y firma su último pase de lista en nuestra Institución ¡Gracias por todo Albino y excelentes tiempos por vivir!",
+        "date": "2022/1/4",
+        "tag": "",
+        "image": "ultima_firma_albino.jpeg",
+        "title": "Dr. Albino Muñoz Barbosa, el IIO lo va a extrañar"
+      },
+      {
+        "content": "Prohibido Rendirse, es un tradicional evento para recaudar fondos destinados al programa de Becas “Prohibido Rendirse” de Fundación UABC. Recurso que es utilizado para apoyar a estudiantes universitarios de bajos recursos económicos con alto aprovechamiento académico. ¡Participa! <br><br><a href='https://fundacionuabc.org/prohibido-rendirse-2022/' target='_blank'>https://fundacionuabc.org/prohibido-rendirse-2022/</a>",
+        "date": "2022/1/4",
+        "tag": "",
+        "image": "prohibidoRendirse.jpeg",
+        "title": "¡Prohibido Rendirse!"
+      },
+      {
+        "content": "Prohibido Rendirse, es un tradicional evento para recaudar fondos destinados al programa de Becas “Prohibido Rendirse” de Fundación UABC. Recurso que es utilizado para apoyar a estudiantes universitarios de bajos recursos económicos con alto aprovechamiento académico. ¡Participa! <br><br><a href='https://fundacionuabc.org/prohibido-rendirse-2022/' target='_blank'>https://fundacionuabc.org/prohibido-rendirse-2022/</a>",
+        "date": "2022-02-11T20:28:47.023Z",
+        "tag": "",
+        "image": "prohibidoRendirse.jpeg",
+        "title": "¡Prohibido Rendirse!"
+      },
+      {
+        "title": "Reunión del director del IIO con la Secretaria de Pesca y Acuacultura del B.C.",
+        "content": "Durante visita a la Secretaría de Pesca y Acuacultura del Estado de Baja California, la Secretaria Alma Rosa García Juárez y el Dr Walter Daesslé, conversaron sobre las necesidades y demandas del sector acuícola y pesquero, así como de las oportunidades de incidencia por parte de la UABC en los diversos temas relacionados con la reproducción de especies, repoblamiento, unidad de cuarentena y sanidad acuícola, entre otros.  Próximamente se invitará a la Secretaria al Instituto para continuar con la construcción de acuerdos en beneficio de la sociedad.",
+        "tag": null,
+        "date": "2022/1/26",
+        "image": "reunion_del_director_del_iio_con_la_secretaria_de_pesca_y_acuacultura_del_b.c..jpg"
+      }
+    ],
+    "gallery": [
+      { "title": "", "url": "estudiante.jpeg" },
+      { "title": "", "url": "muelle.jpeg" },
+      { "title": "", "url": "surf.jpeg" },
+      { "title": "", "url": "poste.jpeg" },
+      { "title": "", "url": "ensenada.jpeg" },
+      { "title": "", "url": "estacionamiento.jpeg" },
+      { "title": "", "url": "puerto.jpeg" }
+    ],
+    "announcement": {
+      "link": "http://iio.ens.uabc.mx/archivos/protocolo/Protocolo_Regreso_Clases_UABC2022-1_Actualizado.pdf",
+      "starts": "Thu Jan 27 2022 12:25:08 GMT-0800 (Pacific Standard Time)",
+      "ends": "Mon Jan 31 2022 12:21:42 GMT-0800 (Pacific Standard Time)",
+      "image": "announcement.jpg"
+    }
+  },
+  "about": {
+    "information": {
+      "institutionalVideo":"https://www.youtube.com/embed/zEukNglUXU8",
+      "retiredText": "A lo largo de su existencia, el IIO ha estado conformado por un gran número de investigadoras, investigadores y técnicos académicos, gracias a cuyo esfuerzo y dedicación el instituto es lo que es en la actualidad. Esta sección es para recordarlos, con la finalidad de que su legado perdure para siempre.",
+      "facebook": "https://www.facebook.com/IIO.UABC",
+      "instagram": "https://www.instagram.com/iio_uabc/",
+      "linkedin": "https://www.linkedin.com/company/instituto-de-investigaciones-oceanol%C3%B3gicas",
+      "calendarLink": "http://iide.ens.uabc.mx/documentos/calendarios/calendario_de_actividades_2021-2_2022-1_UABC.pdf",
+      "history": "La Universidad Autónoma de Baja California (UABC) fundó en 1960 al Instituto de Investigaciones Oceanológicas (IIO) para el estudio de las Ciencias del Mar. El IIO, se encuentra ubicado en el Campus Ensenada de la UABC en el Estado de Baja California, México. Con sus 58 académicos, el IIO realiza investigación básica-aplicada, así como investigación asociada al desarrollo tecnológico, forma recursos humanos de licenciatura y posgrado en sus diferentes áreas de investigación y edita desde 1974 la revista científica internacional Ciencias Marinas. El IIO fomenta los enlaces entre las Ciencias del Mar y las necesidades del desarrollo nacional mediante la investigación y la asesoría científica y tecnológica a los diversos sectores de la sociedad. Originalmente llamado Instituto de Oceanografía e Ictiología (nombre propuesto para su creación por la Ley Orgánica de la UABC), adoptó su nombre actual de Instituto de Investigaciones Oceanológicas, a partir de 1966. El 28 de febrero de 1957 se decretó la constitución y fines de la Ley Orgánica de la Universidad Autónoma de Baja California, iniciativa impulsada por el Dr. Santos Silva Cota, quien fungió como primer Rector. En esta fecha se crean simultáneamente dos dependencias en la ciudad de Ensenada, bajo una concepción de estrecha interrelación y que fueron el Instituto de Oceanografía e Ictiología (posteriormente Instituto de Investigaciones Oceanológicas) y la Escuela de Ciencias Marítimas (posteriormente Escuela Superior de Ciencias Marinas y Facultad de Ciencias Marinas), que iniciaron sus actividades hasta el año de 1961. La intención de la creación de estas dos unidades académicas de la UBC tuvo como fundamento el concepto de la investigación estrechamente asociada a la función docente en las ciencias del mar, con el objeto de promover una preparación integral del estudiantado y que, además, permitiera una retroalimentación académica de los investigadores dedicados a esta ciencia. Durante el período 1961-1968 se implementaron algunas acciones asociadas a la idea original de creación del Instituto - Escuela a través de la investigación. Durante la década de 1960, el IIO tuvo como función principal realizar estudios acerca del conocimiento biológico y su correspondiente inventario de los recursos bióticos que integran las comunidades marinas regionales. En la década de 1970, se llevaron a cabo actividades en la investigación de Oceanografía Física, Química, Geológica y Biológica. A partir de la década de 1980 su actividad estuvo orientada al logro de tres objetivos principales: i) Realizar investigación básica y aplicada en las ciencias del mar en beneficio de la comunidad local, regional y nacional; ii) Formar investigadores de carrera y especialistas en el medio marino; y iii) Divulgar el resultado de las investigaciones y trabajos que produzcan. En 1985 se creó el primer programa de posgrado (maestría) en Oceanografía Biológica en el país, que fue a través de la colaboración entre la Facultad de Ciencias Marinas y el IIO. Este programa de posgrado posteriormente se transformaría en la maestría y doctorado en Oceanografía Costera. En los últimos 22 años, el IIO ha visto crecer sus instalaciones físicas e infraestructura analítica con la construcción de un nuevo edificio con laboratorios y oficinas para investigadores(as) y estudiantes de posgrado, un ala nueva del edificio principal, dos salones de clase de posgrado y cubículos de alumnos de posgrado, entre otros, y la oferta de un doctorado en Medio Ambiente y Desarrollo, en colaboración con la Facultad de Ciencias y de Ciencias Marinas."
+    },
+    "location": {
+      "address": "Carretera Ensenada-Tijuana No. 3917, Fracc. Playitas, Ensenada, Baja California, C.P. 22860"
+    },
+    "personal": [
+      {
+        "id": 0,
+        "name": "Dr. Luis Walter",
+        "lastName": "Daesslé Heuser",
+        "position": "DIRECTOR",
+        "email": "walter@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64700",
+        "tag": "Directivos y Asistentes",
+        "image": "daessle_heuser_luis_walter.jpg",
+        "workStation": "A-202",
+        "orcid": " https://orcid.org/0000-0002-5608-9396",
+        "googleAcademic": "https://scholar.google.com/citations?user=Yg22LKkAAAAJ&hl=es",
+        "researchgate": "https://www.researchgate.net/profile/Luis-Daessle",
+        "nombramiento": "Investigador Titular C",
+        "principal": "Geociencias Ambientales",
+        "sni": "2"
+      },
+      {
+        "id": 1,
+        "sni": "",
+        "image": "medina_torres_cristina.jpg",
+        "name": "Cristina",
+        "lastName": "Medina Torres",
+        "tag": "Directivos y Asistentes",
+        "position": "AUX. ADMINISTRATIVO",
+        "email": "dire_iio@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64701"
+      },
+      {
+        "id": 2,
+        "sni": "1",
+        "image": "mendoza_espinosa_leopoldo_g..jpg",
+        "name": "Dr. Leopoldo G.",
+        "lastName": "Mendoza Espinosa",
+        "tag": "Directivos y Asistentes",
+        "position": "SUBDIRECTOR",
+        "nombramiento": "Investigador Titular C",
+        "principal": "Tratamiento y reuso del agua",
+        "workStation": "A-201",
+        "orcid": "https://orcid.org/0000-0002-7795-3665",
+        "googleAcademic": "https://scholar.google.com/citations?user=f_79IGcAAAAJ&hl=es",
+        "researchgate": "https://www.researchgate.net/profile/Leopoldo-Mendoza-Espinosa",
+        "email": "lmendoza@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64702"
+      },
+      {
+        "id": 3,
+        "sni": "",
+        "image": "navarrete_gutierrez_yolanda.jpg",
+        "name": "Yolanda",
+        "lastName": "Navarrete Gutiérrez",
+        "tag": "Directivos y Asistentes",
+        "position": "AUX. ADMINISTRATIVO",
+        "email": "yolynavarrete@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64703"
+      },
+      {
+        "id": 4,
+        "sni": "",
+        "image": "verdugo_meza_c.p._clara_hilda.jpg",
+        "name": "C.P. Clara Hilda",
+        "lastName": "Verdugo Meza",
+        "tag": "Directivos y Asistentes",
+        "position": "ADMINISTRADORA",
+        "email": "clara@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64704"
+      },
+      {
+        "name": "L. C. Claudia Edith",
+        "lastName": "Atondo de Loera",
+        "position": "AUX. ADMINISTRATIVO",
+        "email": "atondo.claudia@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64706",
+        "tag": "Directivos y Asistentes",
+        "id": 5,
+        "image": "atondo_de_loera_claudia_edith.jpg"
+      },
+      {
+        "id": 6,
+        "sni": "1",
+        "image": "montano_moctezuma_cira_gabriela.jpg",
+        "name": "Dra. Cira Gabriela",
+        "lastName": "Montaño Moctezuma",
+        "tag": "Coordinadores",
+        "position": "INVESTIGACIÓN Y POSGRADO",
+        "nombramiento": "Investigador Titular B",
+        "principal": "Ecología Marina y Pesquerías",
+        "orcid": "https://orcid.org/0000-0002-6740-9674",
+        "googleAcademic": "https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=Monta%C3%B1o-Moctezuma&oq=M",
+        "researchgate": "https://www.researchgate.net/profile/Gabriela-Montano-Moctezuma",
+        "email": "gmontano@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64754"
+      },
+      {
+        "id": 7,
+        "sni": "",
+        "image": "de_jesus_huerta_m.c._melba.jpg",
+        "name": "M.C. Melba",
+        "lastName": "De Jesús Huerta",
+        "tag": "Coordinadores",
+        "position": "DIFUSIÓN Y EDITORIAL",
+        "email": "mdejesus@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64759"
+      },
+      {
+        "id": 8,
+        "sni": "",
+        "image": "guzman_calderon_oc._jose_manuel.jpg",
+        "name": "Oc. José Manuel",
+        "lastName": "Guzmán Calderón",
+        "tag": "Coordinadores",
+        "position": "VINCULACIÓN",
+        "email": "jmguzman@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64743"
+      },
+      {
+        "id": 9,
+        "sni": "C",
+        "image": "lopez_galindo_laura_liliana.jpg",
+        "name": "Dra. Laura Liliana",
+        "lastName": "López Galindo",
+        "tag": "Jefes de área",
+        "position": "ACUACULTURA",
+        "email": "laura.lopez11@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64726"
+      },
+      {
+        "name": "Dra. Nancy",
+        "lastName": "Ramírez Álvarez",
+        "position": "CIENCIAS AMBIENTALES Y DEL AGUA",
+        "email": "nancy.ramirez@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64722",
+        "tag": "Jefes de área",
+        "id": 10,
+        "image": "ramirez_alvarez_nancy.jpg",
+        "workStation": "C-307",
+        "orcid": "https://orcid.org/0000-0002-5372-549X",
+        "googleAcademic": "https://scholar.google.com.mx/citations?user=2eLfInwAAAAJ&hl=es",
+        "researchgate": "https://www.researchgate.net/profile/Nancy-Ramirez-Alvarez",
+        "nombramiento": "Investigador Titular B",
+        "principal": "Contaminación Ambiental",
+        "sni": "1"
+      },
+      {
+        "id": 11,
+        "sni": "1",
+        "image": "garcia_nava_hector.jpg",
+        "name": "Dr. Hector",
+        "lastName": "García Nava",
+        "tag": "Jefes de área",
+        "position": "OCEANOGRAFIA FISICA",
+        "email": "hector.gnava@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64716"
+      },
+      {
+        "id": 12,
+        "sni": "1",
+        "image": "norzagaray_lopez_carlos_orion.jpg",
+        "name": "Dr. Carlos Orión",
+        "lastName": "Norzagaray López",
+        "tag": "Jefes de área",
+        "position": "BIOGEOQUIMICA MARINA Y CAMBIO GLOBAL",
+        "nombramiento": "Investigador Titular A",
+        "principal": "Sistema del CO2",
+        "workStation": "A-112",
+        "orcid": "https://orcid.org/0000-0002-9769-0030",
+        "researchgate": "https://www.researchgate.net/profile/Norzagaray-Lopez-Orion",
+        "email": "orion.norzagaray@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64749"
+      },
+      {
+        "id": 13,
+        "sni": "1",
+        "image": "sandoval_gil_jose_miguel.jpg",
+        "name": "Dr. José Miguel",
+        "lastName": "Sandoval Gil",
+        "tag": "Jefes de área",
+        "position": "ECOLOGÍA MARINA INTEGRATIVA",
+        "nombramiento": "Investigador Tit C de TC",
+        "principal": "Botánica Marina",
+        "workStation": "A-204",
+        "orcid": "https://orcid.org/0000-0001-8973-0306",
+        "googleAcademic": "https://scholar.google.com/citations?hl=es&user=BX8b6I8AAAAJ&view_op=list_works&sortby=pubdate",
+        "researchgate": "https://www.researchgate.net/profile/Jose-Miguel-Sandoval-Gil",
+        "email": "jose.miguel.sandoval.gil@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64753"
+      },
+      {
+        "id": 14,
+        "sni": "1",
+        "image": "braga_de_souza_luiz_andre.jpg",
+        "name": "Dr. Luiz André",
+        "lastName": "Braga de Souza",
+        "tag": "Investigadores",
+        "position": "",
+        "nombramiento": "Investigador Titular B",
+        "principal": "Cultivo de camarón y biofloc",
+        "workStation": "B-211",
+        "orcid": "https://orcid.org/0000-0001-7579-4472",
+        "googleAcademic": "https://scholar.google.es/citations?user=oLtHJG8AAAAJ&hl=es",
+        "researchgate": "https://www.researchgate.net/profile/Andre-Braga-4",
+        "email": "andre.braga@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64770"
+      },
+      {
+        "id": 15,
+        "sni": "2",
+        "image": "cabello_pasini_alejandro.jpg",
+        "name": "Dr. Alejandro",
+        "lastName": "Cabello Pasini",
+        "tag": "Investigadores",
+        "position": "",
+        "email": "acabello@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64711"
+      },
+      {
+        "id": 16,
+        "sni": "2",
+        "image": "camacho_ibar_victor_froylan.jpg",
+        "name": "Dr. Victor Froylan",
+        "lastName": "Camacho Ibar",
+        "tag": "Investigadores",
+        "position": "",
+        "nombramiento": "Investigador Titular C",
+        "principal": "Biogeoquímica de nutrientes",
+        "workStation": "C-301",
+        "orcid": "https://orcid.org/0000-0002-3881-788X",
+        "googleAcademic": "https://scholar.google.com/citations?hl=en&user=C5nJj0AAAAJ",
+        "researchgate": "https://www.researchgate.net/profile/Alejandro-Cabello-Pasini",
+        "email": "vcamacho@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64751"
+      },
+      {
+        "id": 17,
+        "sni": "3",
+        "image": "carriquiry.jpg",
+        "name": "Dr. José Domingo",
+        "lastName": "Carriquiry Beltrán",
+        "tag": "Investigadores",
+        "position": "",
+        "nombramiento": "Investigador Titular C",
+        "principal": "Paleoceanografía",
+        "workStation": "A-123",
+        "orcid": "https://orcid.org/0000-0003-3193-1302",
+        "googleAcademic": "https://scholar.google.com.mx/citations?user=jWpTDd8AAAAJ&hl=es",
+        "researchgate": "https://www.researchgate.net/profile/Jose-Carriquiry",
+        "email": "carriquiry@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64737"
+      },
+      {
+        "id": 18,
+        "sni": "1",
+        "image": "castellanos_martinez_sheila.jpg",
+        "name": "Dra. Sheila",
+        "lastName": "Castellanos Martínez",
+        "tag": "Investigadores",
+        "position": "",
+        "nombramiento": "Investigador Titular B",
+        "principal": "Inmunopatología de org. marinos",
+        "workStation": "B-203",
+        "orcid": "https://orcid.org/0000-0001-6929-8245",
+        "googleAcademic": "https://scholar.google.com/citations?hl=es&user=OV0mIRUAAAAJ&viewop=listworks&sortby=pubdate",
+        "researchgate": "https://www.researchgate.net/profile/Sheila-Castellanos",
+        "email": "scastellanos44@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64763"
+      },
+      {
+        "id": 19,
+        "sni": "",
+        "image": "correa_sandoval_francisco.jpg",
+        "name": "Dr. Francisco",
+        "lastName": "Correa Sandoval",
+        "tag": "Investigadores",
+        "position": "",
+        "nombramiento": "Investigador Titular C",
+        "principal": "Biogeografia Molecular",
+        "workStation": "A-213",
+        "orcid": "https://orcid.org/0000-0002-4161-3060",
+        "googleAcademic": "https://scholar.google.com/citations?user=WRa17eMAAAAJ&hl=es",
+        "researchgate": "https://www.researchgate.net/profile/Francisco-Correa-S",
+        "email": "correa@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64707"
+      },
+      {
+        "id": 20,
+        "sni": "1",
+        "image": "del_rio_zaragoza_oscar_basilio.jpg",
+        "name": "Dr. Oscar Basilio",
+        "lastName": "Del Río Zaragoza",
+        "tag": "Investigadores",
+        "position": "",
+        "nombramiento": "Investigador Titular A",
+        "principal": "Fisiopatología Acuícola",
+        "workStation": "B-206",
+        "orcid": "https://orcid.org/0000-0002-8505-9911",
+        "googleAcademic": "https://scholar.google.es/citations?user=4NNY-bYAAAAJ&hl=es",
+        "researchgate": "https://www.researchgate.net/profile/Oscar-Zaragoza",
+        "email": "oscar.delrio@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64766"
+      },
+      {
+        "id": 21,
+        "sni": "2",
+        "image": "delgadillo_hinojosa_francisco.jpg",
+        "name": "Dr. Francisco",
+        "lastName": "Delgadillo Hinojosa",
+        "tag": "Investigadores",
+        "position": "",
+        "nombramiento": "Investigador Titular C",
+        "principal": "Biogeoquímica de metales traza",
+        "workStation": "A-110",
+        "orcid": "https://orcid.org/0000-0003-4856-2531",
+        "googleAcademic": "https://scholar.google.com.mx/citations?user=1osn7IEAAAAJ&hl=es&oi=ao",
+        "researchgate": "https://www.researchgate.net/profile/Francisco-Delgadillo-Hinojosa",
+        "email": "fdelgadillo@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64748"
+      },
+      {
+        "id": 22,
+        "sni": "1",
+        "image": "flores_vidal_xavier.jpg",
+        "name": "Dr. Xavier",
+        "lastName": "Flores Vidal",
+        "tag": "Investigadores",
+        "position": "",
+        "nombramiento": "Titular B",
+        "principal": "Oc. física y sensores remotos",
+        "workStation": "C-311",
+        "orcid": "https://orcid.org/0000-0002-5891-5145",
+        "googleAcademic": "https://scholar.google.com/citations?user=JjQXKxYAAAAJ&hl=en",
+        "researchgate": "https://www.researchgate.net/profile/Xavier-Flores-vidal",
+        "email": "xavier@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64720"
+      },
+      {
+        "id": 23,
+        "sni": "2",
+        "image": "garcia_esquivel_zaul.jpg",
+        "name": "Dr. Zaúl",
+        "lastName": "García Esquivel",
+        "tag": "Investigadores",
+        "position": "",
+        "nombramiento": "Titular C",
+        "principal": "Fisiol. y Cultivo de Moluscos",
+        "workStation": "B-209",
+        "orcid": "http://orcid.org/0000-0002-2629-7995",
+        "googleAcademic": "https://scholar.google.com/citations?user=ZllcCSMAAAAJ&hl=es&oi=ao",
+        "researchgate": "https://www.researchgate.net/profile/Zaul-Garcia-Esquivel",
+        "email": "sgarcia@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64769"
+      },
+      {
+        "name": "Dr. Héctor",
+        "lastName": "García Nava",
+        "position": "",
+        "email": "hector.gnava@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64716",
+        "tag": "Investigadores",
+        "id": 24,
+        "image": "garcia_nava_hector.jpg",
+        "workStation": "C-306",
+        "orcid": "https://orcid.org/0000-0002-8077-4676",
+        "googleAcademic": "https://scholar.google.com/citations?user=lH1YBXoAAAAJ&hl=es",
+        "researchgate": "https://www.researchgate.net/profile/Hector-Garcia-Nava",
+        "nombramiento": "Titular B",
+        "principal": "Oleaje e int. océano-atmósfera",
+        "sni": "1"
+      },
+      {
+        "name": "Dr. Napoleón",
+        "lastName": "Gudiño Elizondo",
+        "position": "",
+        "email": "ngudino@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64741",
+        "tag": "Investigadores",
+        "id": 25,
+        "image": "gudino_elizondo_napoleon.jpg",
+        "workStation": "C-309",
+        "orcid": "https://orcid.org/0000-0002-2867-9559",
+        "googleAcademic": "https://scholar.google.com/scholar?hl=es&assdt=0%2C5&authuser=1&q=napoleon+gudino+elizondo&oq=",
+        "researchgate": "https://www.researchgate.net/profile/Napoleon-Gudino-Elizondo",
+        "nombramiento": "Investigador Titular B",
+        "principal": "Cuencas costeras y UAV’s",
+        "sni": "1"
+      },
+      {
+        "name": "Dr. José Martín",
+        "lastName": "Hernández Ayón",
+        "position": "",
+        "email": "jmartin@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64733",
+        "tag": "Investigadores",
+        "id": 26,
+        "image": "hernandez_ayon_jose_martin.jpg",
+        "workStation": "A-214",
+        "orcid": "https://orcid.org/0000-0001-6869-6225",
+        "googleAcademic": "https://scholar.google.com/citations?user=TAHNTMQAAAAJ&hl=en",
+        "researchgate": "https://www.researchgate.net/profile/Jose-Hernandez-Ayon/research",
+        "nombramiento": "Titular C",
+        "principal": "Biogeoquímica del Carbono",
+        "sni": "2"
+      },
+      {
+        "name": "Dr. Miguel Ángel",
+        "lastName": "Huerta Díaz",
+        "position": "",
+        "email": "huertam@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64752",
+        "tag": "Investigadores",
+        "id": 27,
+        "image": "huerta_diaz_miguel_angel.jpg",
+        "workStation": "A-210",
+        "orcid": "https://orcid.org/0000-0001-5248-4340",
+        "googleAcademic": "https://scholar.google.es/citations?user=rf9l7mQAAAAJ&hl=es",
+        "researchgate": "https://www.researchgate.net/profile/Miguel-Huerta-Diaz",
+        "nombramiento": "Titular C",
+        "principal": "Geoquímica de metales traza",
+        "sni": "3"
+      },
+      {
+        "name": "Dra. Laura Liliana",
+        "lastName": "López Galindo",
+        "position": "",
+        "email": "laura.lopez11@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64726",
+        "tag": "Investigadores",
+        "id": 28,
+        "image": "lopez_galindo_laura_liliana.jpg",
+        "workStation": "B-210",
+        "orcid": "https://orcid.org/0000-0001-5300-0846",
+        "googleAcademic": "https://scholar.google.es/citations?hl=es&user=HHTjzkAAAAJ",
+        "researchgate": "https://www.researchgate.net/profile/Laura-Liliana-Lopez-Galindo",
+        "nombramiento": "Investigador Titular A",
+        "principal": "Biotecnología Marina",
+        "sni": "C"
+      },
+      {
+        "id": 29,
+        "sni": "2",
+        "image": "macias_zamora_jose_vinicio.jpg",
+        "name": "Dr. José Vinicio",
+        "lastName": "Macías Zamora",
+        "tag": "Investigadores",
+        "position": "",
+        "nombramiento": "Investigador Titular C",
+        "principal": "Química Ambiental",
+        "workStation": "",
+        "orcid": "https://orcid.org/0000-0002-8784-7858",
+        "googleAcademic": "https://www.researchgate.net/lab/Jose-Vinicio-Macias-Zamora-Lab",
+        "researchgate": "https://scholar.google.com.mx/citations?user=6pMeNF8AAAAJ&hl=en",
+        "email": "vmacias@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64724"
+      },
+      {
+        "name": "Dr. Luis",
+        "lastName": "Malpica Cruz",
+        "position": "",
+        "email": "lmalpica@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64746",
+        "tag": "Investigadores",
+        "id": 30,
+        "image": "malpica_cruz_luis.jpg",
+        "workStation": "C-303",
+        "orcid": "https://orcid.org/0000-0003-0750-1652",
+        "googleAcademic": "https://scholar.google.com/citations?user=sCtri9sAAAAJ&hl=en",
+        "researchgate": "https://www.researchgate.net/profile/Luis-Malpica-Cruz",
+        "nombramiento": "Investigador Titular B",
+        "principal": "Sistemas socioecológicos",
+        "sni": "C"
+      },
+      {
+        "name": "Dr. Adán",
+        "lastName": "Mejía Trejo",
+        "position": "",
+        "email": "amejia@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64714",
+        "tag": "Investigadores",
+        "id": 32,
+        "image": "mejia_trejo_adan.jpg",
+        "workStation": "C-3404",
+        "orcid": "https://orcid.org/0000-0001-9782-3828",
+        "googleAcademic": "https://scholar.google.es/citations?hl=es&user=Sc9BuuwAAAAJ&view_op=list_works&sortby=pubdate",
+        "researchgate": "https://www.researchgate.net/profile/Adan-Mejia-Trejo",
+        "nombramiento": "Investigador Titular C",
+        "principal": "Dinámica Costera",
+        "sni": "1"
+      },
+      {
+        "name": "Dr. Luis Felipe",
+        "lastName": "Navarro Olache",
+        "position": "",
+        "email": "lufena@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64715",
+        "tag": "Investigadores",
+        "id": 33,
+        "image": "navarro_olache_luis_felipe.jpg",
+        "workStation": "C-305",
+        "orcid": "https://orcid.org/0000-0002-2051-6560",
+        "googleAcademic": "https://scholar.google.com/citations?view_op=search_authors&mauthors=luis+felipe+navarro+Olache&hl=en&oi=ao",
+        "researchgate": "https://www.researchgate.net/profile/Luis-Navarro-Olache",
+        "nombramiento": "Investigador Titular C",
+        "principal": "Dinámica de Fluidos",
+        "sni": "1"
+      },
+      {
+        "name": "Dra. Tatiana Nenetzen",
+        "lastName": "Olivares Bañuelos",
+        "position": "",
+        "email": "tatiana.olivares@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64718",
+        "tag": "Investigadores",
+        "id": 34,
+        "image": "olivares_banuelos_tatiana_nenetzen.jpg",
+        "workStation": "C-308",
+        "orcid": "https://orcid.org/0000-0002-2989-1359",
+        "googleAcademic": "https://scholar.google.com/citations?user=YgeNsg4AAAAJ&hl=es&authuser=1",
+        "researchgate": "https://www.researchgate.net/profile/Tatiana-Olivares-Banuelos",
+        "nombramiento": "Investigador Titular B",
+        "principal": "Invertebrados marinos",
+        "sni": "1"
+      },
+      {
+        "name": "Dra. Nancy",
+        "lastName": "Ramírez Álvarez",
+        "position": "",
+        "email": "nancy.ramirez@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64722",
+        "tag": "Investigadores",
+        "id": 35,
+        "image": "ramirez_alvarez_nancy.jpg",
+        "workStation": "C-307",
+        "orcid": "https://orcid.org/0000-0002-5372-549X",
+        "googleAcademic": "https://scholar.google.com.mx/citations?user=2eLfInwAAAAJ&hl=es",
+        "researchgate": "https://www.researchgate.net/profile/Nancy-Ramirez-Alvarez",
+        "nombramiento": "Investigador Titular B",
+        "principal": "Contaminación Ambiental",
+        "sni": "1"
+      },
+      {
+        "id": 36,
+        "sni": "1",
+        "image": "ruiz_de_alegria_arzaburu_amaia.jpg",
+        "name": "Dra. Amaia Ruiz",
+        "lastName": "De Alegría Arzaburu",
+        "tag": "Investigadores",
+        "position": "",
+        "nombramiento": "Investigadora Titular C",
+        "principal": "Morfodinámica costera",
+        "workStation": "C-302",
+        "orcid": "https://orcid.org/0000-0002-3872-1757",
+        "googleAcademic": "https://scholar.google.com/citations?user=wdg1ZV4AAAAJ&hl=es&oi=ao",
+        "researchgate": "https://www.researchgate.net/profile/Amaia-Ruiz-De-Alegria-Arzaburu",
+        "email": "amaia@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64712"
+      },
+      {
+        "name": "Dr. Guillermo",
+        "lastName": "Samperio Ramos",
+        "position": "",
+        "email": "guillermo.samperio@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64739",
+        "tag": "Investigadores",
+        "id": 37,
+        "image": "samperio_ramos_guillermo.jpg",
+        "workStation": "A-108",
+        "orcid": "https://orcid.org/0000-0002-5814-5662",
+        "googleAcademic": "https://scholar.google.com/citations?view_op=list_works&hl=es&hl=es&user=YrPFW4wAAAAJ",
+        "nombramiento": "Investigador Tit B de TC",
+        "principal": "Biogeoquímica de nutrientes",
+        "sni": "C"
+      },
+      {
+        "name": "Dra. Hortencia",
+        "lastName": "Silva Jiménez",
+        "position": "",
+        "email": "silvah@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64717",
+        "tag": "Investigadores",
+        "id": 38,
+        "image": "silva_jimenez_hortencia.jpg",
+        "workStation": "C-312",
+        "orcid": "https://orcid.org/0000-0002-0091-7738",
+        "googleAcademic": "https://scholar.google.es/citations?user=wG0r_vEAAAAJ&hl=es&oi=ao",
+        "researchgate": "https://www.researchgate.net/profile/Hortencia-Silva-Jimenez",
+        "nombramiento": "Investigador Titular B",
+        "principal": "Microbiología ambiental",
+        "sni": "1"
+      },
+      {
+        "name": "Dr. Jacob Alberto",
+        "lastName": "Valdivieso Ojeda",
+        "position": "",
+        "email": "jvaldivieso@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64723",
+        "tag": "Investigadores",
+        "id": 39,
+        "image": "valdivieso_ojeda_jacob_alberto.jpg",
+        "workStation": "C-313",
+        "orcid": "https://orcid.org/0000-0002-1170-720X",
+        "googleAcademic": "https://scholar.google.es/citations?user=VY31NckAAAAJ&hl=es&authuser=1",
+        "researchgate": "https://www.researchgate.net/profile/Jacob-Valdivieso-Ojeda",
+        "nombramiento": "Investigador Titular A",
+        "principal": "Biogeoquímica de metales"
+      },
+      {
+        "name": "Dra. María Teresa",
+        "lastName": "Viana Castrillón",
+        "position": "",
+        "email": "viana@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64768",
+        "tag": "Investigadores",
+        "id": 40,
+        "image": "viana_castrillon_ma._teresa.jpg",
+        "workStation": "B-208",
+        "orcid": "https://orcid.org/0000-0002-3074-767X",
+        "googleAcademic": "https://scholar.google.es/citations?hl=es&user=DcJRySAAAAAJ&view_op=list_works&sortby=pubdate",
+        "researchgate": "https://www.researchgate.net/profile/Maria-Teresa-Viana",
+        "nombramiento": "Investigadora Tit C",
+        "principal": "Nutrición, salud y estrés",
+        "sni": "3"
+      },
+      {
+        "name": "Dra. Mariana",
+        "lastName": "Villada Canela",
+        "position": "",
+        "email": "mvilladac@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64708",
+        "tag": "Investigadores",
+        "id": 41,
+        "image": "villada_canela_mariana.jpg",
+        "workStation": "A-212",
+        "orcid": "https://orcid.org/0000-0003-1282-3250",
+        "googleAcademic": "https://scholar.google.com.mx/citations?user=NUiTbNsAAAAJ&hl=es",
+        "researchgate": "https://www.researchgate.net/profile/Villada-Canela-Mariana",
+        "nombramiento": "Investigadora Titular C",
+        "principal": "Manejo Integral del Agua",
+        "sni": "1"
+      },
+      {
+        "name": "Dr. José Antonio",
+        "lastName": "Zertuche González",
+        "position": "",
+        "email": "zertuche@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64731",
+        "tag": "Investigadores",
+        "id": 42,
+        "image": "zertuche_gonzalez_jose_antonio.jpg",
+        "workStation": "A-205",
+        "orcid": "https://orcid.org/0000-0002-9748-9820",
+        "googleAcademic": "https://scholar.google.com/citations?user=-r4W6-QAAAAJ&hl=es",
+        "researchgate": "https://www.researchgate.net/profile/Jose-Zertuche/research",
+        "nombramiento": "Investigador Titular C",
+        "principal": "Cultivo de Macroalgas",
+        "sni": "2"
+      },
+      {
+        "name": "Dra. Cynthia Lizzeth",
+        "lastName": "Araujo Palomares",
+        "position": "",
+        "email": "cynthia.araujo@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64719",
+        "tag": "Técnicos académicos",
+        "id": 43,
+        "image": "araujo_palomares_cynthia_lizzeth.jpg",
+        "workStation": "A-113",
+        "investigationLine": ["Microbiología ambiental"],
+        "orcid": "https://orcid.org/0000-0002-5007-8426",
+        "googleAcademic": "https://scholar.google.com/citations?hl=es&user=YX2B3pAAAAAJ",
+        "researchgate": "https://www.researchgate.net/profile/Cynthia-Araujo",
+        "nombramiento": "Técnico académico de carrera titular A de tiempo completo",
+        "principal": "Microbiología ambiental"
+      },
+      {
+        "name": "M. C. Efraín Miguel",
+        "lastName": "Chávez Solís",
+        "position": "",
+        "email": "efrain.chavez@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64745",
+        "tag": "Técnicos académicos",
+        "id": 44,
+        "image": "chavez_solis_efrain.jpg",
+        "workStation": "Laboratorio de Oceanografía física",
+        "investigationLine": [
+          "Instrumentación Oceanográfica",
+          "buceo científico",
+          "salidas de campo"
+        ],
+        "orcid": "https://orcid.org/0000-0001-9423-9335",
+        "googleAcademic": "https://scholar.google.com/citations?user=BNrxoScAAAAJ&hl=es",
+        "researchgate": "https://www.researchgate.net/profile/Efrain_Chavez_Solis",
+        "nombramiento": "Técnico Académico Ordinario Titular A de tiempo completo",
+        "principal": "Instrumentación oceanográfica"
+      },
+      {
+        "name": "Dra. María del Carmen",
+        "lastName": "Ávila López",
+        "position": "",
+        "email": "maria.del.carmen.avila.lopez@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64736",
+        "tag": "Técnicos académicos",
+        "id": 45,
+        "image": "avila_lopez_maria_del_carmen.jpg",
+        "workStation": "A-120",
+        "investigationLine": [
+          "Biogeoquímica de nutrientes",
+          "Contaminación del medio ambiente marino"
+        ],
+        "orcid": "https://orcid.org/0000-0002-5306-6607",
+        "researchgate": "https://www.researchgate.net/profile/Maria-Avila-Lopez",
+        "nombramiento": "Técnico académico de investigación ordinario de carrera asociado nivel C",
+        "principal": "Biogeoquímica de nutrientes",
+        "sni": "C"
+      },
+      {
+        "name": "Oc. Ernesto",
+        "lastName": "Carsolio Priego",
+        "position": "",
+        "email": "carsolioe@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64745",
+        "tag": "Técnicos académicos",
+        "id": 46,
+        "image": "carsolio_priego_ernesto.jpg",
+        "investigationLine": [
+          "Instrumentación oceanográfica",
+          "procesos costeros",
+          "buceo científico"
+        ],
+        "nombramiento": "Técnico académico de investigación ordinario de carrera asociado nivel B",
+        "principal": "Instrumentación oceanográfica"
+      },
+      {
+        "name": "M. C. Pedro Germán",
+        "lastName": "Castro Castro",
+        "position": "",
+        "email": "pcastro@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64735",
+        "tag": "Técnicos académicos",
+        "id": 47,
+        "image": "castro_castro_pedro_german.jpg",
+        "principal": "Paleoceanografía"
+      },
+      {
+        "name": "M. C. Melba",
+        "lastName": "De Jesús Huerta",
+        "position": "",
+        "email": "mdejesus@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64759",
+        "tag": "Técnicos académicos",
+        "id": 48,
+        "image": "de_jesus_huerta_m.c._melba.jpg",
+        "workStation": "Revista Ciencias Marinas",
+        "orcid": "https://orcid.org/0000-0002-3732-3984",
+        "googleAcademic": "https://scholar.google.es/citations?hl=es&user=Q6l_EnwAAAAJ",
+        "nombramiento": "Técnico académico de carrera titular B, tiempo completo",
+        "principal": "Editora en línea"
+      },
+      {
+        "name": "M. C. Alejandra",
+        "lastName": "Ferreira Arrieta",
+        "position": "",
+        "email": "alejandra.ferreira@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64771",
+        "tag": "Técnicos académicos",
+        "id": 49,
+        "image": "ferreira_arrieta_alejandra.jpg",
+        "workStation": "Laboratorio de Botánica Marina",
+        "investigationLine": [
+          "Biología y cultivo de macroalgas",
+          "pastos marinos"
+        ],
+        "orcid": "https://orcid.org/0000-0002-7586-2284",
+        "googleAcademic": "https://scholar.google.com/citations?user=KtT4k6oAAAAJ&hl=en",
+        "nombramiento": "Técnico académico de Investigación ordinario de carrera titular nivel A, tiempo completo.",
+        "principal": "Cultivo de macroalgas"
+      },
+      {
+        "name": "Oc. Jesús",
+        "lastName": "Galarza Plascencia",
+        "position": "",
+        "email": "jgalarza@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64725",
+        "tag": "Técnicos académicos",
+        "id": 50,
+        "image": "galarza_plascencia_jesus.jpg",
+        "principal": "Cultivo de macroalgas"
+      },
+      {
+        "name": "Téc. Javier",
+        "lastName": "García Pámanes",
+        "position": "",
+        "email": "garciaj64@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64762",
+        "tag": "Técnicos académicos",
+        "id": 51,
+        "image": "garcia_pamares_javier.jpg"
+      },
+      {
+        "name": "M. C. Marco Aurelio",
+        "lastName": "González Gómez",
+        "position": "",
+        "email": "marco.gonzalez@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64765",
+        "tag": "Técnicos académicos",
+        "id": 52,
+        "image": "gonzalez_gomez_marco_aurelio.jpg"
+      },
+      {
+        "name": "Oc. José Manuel",
+        "lastName": "Guzmán Calderón",
+        "position": "",
+        "email": "jmguzman@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64743",
+        "tag": "Técnicos académicos",
+        "id": 53,
+        "image": "guzman_calderon_oc._jose_manuel.jpg"
+      },
+      {
+        "name": "M. C. Sergio",
+        "lastName": "Larios Castillo",
+        "position": "",
+        "email": "slarios@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64747",
+        "tag": "Técnicos académicos",
+        "id": 54,
+        "image": "larios_castillo_sergio.jpg",
+        "workStation": "A-109",
+        "investigationLine": ["Bases Datos Océano", "SIG."],
+        "orcid": "https://orcid.org/0000-0001-6936-2390",
+        "googleAcademic": "https://scholar.google.com.mx/citations?hl=en&user=wT5VNbcAAAAJ",
+        "researchgate": "https://www.researchgate.net/profile/Sergio-Larios",
+        "nombramiento": "Técnico Académico de carrera titular B. Tiempo completo",
+        "principal": "CENDO"
+      },
+      {
+        "name": "Dr. Victor",
+        "lastName": "Macías Carranza",
+        "position": "",
+        "email": "victormacias@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64734",
+        "tag": "Técnicos académicos",
+        "id": 55,
+        "image": "macias_carranza_victor.jpg",
+        "workStation": "Laboratorio de macroalgas",
+        "investigationLine": ["Análisis químico de macroalgas."],
+        "orcid": "https://orcid.org/0000-0002-4556-2504",
+        "googleAcademic": "https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=victor+macias+carranza&oq=",
+        "researchgate": "https://www.researchgate.net/profile/Victor-Macias-Carranza",
+        "nombramiento": "Técnico Académico de carrera titular B. Tiempo completo",
+        "principal": "Análisis químico de macroalgas."
+      },
+      {
+        "name": "M. C. Claudia Adriana",
+        "lastName": "Michel Villalobos",
+        "position": "",
+        "email": "michel.claudia@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64721",
+        "tag": "Técnicos académicos",
+        "id": 56,
+        "image": "michel_villalobos_claudia_adriana.jpg",
+        "workStation": "Revista Ciencias Marinas",
+        "nombramiento": "Técnico Académico de carrera asociado B. Tiempo completo",
+        "principal": "Traductor"
+      },
+      {
+        "name": "L. C. C. Eduardo",
+        "lastName": "Morales Estrada",
+        "position": "",
+        "email": "emorales@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64709",
+        "tag": "Técnicos académicos",
+        "id": 57,
+        "image": "morales_estrada_eduardo.jpg",
+        "principal": "Centro de Cómputo"
+      },
+      {
+        "name": "Dr. Albino",
+        "lastName": "Muñoz Barbosa",
+        "position": "",
+        "email": "albino@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64721",
+        "tag": "Técnicos académicos",
+        "id": 58,
+        "image": "munoz_barbosa_albino.jpg",
+        "workStation": "C-310",
+        "investigationLine": [
+          "Biogeoquímica del Fe en el medio ambiente marino"
+        ],
+        "orcid": "https://orcid.org/0000-0001-5278-0924",
+        "googleAcademic": "https://scholar.google.com.mx/citations?user=1LmmL1YAAAAJ&hl=en&oi=ao",
+        "researchgate": "https://www.researchgate.net/profile/Albino-Munoz-Barbosa",
+        "nombramiento": "Técnico Académico de Investigación Titular Nivel B",
+        "principal": "Metales pesados"
+      },
+      {
+        "name": "Oc. Filiberto",
+        "lastName": "Núñez Cebrero",
+        "position": "",
+        "email": "fnunez@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64761",
+        "tag": "Técnicos académicos",
+        "id": 59,
+        "image": "nunez_cebrero_filiberto.jpg",
+        "workStation": "B-101",
+        "investigationLine": ["Producción de moluscos"],
+        "nombramiento": "Técnico Académico de carrera titular B. Tiempo completo",
+        "principal": "Producción de moluscos"
+      },
+      {
+        "name": "M. C. Cristina",
+        "lastName": "Quezada Hernández",
+        "position": "",
+        "email": "cristina.quezada@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64719",
+        "tag": "Técnicos académicos",
+        "id": 60,
+        "image": "quezada_hernandez_cristina.jpg",
+        "workStation": "A-113",
+        "investigationLine": ["Contaminantes orgánicos."],
+        "orcid": "https://orcid.org/0000-0003-3282-2140",
+        "googleAcademic": "https://scholar.google.es/citations?user=wiw0fcAAAAAJ&hl=es",
+        "researchgate": "https://www.researchgate.net/profile/Cristina-Quezada-Hernandez",
+        "nombramiento": "Técnico académico de investigación ordinario de carrera asociado nivel C. Tiempo completo.",
+        "principal": "Contaminantes orgánicos"
+      },
+      {
+        "name": "Ing. Andrés",
+        "lastName": "Sandoval Rangel",
+        "position": "",
+        "email": "asandoval@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64774",
+        "tag": "Técnicos académicos",
+        "id": 61,
+        "image": "sandoval_rangel_andres.jpg",
+        "principal": "Radares de alta frecuencia"
+      },
+      {
+        "name": "Oc. Arturo",
+        "lastName": "Siqueiros Valencia",
+        "position": "",
+        "email": "arsiva@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64742",
+        "tag": "Técnicos académicos",
+        "id": 62,
+        "image": "siqueiros_valencia_arturo.jpg",
+        "principal": "Metales pesados"
+      },
+      {
+        "name": "L. B. A. Aurora Anahí",
+        "lastName": "Tinajero Chávez",
+        "position": "",
+        "email": "tinajero.aurora@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64760",
+        "tag": "Técnicos académicos",
+        "id": 63,
+        "image": "tinajero_chavez_aurora_anahi.jpg",
+        "workStation": "nutricion y fisiologia digestiva en organismos acuáticos",
+        "investigationLine": [
+          "nutricion",
+          "fisiologia digestiva en organismos acuáticos"
+        ],
+        "orcid": "https://orcid.org/0000-0001-9634-8906",
+        "researchgate": "https://www.researchgate.net/profile/Aurora-Tinajero",
+        "nombramiento": "Técnico académico de carrera asociado A",
+        "principal": "Nutrición de organismos acuáticos"
+      },
+      {
+        "name": "M. C. Eunice Vanessa",
+        "lastName": "Torres Delgado",
+        "position": "",
+        "email": "eunise.torres@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64740",
+        "tag": "Técnicos académicos",
+        "id": 64,
+        "image": "torres_delgado_eunice_vanessa.jpg",
+        "workStation": "A111",
+        "investigationLine": [
+          "Biogeoquímica de metales",
+          "traza en el ambiente marino."
+        ],
+        "orcid": "https://orcid.org/0000-0003-3690-5103",
+        "researchgate": "https://www.researchgate.net/profile/Ev-Torres-Delgado",
+        "nombramiento": "Técnico académico de investigación ordinario de carrera titular nivel B. ",
+        "principal": "Biogeoquímica de metales"
+      },
+      {
+        "id": 65,
+        "sni": "",
+        "image": "medina_torres_cristina.jpg",
+        "name": "Cristina",
+        "lastName": "Medina Torres",
+        "tag": "Auxiliares Administrativos y Servicios",
+        "position": "Auxiliar Administrativo Dirección",
+        "email": "cristina.medina@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64701"
+      },
+      {
+        "id": 66,
+        "sni": "",
+        "image": "navarrete_gutierrez_yolanda.jpg",
+        "name": "Yolanda",
+        "lastName": "Navarrete Gutiérrez",
+        "tag": "Auxiliares Administrativos y Servicios",
+        "position": "Auxiliar Administrativo Subdirección",
+        "email": "yolynavarrete@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64703"
+      },
+      {
+        "name": "L .C. Claudia Edith",
+        "lastName": "Atondo de Loera",
+        "position": "Auxiliar Administrativo Administración",
+        "email": "atondo.claudia@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64706",
+        "tag": "Auxiliares Administrativos y Servicios",
+        "id": 67,
+        "image": "atondo_de_loera_claudia_edith.jpg"
+      },
+      {
+        "id": 68,
+        "sni": "",
+        "image": "escarrega_castro_carlos_gerardo.jpg",
+        "name": "Carlos Gerardo",
+        "lastName": "Escarrega Castro",
+        "tag": "Auxiliares Administrativos y Servicios",
+        "position": "Auxiliar Administrativo Administración",
+        "email": "carlos.escarrega@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64705"
+      },
+      {
+        "name": "Lic. Miriam",
+        "lastName": "Enríquez Jácome",
+        "position": "Revista Ciencias Marinas",
+        "email": "mjacome@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64727",
+        "tag": "Auxiliares Administrativos y Servicios",
+        "id": 69,
+        "image": "enriquez_jacome_miriam.jpg"
+      },
+      {
+        "name": "Lic. Fegdha Suemy",
+        "lastName": "Franco Orlayneta",
+        "position": "Revista Ciencias Marinas – Conmutador",
+        "email": "suemy@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64730",
+        "tag": "Auxiliares Administrativos y Servicios",
+        "id": 70,
+        "image": "franco_orlayneta_fegdha_suemy.jpg"
+      },
+      {
+        "name": "L. D. Luis Gerardo",
+        "lastName": "Ybañez Gómez",
+        "position": "Revista Ciencias Marinas",
+        "email": "gerardo.ybanez@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64728",
+        "tag": "Auxiliares Administrativos y Servicios",
+        "id": 71,
+        "image": "ybanez_gomez_luis_gerardo.jpg"
+      },
+      {
+        "id": 72,
+        "sni": "",
+        "image": "hernandez_alvarez_hugo.jpg",
+        "name": "Hugo",
+        "lastName": "Hernández Álvarez",
+        "tag": "Auxiliares Administrativos y Servicios",
+        "position": "Almacén / Almacén Revista",
+        "email": "hugo.hernandez.alvarez@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64725"
+      },
+      {
+        "id": 73,
+        "sni": "",
+        "image": "marin_garcia_irak_luis_jose.jpg",
+        "name": "Irak Luis José",
+        "lastName": "Marín García",
+        "tag": "Auxiliares Administrativos y Servicios",
+        "position": "Almacén",
+        "email": "irak.marin@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64725"
+      },
+      {
+        "id": 74,
+        "sni": "",
+        "image": "burciaga_valles_jose_manuel.jpg",
+        "name": "José Manuel",
+        "lastName": "Burciaga Valles",
+        "tag": "Auxiliares Administrativos y Servicios",
+        "position": "Mantenimiento",
+        "email": "manuel_burciaga@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": ""
+      },
+      {
+        "id": 75,
+        "sni": "",
+        "image": "guillen_resendiz_carlos_mario.jpg",
+        "name": "Carlos Mario",
+        "lastName": "Guillén Reséndiz",
+        "tag": "Auxiliares Administrativos y Servicios",
+        "position": "Mantenimiento",
+        "email": "mario.guillen@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": ""
+      },
+      {
+        "id": 76,
+        "sni": "",
+        "image": "loera_raygoza_victor_alfonso.jpg",
+        "name": "Víctor Alfonso",
+        "lastName": "Loera Raygoza",
+        "tag": "Auxiliares Administrativos y Servicios",
+        "position": "Mantenimiento",
+        "email": "victor.ignacio.loera.raygoza@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": ""
+      },
+      {
+        "id": 77,
+        "sni": "",
+        "image": "mendiola_rodriguez_efren.jpg",
+        "name": "Efrén",
+        "lastName": "Mendiola Rodríguez",
+        "tag": "Auxiliares Administrativos y Servicios",
+        "position": "Mantenimiento",
+        "email": "mendiola.efren@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": ""
+      },
+      {
+        "id": 78,
+        "sni": "",
+        "image": "rodriguez_castillo_aurelio.jpg",
+        "name": "Aurelio",
+        "lastName": "Rodríguez Castillo",
+        "tag": "Auxiliares Administrativos y Servicios",
+        "position": "Mantenimiento",
+        "email": "rodriguez.aurelio@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": ""
+      },
+      {
+        "name": "Dr. Braulio",
+        "lastName": "Juárez Araiza",
+        "position": "",
+        "email": "braulio.juarez@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64756",
+        "tag": "Investigadores",
+        "id": 79,
+        "image": "juarez_araiza_braulio.jpg",
+        "workStation": "A-114",
+        "orcid": "https://orcid.org/0000-0001-6586-6786",
+        "googleAcademic": "https://scholar.google.com/citations?user=KDTAikkAAAAJ&hl=es",
+        "researchgate": "https://www.researchgate.net/profile/Braulio-Juarez",
+        "nombramiento": "Investigador Titular A",
+        "principal": "Dinámica estuarina"
+      },
+      {
+        "name": "Dr. Ricardo",
+        "lastName": "Cruz López",
+        "position": "",
+        "email": "ricardo.cruz.lopez@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64744",
+        "tag": "Investigadores",
+        "id": 80,
+        "image": "cruz_lopez_ricardo.jpg",
+        "workStation": "A-102",
+        "orcid": "https://orcid.org/0000-0002-4782-7625",
+        "googleAcademic": "https://scholar.google.com/citations?user=ibxa7kEAAAAJ&hl=en",
+        "researchgate": "https://www.researchgate.net/profile/Ricardo-Cruz-Lopez-2",
+        "nombramiento": "Investigador Titular A",
+        "principal": "Biotecnología Marina"
+      },
+      {
+        "name": "Dr. Juan Gabriel",
+        "lastName": "Correa Reyes",
+        "position": "",
+        "email": "gcorrea@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64773",
+        "tag": "Investigadores",
+        "id": 81,
+        "image": "correa_reyes_juan_gabriel.jpg",
+        "workStation": "B-201",
+        "orcid": "https://orcid.org/0000-0003-3742-0060",
+        "googleAcademic": "https://scholar.google.es/citations?user=VHk4sUkAAAAJ&hl=es&oi=ao",
+        "researchgate": "https://www.researchgate.net/profile/Juan-Gabriel-Reyes",
+        "nombramiento": "Investigador Titular C",
+        "principal": "Sist. Acuícolas de Producción"
+      },
+      {
+        "name": "Ing. Luis Alonso",
+        "lastName": "Galindo Valdez",
+        "position": "",
+        "email": "agalindo73@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "64760",
+        "tag": "Técnicos académicos",
+        "id": 82,
+        "image": "galindo_valdez_luis_alonso.jpg",
+        "workStation": "B-212",
+        "nombramiento": "Técnico Académico de Carrera Titular A de tiempo completo",
+        "principal": "Nutrición de organismos acuáticos"
+      },
+      {
+        "name": "L. B. A. Enrique",
+        "lastName": "Valenzuela Wood",
+        "position": "",
+        "email": "enrique.wood@uabc.edu.mx",
+        "phone": "(646) 152 8222",
+        "ext": "",
+        "tag": "Técnicos académicos",
+        "id": 83,
+        "image": "enrique_valenzuela_Wood.jpg",
+        "principal": "Cultivo de microalgas"
+      }
+    ],
+    "retired": [
+      {
+        "id": 58,
+        "fecha": "2022-03-11T20:28:47.023Z",
+        "biografia": "En Diciembre del 2021 se jubiló nuestro compañero Albino Muñoz, le deseamos buenos tiempos por vivir."
+      },
+      {
+        "id": 81,
+        "fecha": "2022-02-11T20:28:47.023Z",
+        "biografia": "En Diciembre del 2021 se jubiló nuestro compañero Albino Muñoz, le deseamos buenos tiempos por vivir."
+      },
+      {
+        "id": 83,
+        "fecha": "2022-01-11T20:28:47.023Z",
+        "biografia": "En Diciembre del 2021 se jubiló nuestro compañero Albino Muñoz, le deseamos buenos tiempos por vivir."
+      }
+    ]
+  },
+  "vinculacion": {
+    "vinculacion": [
+      {
+        "name": "CIGoM",
+        "image": "/CIGoM.jpeg",
+        "link": "https://cigom.org/",
+        "subtitle": "Consorcio de Investigación del Golfo de México",
+        "description": "Fundado en el 2015, el Consorcio de Investigación del Golfo de México (CIGoM) es un consorcio de investigación científica y de servicios de consultoría. Se especializa en proyectos multidisciplinarios relacionados a posibles impactos ambientales de la industria del gas y petróleo, en los ecosistemas marinos del Golfo de México. Esta iniciativa surgió de las ideas compartidas de un grupo de científicos y personal de PEMEX, debido a la falta de información para entender y actuar en caso de posibles derrames de hidrocarburos de gran escala en el Golfo de México. Actualmente hay más de 300 investigadoras e investigadores participando en el consorcio. El IIO de la UABC es una de las instituciones fundadoras del consorcio"
+      },
+      {
+        "name": "OORCo",
+        "image": "/oorco.jpeg",
+        "link": "https://oorco.ens.uabc.mx/",
+        "subtitle": "Observatorio Oceanográfico Regional Costero",
+        "description": "OORCo fue originalmente creado para monitorear la zona costera del municipio de Ensenada, Baja California México. Al inicio de sus operaciones en agosto del 2012, tuvo como objetivo medir corrientes oceánicas en tiempo real, utilizando radio escaterómetros oceanográficos y reportarlas en tiempo real a través de una plataforma web de dominio público. Hoy en día OORCo cubre toda la extensión del Golfo de México y el Pacífico norte mexicano, obteniendo parámetros oceanográficos (EMAs), sondas satelitales autónomas multi-paramétricas (DORIS) y estaciones meteorológicas autónomas con telemetría en tiempo real."
+      },
+      {
+        "name": "MPCAC",
+        "image": "/MPCAC.jpeg",
+        "link": "https://www.facebook.com/Monitoreo-Participativo-de-la-Calidad-del-Agua-en-Camal%C3%BA-BC-100516081862837",
+        "subtitle": "Monitoreo Participativo de la Calidad del Agua en Camalú, B.C.",
+        "description": "Este proyecto es financiado por la 22a. Convocatoria Interna de proyectos de investigación UABC. Se trabajará en cuatro etapas: I) la caracterización de la zona de estudio, mediante el análisis de la información bibliográfica, de censos y los datos recabados en la aplicación de encuestas a los colonos; II) la capacitación de los participantes en MPA, marco legal y medición de parámetros fisicoquímicos y microbiológicos, a través de talleres participativos; III) el MPA in situ y análisis de laboratorio para verificar y caracterizar la calidad de agua subterránea; y IV) con los resultados obtenidos, se elaborará un MPA que será presentado a los colonos, los interesados y las autoridades. Con ello se espera, por un lado, encauzar la producción científica pertinente y que apoye a la toma de decisiones de gobierno, y por el otro, facilitar la creación de redes de monitoreo participativo del agua en Baja California.<br><br>El objetivo es diseñar y aplicar un monitoreo participativo de la calidad del agua que integre la calidad del agua (física, química, microbiológica), y las capacidades, los conocimientos y las percepciones de los usuarios para gestionar los recursos hídricos en la Delegación de Camalú, en Ensenada, Baja California. Con ello se pretende aportar a la solución de las demandas de la ciudadanía y el sector público para mejorar los instrumentos de manejo y gobernanza del agua en cuencas y acuíferos de Baja California."
+      },
+      {
+        "name": "LINDEAACUA",
+        "image": "/LINDEAACUA.jpeg",
+        "link": "http://www.mtviana.com/index.html",
+        "subtitle": "Laboratorio de Investigación y Desarrollo de Alimentos para la Acuacultura",
+        "description": "El laboratorio cuenta con equipo para la preparación de alimentos, mezclado de micronutrientes y elaboración de alimentos por el método convencional, y a través del proceso de extrusión. Su misión es revigorizar la investigación nutricional y fisiológica digestiva de los organismos acuáticos para promover de manera sostenible la intensificación de las industrias acuícolas y fabricantes de alimentos comerciales."
+      }
+    ]
+  },
+  "investigaciones": [
+    {
+      "name": "Acuacultura",
+      "title": "Acuacultura",
+      "ta": [52, 59, 63, 82, 83],
+      "ca": [
+        {
+          "name": "Biología y Cultivo de Moluscos",
+          "integrantes": [
+            {
+              "id": 23,
+              "biografia": "Oceanólogo (Fac. Cienc. Marinas, UABC) con maestría y doctorado en Stony Brook University, N.Y. (USA). Tesis en liberación de esporas de alga roja (L), genética cuantitativa de algas (M) y fisiología energética de ostión (D). Investigador invitado en Stony Brook (1993, 1994) y en el National Research Council (NRC, Canadá, 1999). Estancia postdoctoral en Scripps Institution of Oceanography, UCSD (2003). Investigador en UABC desde 1992, miembro del SNI nivel 2 (CONACYT) y Perfil PRODEP (SEP). Mas de 40 publicaciones en revistas arbitradas indizadas internacionales y 3 capítulos de libro. Dirección de tesis de 22 estudiantes de licenciatura y posgrado. Nuestro grupo de investigación fue el primero en desarrollar la tecnología para producción de semilla de almeja chiluda (Panopea globosa) a nivel mundial y recientemente optimizó la tecnología para producción de semilla de almeja mano de león. Cuantificamos por primera vez la capacidad de carga de ostión en Bahía San Quintín, lo que se usó como criterio para revisar concesiones de áreas de cultivo (2004). En la investigación, descubrimos las estrategias de refugio contra depredadores del pectínido Argopecten irradians. Cuantificamos el gasto energético de poslarvas de ostión durante el desarrollo temprano y la cuantificación de enzimas metabólicas aeróbicas en distintos escenarios nutricionales. También establecimos los ritmos circadianos, la actividad de enzimas digestivas y la eficiencia energética en función de la dieta del abulón. Actualmente usamos las herramientas de fisiología para optimizar el desarrollo de biotecnias en distintas especies de moluscos."
+            },
+            {
+              "id": 18,
+              "biografia": "Egresada de la Lic. En Biología Marina de la UABCS, campus La Paz y de la M.C. con especialidad en Manejo de Recursos Marinos del CICIMAR-IPN. Estudios doctorales realizados en la Universidad de Vigo, España y estancia postdoctoral en el Laboratorio de Patología Acuática del CINVESTAV-Mérida. Trayectoria académica centrada en patologías y respuesta inmunitaria, fundamentalmente de pulpos de interés comercial. En 2014 fue galardonada con la Beca para las Mujeres en la Ciencia L'Oréal-UNESCO-AMC. Forma parte del Sistema Nacional de Investigadores (SNI-CONACyT) nivel 1 y cuenta con Perfil Deseable (PRODEP-SEP). En 2015 se incorporó como investigador al Instituto de Investigaciones Oceanológicas (IIO-UABC) donde continúa desarrollando proyectos relacionados con parásitos, inmunología e histopatología de pulpos y bivalvos de importancia comercial, compaginado con actividades de docencia a nivel de licenciatura y posgrado de la Facultad de Ciencias Marinas-IIO."
+            },
+            {
+              "id": 28,
+              "biografia": "Bióloga egresada de la Universidad Autónoma Metropolitana Campus Xochimilco. Realizó sus estudios de Maestría y Doctorado en Ciencias de la Vida con orientación en Biotecnología Marina en el Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California (CICESE). Pertenece al Sistema Nacional de Investigadores en nivel Candidato y es perfil deseable PRODEP-SEP. Autora de 7 artículos científicos en revistas arbitradas e indexadas (JCR) y 1 capítulo de libro. Ha presentado 41 trabajos en congresos nacionales e internacionales. Asimismo, ha participado como responsable técnico y/o colaborador en 10 proyectos de investigación financiados mediante diferentes fondos (PAPIIT-UNAM, Ciencia Básica CONACYT, CONACYT-SENER-HIDROCARBUROS, UC-MEXUS, Ciencia de frontera 2019). En el año 2019, se integró como Investigadora de Tiempo completo al Instituto de Investigaciones Oceanológicas y es miembro del Cuerpo Académico de Biología y Cultivo de Moluscos. Actualmente funge como Jefa del área de Acuacultura y es responsable de diversos laboratorios. Participa en la dirección de tesis de estudiantes de Licenciatura y Posgrado (Maestría y doctorado), así como diversos comités de tesis. A nivel Licenciatura en la FCM imparte las materias de Metodología de la Investigación y Biología Celular y Molecular. A nivel Posgrado imparte las asignaturas de Análisis de Expresión Genética en qPCR tiempo real e Introducción al Análisis de Datos Genómicos y Transcriptómicos de Secuenciación Masiva. Actualmente tiene colaboración con investigadores de la FCM-UABC, CICESE, CIBNOR, UNAM-UMDI y UC Santa Bárbara."
+            }
+          ]
+        },
+        {
+          "name": "Nutrición y fisiología digestiva",
+          "integrantes": [
+            {
+              "id": 40,
+              "biografia": "Bióloga de la UNAM, con doctorado en Bioquímica Marina por la Universidad del Norte en Tromsø, Noruega. Pertenece al Sistema Nacional de Investigadores desde 1991, actualmente SNI 3. Autora de más de 105 artículos científicos (JCR) y dos capítulos de libro. Más de 50 estudiantes graduados en todos los niveles. Desde su llegada a la UABC desarrolló la línea de nutrición, que actualmente es referente nacional e internacional. Ha sido beneficiada con más de 26 proyectos nacionales e internacionales (CONACYT/UABC, Suecia, EEUU, Noruega, España, Tailandia, Chile, entre otros). Ha recibido varios premios: Premio Estatal de Ciencia y Tecnología BC en 2010, Premio al Mérito académico UABC 1998 (Ingeniería y Tecnología) y 2009 (Ciencias Agropecuarias); Premio a la Excelencia en Nutrición Animal 2017 (AMENA); en el 2019 la AMENA le dedicó en Congreso a la Dra. Viana, entre otras distinciones. Ha sido invitada a más de 50 presentaciones magistrales a nivel nacional e internacional. Desde 2015 a la fecha, es Editora de la revista Aquaculture de Elsevier (sección de nutrición en invertebrados) la de mayor índice de impacto en el área de acuacultura. Sus investigaciones se centran en la fisiología nutricional en peces y camarones, con énfasis en los requerimientos de aminoácidos y ácidos grasos, rutas metabólicas. El impacto en el crecimiento y salud, detectando las consecuencias en el desempeño por el estrés producido por factores bióticos y abióticos. Además de trabajar hacia la sostenibilidad de alimentos sin harina y aceite de pescado. Por otro lado, se ha destacado en la puesta en marcha en el desarrollo de dietas extruidas. En donde es líder del laboratorio LINDEAACUA que posee un extrusor piloto comercial (E325, EXTRUTECH), único en su tipo en toda Latinoamérica."
+            },
+            {
+              "id": 20,
+              "biografia": "Biólogo de la Universidad Michoacana de San Nicolás de Hidalgo, realizó su Maestría en el CICESE y  Doctorado en el CIAD con Orientación en Acuicultura. Ha realizado estancias en el extranjero. Cuenta con un Posdoctorado (CICESE). Ex integrante de la primera generación de Cátedras CONACYT-UdeG. Pertenece al Sistema Nacional de Investigadores del  CONACYT, actualmente es nivel 1 y es Perfil Deseable por PRODEP-SEP. Es autor de más de 30 artículos científicos en revistas arbitradas e indexadas (JCR), tres capítulos de libro y dos libros. Ha formado estudiantes de licenciatura, maestría y doctorado y participado en siete comités de tesis de Licenciatura y Maestría. Ha fungido como tutor de 10 estudiantes de la Licenciatura de Biotecnología en Acuicultura (FCM-UABC) y es profesor titular de la materia Sanidad e Inocuidad Acuícola y participa en el posgrado de Oceanografía Costera con la materia Patología y Bioseguridad Acuícola. Ha sido responsable y colaborado en más de 10 proyectos de investigación. Ha participado en más de 30 eventos académicos a nivel nacional e internacional. Es árbitro en revistas de investigación como Aquaculture, Journal of Fish Diseases, LAJAR, entre otras. Desde su ingreso a la UABC en el 2015 ha desarrollado la línea de Fisiopatología y de Sanidad Acuícola, líneas complementaria a las líneas que desarrolla el C.A. de Nutrición y Fisiología siendo esté un referente nacional e internacional del cual el Dr. Del Rio es integrante desde el 2017. Sus investigaciones se centran en los estudios fisiopatológicos relacionados con la nutrición y fisiología desde el punto de vista de salud e inmunomodulación de peces y camarones, así como en los factores de estrés biótico y abiótico que repercuten en la sanidad acuícola."
+            },
+            {
+              "id": 81,
+              "biografia": "El Dr. Correa, se dedica principalmente a los sistemas de recirculación con un enfoque en la nutrición y fisiología de organismos acuáticos, tratando de evitar el estrés, promoviendo la salud y el bienestar.  Con un interés particular en el cultivo de moluscos, microalgas, peces y camarones.<br><br>Oceanólogo egresado de la Facultad de Ciencias Marinas de la Universidad Autónoma de Baja California (1993), con Maestría en Ciencias en Ecología Marina en el CICESE (1996) y Doctorado en Ciencias con Orientación en Acuicultura por el CICESE (2001). Durante el período 2003-2004 realizó estudios de posdoctorado en el Laboratorio de Nutrición y Fisiología en el IIO de la UABC. Posteriormente se incorporó al IIO como Investigador Titular de tiempo completo (nivel C) desde el año 2005 hasta la fecha. Es autor de 20 publicaciones en revistas como: Journal of Shellfish Research, Aquatic Botany, Bioresource Technology, Vie Milieu, Chemosphere, Aquaculture y Journal of Applied Phycology. Ha presentado más de 20 trabajos en congresos internacionales en diferentes partes del mundo. Ha sido director de tesis de estudiantes de: Licenciatura (2); Maestría (5) y Doctorado (3). Ha participado activamente en más de 20 proyectos de investigación y vinculación, liderando 6 entre los que destacan 2 proyectos de Ciencia Básica del CONACYT y CESPT-UABC. Ha impartido más de 20 cursos tanto a nivel licenciatura y posgrado. Perteneció al Sistema Nacional de Investigadores (2004 a 2017; nivel 1). Sus intereses de investigación se enfocan al área de la ingeniería y diseño de sistemas cerrados para la acuicultura con especial énfasis en el cultivo de moluscos y peces de interés comercial."
+            },
+            {
+              "id": 14,
+              "biografia": "Oceanólogo por la Universidad Federal de Pará (Brasil; 2002–2006), con maestría (2007–2009) y doctorado (2010–2013) en Oceanografía Biológica por la Universidad Federal de Rio Grande (FURG, Brasil). Cumplió dos períodos posdoctorales, uno en la Universidad Federal de Santa Catarina (2016–2017; Brasil) y otro en FURG (2017–2018). Formó parte de grupos de reconocimiento internacional en la investigación sobre cultivo de camarón, tal como Proyecto Camarón (FURG, Brasil) y Laboratorio de Maricultura (Texas A&M AgriLife Research, USA). Además, fue contratado por dos años en una empresa en Sudáfrica, donde fue el responsable técnico por la producción comercial de camarón en sistema de biofloc. Desde 2019, cuando se integró al Instituto de Investigaciones Oceanológicas de la UABC como investigador de tiempo completo, ha impartido cursos a niveles de licenciatura (Oceanología y Biotecnología en Acuacultura), además de contar con tesistas de licenciatura y posgrado titulados y/o en proceso. Responsable del Laboratorio de Producción de Camarón (IIO-FURG). Miembro nivel 1 del Sistema Nacional de Investigadores (SNI, CONACYT), ha participado en 13 proyectos de investigación. Cuenta con una producción científica que incluye un capítulo de libro, ocho artículos de divulgación y 22 artículos científicos publicados en revistas indexadas, (Scopus h-index 9) siendo primer autor o correspondiente en más de la mitad de ellos. Se dedica a las siguientes líneas de investigación relacionadas al cultivo de camarón: nutrición, reproducción y tecnología de biofloc."
+            }
+          ]
+        },
+        {
+          "name": "Ecología Molecular",
+          "integrantes": [
+            {
+              "id": 34,
+              "biografia": "Química Farmacéutica Bióloga egresada de la Facultad de Química de la Universidad Autónoma del Estado de México, con una Maestría en Ciencias en Biología Celular realizada en el Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional (CINVESTAV-IPN) y, con un Doctorado en Ciencias con especialidad en Neurociencias otorgado por el Instituto de Fisiología Celular de la Universidad Nacional Autónoma de México (UNAM). Como parte de su investigación formativa realizó cuatro estancias posdoctorales, una de ellas en el Department of Molecular and Cellular Biology University of Arizona y, las otras en reconocidas instituciones nacionales: UNAM, CINVESTAV y la Universidad Autónoma de Baja California (UABC). Después de su estancia posdoctoral en la UABC se incorporó como Investigadora al Instituto de Investigaciones Oceanológicas en el año 2013. Ha sido responsable técnico de proyectos con financiamiento y ha participado como colaborador en otros proyectos también financiados. Su trabajo le ha permitido interactuar con estudiantes de licenciatura y posgrado, participando activamente en la formación de recursos humanos a través de las clases de licenciatura y posgrado, y mediante tesis de licenciatura, maestría y doctorado. Actualmente colabora con investigadores de UABC, de CINVESTAV-IPN campus Zacatenco y, de la Universidad Veracruzana campus Xalapa y campus Tuxpan."
+            }
+          ]
+        }
+      ],
+      "serv_y_lab": {
+        "servicios": "<ul><li>Desarrollo de Biotecnias para el cultivo de moluscos, Bioensayos para determinación de tolerancias ambientales en organismos acuáticos, producción de semilla de almeja generosa y mano de león, producción y certificación de ostiones triploides (2022). </li><li>Pruebas biológicas que pueden ser en los sistemas con recirculación y condiciones controladas, hacemos las dietas, mediciones, muestreos, así como procesamos las muestras de molecular y química sanguínea, proximales y ácidos grasos.  </li><li>Uso de planta de extusión para la fabricación de alimentos. Ofrecemos desde la preparación de los ingredientes (molida y cernida) hasta el término de la extrusión. El servicio/día se cuenta por cada 8 horas de trabajo. Contamos con insertos desde mm hasta cm con varias formas, ya sea para expansión (peces) y densos (camarones).</li></ul>",
+        "laboratorios": "<ul><li>Laboratorio de Biotecnología de Moluscos: área moluscos, área de producción contínua de microalgas, área analítica.</li><li>Laboratorio de Genómica funcional: cuenta con la infraestructura necesaria para llevar a cabo análisis genómicos, de expresión de genes y transcriptómica. Termocicladores estándar y tiempo real, centrífugas (refrigeradas, no refrigeradas y de placas), microcentrífugas, congelador (-40°C), nanodrop Lite, agitadores magnéticos, cámaras de voltaje y de electroforesis.    </li><li>Laboratorio de Genómica aplicada e inmunopatología marina: área microbiología, área húmeda y área molecular.  </li><li>Laboratorio de producción de microalgas: área analítica, cepario y área de producción semicontinua. Este laboratorio cuenta con una colección de 20 cepas de microalgas tanto de agua dulce como salada.            </li><li>INCAPESM: Unidad de Investigación y Capacitación para la Producción y Engorda de Semillas Marinas. Cuenta con dos áreas: Húmeda y analítica. Producción de semillas marinas.</li><li>LINDEAACUA. Planta piloto comercial para el desarrollo de alimentos extruidos. Cuenta con todo lo necesario para el desarrollo de dietas. Pulverizador, Mezclador, Cernidor, Extrusor (E325), Horno de secado, Enfriador, Aceitadora, Ensacadora, termobalanza, básculas, entre otros.</li><li>FEEDACUA. Laboratorios húmedos (plataforma e invernadero). Cuenta con 6 sistemas completos de 12 estanques cada uno, con sistemas de recirculación, temperatura y aireación controlada. Además de 36 estanques independientes. Zona para recibir postlarvas, Estanques circulares.</li><li>Laboratorio de Nutrición y Fisiología Digestiva.  Laboratorio analítico, que cuenta con todo lo necesario para hacer proximales, aminoácidos (HPLC), ácidos grasos (GC) y procesar muestras para expresión de genes (nanodrop, PCR-TR, criocongelador, etc).</li><li>Laboratorio de Bioensayos 4 (cultivo de abulón)</li><li>Laboratorio de Producción de Camarón</li><li>Laboratorio de Biología de Invertebrados Marinos</li></ul>"
+      },
+      "tesistas": "<ul><li>Linda Y.G. Marmolejo Guzmán, Doctorado en Ciencias Marinas, CINVESTAV-Mérida.</li><li>Ricardo De Jesús Ehecátl Gómez Reyes, Doctorado en Oceanografía Costera, Facultad de Ciencias Marinas, UABC.    </li><li>Amador Esquivel Aketzali, Maestría en Oceanografía Costera, Facultad de Ciencias Marinas, UABC.     </li><li>Grecia Dayana Sánchez Rosales, Maestría en Ciencias de la Vida con orientación en Biotecnología Marina, CICESE, Ensenada. </li><li>Shunashi Janeth Vichido Medina, Licenciatura en Universidad del Mar, Oaxaca</li><li>Carolina Flores Salas, Lic Bioing. UABC      </li><li>Jazmin Cervantes, Lic Bionano UNAM     </li><li>Escarlet López Ortiz, Lic FCM y becario SNI     </li><li>Martín Molinero Díaz, Lic FCM y becario SNI     </li><li>David Abraham Cano Vera, Maestría en Ciencias UAM-XOCHIMILCO    </li><li>Eduardo Castro Domínguez, Magister de la UACh, Chile     </li><li>Andrea Zulema Manriquez Patiño, Maestría UABC     </li><li>Abril K. Mauro Félix, Maestría FCM</li><li>Marco Antonio Ontiveros Cordova, Maestria en Acuicultura, Departamento de Acuicultura del CICESE     </li><li>Marta Liliana Cifuentes Torres, Doctorado en Medio Ambiente y Sociedad, IIO-UABC     </li><li>Nayla Berenice Muñoz Euán,  Doctorado en Medio Ambiente y Sociedad IIO-UABC</li><li>Misael Espinoza Mendez, Licenciatura en Biotecnología de Acuacultura, Facultad de Ciencias Marinas, UABC.     </li><li>Aketzali Amador Esquivel, Maestría en Oceanografía Costera, Facultad de Ciencias Marinas, UABC.</li><li>Manuel Jacob Casariego Martínez, Maestría en Oceanografía Costera, Facultad de Ciencias Marinas, UABC.     </li><li>Vitalina Magalhães Braga de Souza, Doctorado en Oceanografía Costera, Facultad de Ciencias Marinas, UABC.</li><li>Nallely Concepción Juárez Sánchez, Doctorado MyDCI - UABC     </li><li>Fernando Anastacio Leggs López, Doctorado MyDCI - UABC     </li><li>Rubén Antonio Zúñiga Astorga, Maestría MyDCI - UABC</li></ul> ",
+      "proyectos_vigentes": "<ul><li>Producción de almeja mano de león (Nodipecten subnosus) como alternativa para incentivar la economía de las comunidades ribereñas. Financiamiento: CONACYT.  (2017-2021)                                               </li><li>Desarrollo de tecnologías para el cultivo de almejas de interés comercial (IIO-UABC). (2021-2023)</li><li>Eficacia del fitogénico Coxsan para combatir la infección por la bacteria zoonótica Vibrio parahaemolyticus en el ostión japonés Crassostrea gigas (Thunberg, 1793). 22a. Convocatoria Interna de Apoyo a Proyectos de Investigación.</li><li>Bases sanitarias para el cultivo y consumo del pulpo Octopus bimaculatus de Baja California. Ciencia Básica CONACyT 2016.</li><li>Efecto de la dieta en los procesos de gametogénesis en la almeja mano de león Nodipecten subnodosus: un enfoque transcriptómico. Programa para el desarrollo Profesional Docente, Nuevo Profesor de Tiempo Completo convocatoria 2020 F-PROMEP-38/Rev-04 SEP-23-005. </li><li>Plasticidad fenotípica durante el desarrollo de Mytilus galloprovincialis y M. californianus y su importancia como respuesta al estrés ante el escenario de océano cambiante. 21a. Convocatoria Interna de Apoyo a Proyectos de Investigación 403/1/C/45/21. </li><li>Regulación de la expresión génica asociada a factores ambientales en moluscos bivalvos. Proyecto de unidad académica 403/2576.  Instituto de Investigaciones Oceanológicas. </li><li>Climate-proofing aquaculture species: a collaborative 'proof of concept' project on oysters. 2019 UC MEXUS-CONACYT. </li><li>Biological impacts of temperature variability and extremes in benthic marine ectotherms: fitness, adaptation potential, and phenotypic plasticity. CONACYT Ciencia de Frontera 2019. Colaborador. CICESE-CIBNOR-UABC</li><li>Alteraciones epigenéticas en los fenotipos del pulpo Octopus maya como base para proponer nuevas hipótesis sobre la forma en que los estresores ambientales, modulan la aclimatación y la adaptación en invertebrados marinos: comprendiendo los mecanismos involucrados en la resiliencia. CONACYT Ciencia de Frontera 2019. Colaborador. UNAM-UMDI-SISAL, CICESE.</li><li>Respuesta molecular e inmune en aspectos de la fisiología digestiva en estudios de nutrición de organismos acuáticos. Proyecto de Cátedra CONACYT, fecha término 2025.       </li><li>Expresión de genes de estrés nutricional y los metabolitos producidos en el mucus de piel y branquias en peces, y hemolinfa y branquias en camarones como un camino para detectar estrés temprano, 22ª Convocatoria interna UABC.   </li><li>Desarrollo de harinas análogas a la de pescado para formular alimentos sostenibles. NRA 2021-2022    </li><li>Programa de Servicios del LINDEAACUA. Servicios en pruebas biológicas y uso de planta por convenio de proyectos con la industria. Desde 2017 a la fecha.        </li><li>Eficacia del fitogénico coxsan para combatir la infección por la bacteria zoonótica Vibrio parahaemolyticus en el ostión japonés Crassostrea gigas (thunberg, 1793). 22va convocatoria interna UABC.</li><li>Estrés nutricional relacionado con el uso de harina de soya en dietas libres de harina de pescado formuladas para el camarón blanco del Pacífico (Litopenaeus vannamei). Programa para el desarrollo Profesional Docente, Nuevo Profesor de Tiempo Completo, Convocatoria 2020.</li><li>Expresión de genes de estrés nutricional y los metabolitos producidos en el mucus de piel y branquias en peces, y hemolinfa y branquias en camarones como un camino para detectar estrés temprano. 22ª Convocatoria interna UABC.</li><li>Cultivo de tilapia roja en sistemas de biotecnología de biofloc en el Valle de Mexicali. Proyecto de Unidad Académica, UABC.</li><li>Marcadores del sistema nervioso en invertebrados marinos. Proyecto de Unidad Académica. Clave: 403/2748. Vigencia 2021-1 a 2022-2.</li></ul>",
+      "publicaciones": null,
+      "mision": "Contribuir a la investigación en la fisiología y desarrollo biotecnológico para incrementar la producción de especies de interés acuacultural utilizando como herramienta el conocimiento científico interdisciplinario, y la vinculación con productores, gobierno y sociedad de manera sustentable con ética y responsabilidad.",
+      "vision": "Grupo inter-disciplinario con liderazgo internacional en la fisiología y salud de especies acuáticas para su producción sostenible, en el entorno futuro incluido el cambio climático global y otros factores de estrés ambiental.",
+      "description": "El área de Acuacultura busca el desarrollo de soluciones y biotecnias de cultivo desde una perspectiva integral y sostenible  que considera el uso de especies con interés comercial, en veda o en peligro de extinción.",
+      "link": ""
+    },
+    {
+      "name": "ecologia-marina-integrativa",
+      "title": "Ecología Marina Integrativa",
+      "ta": [49, 51, 8, 55],
+      "ca": [
+        {
+          "name": "Botánica Marina",
+          "integrantes": [
+            {
+              "id": 13,
+              "biografia": "Realicé mis estudios de Licenciatura en Biología en la Universidad de Murcia (España). Mis estudios y tesis de posgrado los desarrollé en el Instituto Español de Oceanografía y en la Universidad de Alicante, bajo la temática de las respuestas ecofisiológicas de pastos marinos bajo condiciones de estrés salino (2008-2012). Durante esta época también participé en proyectos que tuvieron entre sus objetivos la implementación y seguimiento de planes de vigilancia de praderas marinas mediterráneas, la evaluación de la interacción entre algas invasoras y macrófitos marinos o los efectos de la acuicultura en la flora marina. En 2013-2015 realicé un postdoctorado en el Instituto de Investigaciones Oceanológicas (IIO) de la UABC, liderando estudios sobre el papel de los pastos marinos en el ciclo del nitrógeno de lagunas costeras. Desde 2016 soy investigador titular en IIO de la UABC, y actualmente soy líder del CA de Botánica Marina. Dirijo tesis de licenciatura en Biotecnología de la Acuicultura y Oceanología (Facultad de Ciencias Marinas, FCM), y de posgrado en los programas de maestría y doctorado Oceanografía Costera (FCM) y Medio Ambiente y Desarrollo (DMAYD, IIO). Imparto materias relacionadas con la biología de macrófitos marinos y de cultivo de macroalgas en los posgrados de Oc. Costera y DMAYD. Mis intereses de investigación giran en torno a la ecología y fisiología de la flora marina, y más específicamente, participo en trabajos donde se examina la integración de las respuestas de pastos marinos y macroalgas a sus distintos niveles de organización (desde el molecular hasta el fisiológico o de comunidad) frente a cambios ambientales. También participó en estudios sobre la optimización de cultivos de macroalgas, o acerca de los efectos del cambio climático (p.e., estrés por temperatura) en distintos estados ontogénicos de macroalgas pardas Laminariales (kelps) y microbiota epífita."
+            },
+            {
+              "id": 80,
+              "biografia": "Licenciado en Biología por la UABC trabajando con enzimas de hongos para biorremediación de insecticidas, y Maestría en Ciencias en Ecología Marina por el CICESE trabajando con consorcios microbianos para biorremediación de hidrocarburos. Después de mis estudios de maestría me incorporé como técnico en el Departamento de Procesos y Tecnología de la UAM-I trabajando en procesos de biorremediación de hidrocarburos en agua y suelos. Doctor en Ciencias en Ecología Marina por el CICESE trabajando con procesos de simbiosis en dinoflagelados y bacterias en el contexto de vitaminas. Posterior a la obtención de mi doctorado, me incorporé como investigador asociado al laboratorio de Biología Algal (CICESE) estudiando florecimientos algales nocivos. Realicé un posdoctorado en SDSU bajo la supervisión del profesor Carl Carrano, trabajando con procesos de simbiosis en dinoflagelados y bacterias en el contexto de hierro, así como los mecanismos moleculares involucrados en la formación de biopelículas por bacterias marinas. He recibido entrenamiento en virus marinos en los laboratorios de Curtis Suttle (UBC-Canadá) y Forest Rohwer (SDSU-USA), y en técnicas de hibridación in situ (Max Planck Institute-Alemania). Actualmente desarrollo la línea de “Ecología microbiana asociada a macrófitos marinos bajo la perspectiva del holobionte”."
+            },
+            {
+              "id": 42,
+              "biografia": "El Dr. José Antonio Zertuche González, obtuvo su grado de Oceanológo en la Escuela Superior de Ciencias Marinas (1978) y su Maestría y Doctorado en Oceanografía en la Universidad Estatal de Nueva York en Stony Brook (1988). En 1985, se incorporó al Instituto de Investigaciones Oceanológicas de la UABC. Actualmente es profesor titular “C”. Coordinador del Doctorado en Oceanografía Costera de la UABC (90-94). Presidente de la Sociedad Mexicana de Ficología de 1993-96. Premio al Mérito Académico en el Área de Ciencias Naturales y Exactas de la UABC (1993) y en el área de Ciencias Agrícolas (2020). Es autor de 75 artículos arbitrados, 5 publicaciones FAO y 13 capítulos en libros. Ha dirigido 15 tesis de Licenciatura, 15 de Maestría y 7 de Doctorado. Ha sido conferencista invitado en Estados Unidos, China, Canadá, Rusia, Cuba, Chile, Venezuela, Brasil, Corea y Noruega. Fue profesor visitante en la Universidad de Connecticut y en la Universidad de Jinan (China). Asesor de la FAO y de compañías nacionales e internacionales dedicadas al aprovechamiento de las algas marinas. Sus investigaciones dieron lugar a la primera granja comercial de macroalgas en México.  Investigador Nacional S.N.I. Nivel 2.  En abril del 2017 fue nombrado Investigador Emérito por la UABC."
+            },
+            { "id": 15, "biografia": "" }
+          ]
+        },
+        {
+          "name": "Ecología, conservación y manejo de recursos marinos",
+          "integrantes": [
+            {
+              "id": 6,
+              "biografia": "Realicé mis estudios de Licenciatura en el ITESM, Campus Guaymas, de Maestría en Ecología Marina en el CICESE y de Doctorado en Ciencias Pesqueras en la Universidad Estatal de Oregon, USA. Soy investigadora titular del Instituto de Investigaciones Oceanológicas desde el 2002, en donde desarrollo líneas de investigación orientadas a entender los procesos biológicos y ecológicos de las poblaciones y ecosistemas marinos de Baja California, que son especialmente vulnerables a los disturbios antropogénicos y fenómenos naturales que afectan su funcionamiento. También me interesa entender el proceso de recuperación de las poblaciones y comunidades que se encuentran bajo diferentes esquemas de protección y manejo. He publicado 27 artículos de investigación en revistas indexadas en Scopus, SCImago y Web of Science. Participo en los programas de Doctorado en Medio Ambiente y Desarrollo y Oceanografía Costera en donde he dirigido 6 tesis de doctorado, 10 de maestría y 2 de licenciatura. Nivel I del SNI. Revisora de revistas indexadas como Ecology, Ecological Modelling, Journal of Applied Phycology, Aquaculture Economics & Management, Ciencias Marinas, Oceánides, Hidrobiológica, entre otras."
+            },
+            {
+              "id": 30,
+              "biografia": "Luis Malpica Cruz es Oceanólogo por la Facultad de Ciencias Marinas de la UABC (2005), tiene una Maestría en Ecología Marina del CICESE (2009), y obtuvo el grado de doctor en Biología por la Simon Fraser University (Canadá, 2017). Sus líneas de investigación abarcan diferentes aspectos sobre la ecología marina, el manejo y la conservación de recursos naturales marinos. Ha realizado proyectos de investigación sobre ecología trófica de depredadores del pacífico noreste y mesodepredores invasores del Caribe y Golfo de México, principalmente usando técnicas de ecología isotópica. También se enfoca en el estudio de cómo diferentes estresores que están produciendo cambios globales afectan la dinámica de sistemas socioecológicos marinos, desde el punto de vista de su adaptabilidad, resiliencia y manejo. Actualmente ofrece cursos y dirige estudiantes de posgrado en los programas de Oceanografía Costera, Medio Ambiente y Desarrollo y Manejo en Ecosistemas de la UABC."
+            }
+          ]
+        },
+        {
+          "name": "Ecología Molecular",
+          "integrantes": [
+            {
+              "id": 19,
+              "biografia": "Francisco Correa is a biologist and marine biogeographer with research interests in interactions between species, marine ecosystems, and geographical distribution. His work encompasses studies of the marine biology, population genetics, and molecular and ecological biogeography of intertidal rocky shore macroinvertebrates in the Pacific Baja islands. He is interested in the evolutionary process and how species respond to geomagnetic reversals using published fossils records databases."
+            }
+          ]
+        }
+      ],
+      "serv_y_lab": {
+        "servicios": "<ul><li>Unidad piloto comercial para el cultivo de macroalgas</li><li>Cuarto de buceo para almacenamiento, y endulzamiento de equipo de buceo científico y monitoreo ecológico.</li><li>Servicios de peritaje y elaboración de dictámenes de genética forense de vida silvestre y compensación de daño en apoyo a PGR y PROFEPA. </li><li>Cursos intensivos de capacitación en identificación morfológica y molecular de totoaba a peritos ambientales de la PGR.</li></ul>",
+        "laboratorios": "<ul><li>Laboratorio principal para análisis de descriptores biológicos de macrófitos marinos, con áreas de microscopía, fotobiología y cultivo de macroalgas.</li><li>Laboratorio de bioensayos 1 para la ejecución de experimentos a pequeña escala. Sistemas de recirculación de agua de mar en acuarios (50 L) con capacidad de control de parámetros experimentales (pH, temperatura, irradiancia).</li><li>Laboratorio de Mesocosmos. Sistemas “outdoor” de recirculación de agua de mar en tanques (1 m3) con capacidad de control de parámetros experimentales (pH, temperatura, irradiancia).</li><li>Laboratorio seco para procesamiento de datos, análisis de microscopía, y preparación de muestras para diversos análisis ecológicos (e.g. comunidad, riqueza, diversidad, isotópicos, etc.)</li><li>Laboratorio de bioensayos para estudios de alimentación, crecimiento y comportamiento de organismos marinos en acuarios (20-50L), con capacidad de control de parámetros experimentales (pH, temperatura).</li></ul>"
+      },
+      "tesistas": "<ul><li>Manuel Vivanco Bercovich. “Respuestas de pastos marinos de Baja California (Phyllospadix scouleri y Phyllospadix torreyi) al estrés térmico asociado a olas de calor marinas”. Doctorado en Medio Ambiente y Desarrollo UABC.</li><li>Paula Bonet Meliá. “Metabolismo y flujos de nitrógeno en el pasto marino Phyllospadix scouleri y su variación bajo condiciones de estrés térmico”.</li><li>Antonella Carolina Almeida Saa. “Respuestas ecofisiológicas y desarrollo de diferentes estados ontogénicos de macroalgas Laminariales frente a condiciones de estrés térmico”. Doctorado en Medio Ambiente y Desarrollo UABC.</li><li>Everly Nevarez. “Relación del microbioma epífito con la concentración de vitaminas de Ulva onhoi en condiciones de cultivo”. Maestría en Oc. Costera UABC</li><li>Jessica García Pantoja. “Implantación de plan de monitoreo en praderas marinas de Phyllospadix y evaluación de su papel como sistemas de Carbono Azul”. Licenciatura Oceanología UABC.</li><li>Mariana R. Ferrera Rodríguez. “Análisis genético y ecológico de la comunidad de peces asociadas a los bosques de macroalgas de Baja California“. Doctorado en Oc. Costera UABC. </li><li>Antonio Gómez Gómez. “Evaluación de la resiliencia de los sistemas socioecológicos pesqueros bajo esquemas de manejo de proyectos de mejora pesquera“. Doctorado en Medio Ambiente y Desarrollo UABC</li><li>María Teresa Tavera Ortíz. “Indicadores de la Resiliencia del Ecosistema de Bosques de Macroalgas del Pacífico Mexicano“. Doctorado en Oc. Costera UABC.</li><li>Marina Hirales Cota. “Evaluación de la resiliencia socioecológica de humedales costeros de la Península de Baja California“. Doctorado en Medio Ambiente y Desarrollo UABC</li><li>Beatriz Ibarra Macías. “Estado actual de las poblaciones de abulón negro (Haliotis cracherodii) en Baja California: Propuesta de zonas de reserva para su recuperación”. Doctorado en Medio Ambiente y Desarrollo UABC</li><li>Tránsito González Medina. “Evaluación de los refugios pesqueros como herramienta de mejora de la conservación en la Reserva de la Biosfera Islas del Pacífico de la Península de Baja California”. Doctorado en Medio Ambiente y Desarrollo UABC</li><li>Claudia Teresa Cabrera Sánchez. “Evaluación de la cadena de valor de la pesquería de erizo en Baja California, México”. Doctorado en Medio Ambiente y Desarrollo UABC</li><li>Antonio Gómez Gómez. “Evaluación de la resiliencia de los sistemas socioecológicos pesqueros bajo esquemas de manejo de proyectos de mejora pesquera”. Doctorado en Medio Ambiente y Desarrollo UABC.</li><li>Biviana Abdaly Cortez Gaytan. “Efectos indirectos de la pesca artesanal en la comunidad biótica de los bosques de sargazo gigante de Baja California, México”. Lic. en Oceanología UABC.</li><li>Rodrigo Castro Calderón. “Ciclo Reproductivo del abulón negro (Haliotis cracherodii) en Baja California”. Lic. en Oceanología UABC.</li><li>Jose Alfredo Ortiz-Sartorius. Doctorado en Oc. Costera UABC.</li></ul>",
+      "proyectos_vigentes": "<ul><li>Evaluación de los efectos del cambio climático en la vegetación marina sumergida: integración de las respuestas a los niveles molecular, fisiológico y de comunidad (CLIMAVEMAR). Ciencia Básica CONACYT A1-S-8382.</li><li>Aplicación de Biología Sintética para la Adaptación al Cambio Climático de Macroalgas con Interés para Acuicultura. Proyecto Conv. Interna UABC 648</li><li>Selección y Caracterización de macroalgas cultivables. Productos Marinos de las Californias (2021-2023).</li><li>Desarrollo sostenible en comunidades pesqueras de la reserva de la biósfera de las islas del Pacífico de la Península de Baja California. 22ª. Convocatoria Interna de Apoyo a Proyectos de Investigación-UABC.  </li><li>Kelp forest recovery after an extreme warming event in Baja California. Proyecto de Colaboración con la Universidad de Queensland Australia. </li><li>Las inversiones geomagnéticas de la tierra y su probable asociación con los eventos de especiación y extinciones masivas. 403/2911 </li></ul>",
+      "publicaciones": null,
+      "mision": "Integrar distintas disciplinas de la ecología marina para generar y difundir conocimiento de frontera acerca de los organismos y recursos biológicos marinos (y sus procesos ecológicos), para que éste contribuya a la consecución de distintas objetivos prioritarios, entre los que se incluyen: i) la conservación y el aprovechamiento racional de las biocenosis de zona costera en beneficio de la sociedad y el ambiente, ii) la formación de recursos humanos de alto nivel en el ámbito científico y tecnológico, o iii) la evaluación e implementación de estrategias que mejoren el manejo y aseguren la sostenibilidad de los recursos naturales marinos de Baja California y México.",
+      "vision": "Destacar bajo estándares académicos y científicos internacionales como grupo multidisciplinario de investigadores(as) que incorpora e integra diferentes metodologías, herramientas y estrategias de investigación en ciencia básica y aplicada para generar conocimiento de frontera sobre los procesos ecológicos marinos y sus servicios ecosistémicos. Establecer una red de colaboración sólida con investigadores de otras instituciones, nacionales e internacionales, que enriquezca nuestra investigación de las ciencias del mar en el ambiente zona costera, promueva nuevas líneas de investigación prioritarias en México y otros países, y fortalezca nuestros programas de posgrado. Que nuestros ejercicios de investigación y docencia sean reconocidos por la sociedad como actividades fundamentales para el desarrollo de la región y del país.",
+      "description": "El área de Ecología Marina Integrativa incluye a investigadores(as) de diversas disciplinas, que a través de distintas perspectivas, abordan el estudio de los organismos y recursos biológicos marinos, considerando sus distintos niveles funcionales de organización (molecular-fisiológico/metabólico-organismo-comunidad-ecosistema). Se atiende también a sus procesos ecológicos en un medio ambiente altamente variable y dinámico, o bajo condiciones de impactos antropogénicos, y se evalúan estrategias para mejorar su manejo y sostenibilidad. Esta área integra distintas líneas de investigación, entre las que se incluyen: <br><br> <ul> <li>Ecología y fisiología de flora marina y cultivo de macroalgas.</li> <li>Ecología de la microbiota asociada a macrófitos marinos bajo la perspectiva del holobionte.</li> <li>Ecología trófica de organismos marinos.</li> <li>Conservación y manejo de recursos marinos.</li> <li>Resiliencia de sistemas socio-ecológicos marinos.</li> <li>Genética de poblaciones, biología molecular y ecología de macroinvertebrados.</li> <li>Procesos evolutivos (extinción y especiación) forzados por cambios globales.</li></ul>",
+      "link": ""
+    },
+    {
+      "name": "biogeoquimica-marina-y-cambio-global",
+      "title": "Biogeoquímica Marina y Cambio Global",
+      "ta": [64, 62, 45],
+      "ca": [
+        {
+          "name": "Oceanografía Química, Biogeoquímica y Contaminación del Medio Ambiente Marino",
+          "integrantes": [
+            {
+              "id": 27,
+              "biografia": "Estudió la carrera de Oceanología en la Facultad de Ciencias Marinas, la maestría en la University of the Pacific (California), el doctorado en Texas A&M University, y realizó estancia posdoctoral en el Centre Eau Terre Environnement (Québec, Canada). Los intereses del Dr. Huerta se enfocan en el estudio de metales traza desde dos puntos de vista diferentes aunque interconectados: biogeoquímico y de impacto antropogénico (contaminación). En el primer caso he estudiado el comportamiento de elementos traza en el presente y en el pasado, tomando en cuenta los procesos biogeoquímicos (diagenéticos) que ocurren en sedimentos, agua intersticial, tapetes microbianos y macroalgas, para explicar su comportamiento y asociación con los componentes mayores del ambiente que rodea a cada matriz. En el segundo caso me he concentrado en la medición de metales traza en sedimentos y en organismos bioindicadores de contaminación para estudiar su comportamiento (desde el punto de vista biogeoquímico), su historia y su distribución en zonas con aportes antropogénicos importantes. Ha contribuido con más de 60 publicaciones y capítulos de libros a su área de conocimiento, razón por la cual ha sido nombrado Editor en Jefe de la revista Ciencias Marinas, además de actuar como Editor Asociado de las revistas Journal of Geochemical Exploration y Frontiers Marine Science-Marine Biogeochemistry. Pertenece al Sistema Nacional de Investigadores (Nivel III) y tiene reconocimiento Perfil PRODEP. Es miembro del Comité Externo de Evaluación del Centro de Investigación Científica y de Educación Superior de Ensenada, de la Academia Mexicana de Ciencias y de la Academia de Ciencias de Baja California. Fue Director de la Escuela Superior de Ciencias Marinas, Profesor Convidat de la Universidad de las Islas Baleares, Presidente de la Academia de Ciencias Naturales y Exactas de la UABC, y Mérito Académico de la UABC."
+            },
+            {
+              "id": 16,
+              "biografia": "Oceanólogo por la UABC, con Maestría en Ciencias en Ecología Marina del CICESE y Doctorado en Oceanografía en la University of Wales, Reino Unido. Es especialista en estudios de biogeoquímica de nutrientes inorgánicos disueltos y de carbono y nitrógeno orgánico en ecosistemas marinos someros y profundos. Participó como Mentor Regional para América Latina con el proyecto Land-Ocean Interactions in the Coastal Zone del IGBP, pertenece al Sistema Nacional de Investigadores y cuenta con el reconocimiento Perfil PROMEP. He realizado estudios multidisciplinarios en Bahía San Quintín relacionados con  la dinámica del nitrógeno y su relación con las surgencias, las mareas, los pastos marinos y los cultivos de ostión. Participa en el Consorcio de Investigación del Golfo de México realizando investigación sobre  nutrientes en la región profunda del golfo de México y el efecto de los remolinos de mesoescala en los procesos biogeoquímicos."
+            },
+            {
+              "id": 21,
+              "biografia": "El Dr. Delgadillo-Hinojosa tiene un Doctorado en Oceanografía Costera (UABC-México) y un posdoctorado en Scripps Institution of Oceanography (UCSD-USA). Su principal interés está enfocado en la biogeoquímica de los metales traza bioactivos en el ambiente marino.  Uno de sus objetivos es tratar de elucidar cuantitativamente como los factores físicos (Mezcla vertical, remolinos de mesoescala), los aportes externos (antropogénicos, eólicos, bentónicos) y los procesos biológicos (captación, remineralización) afectan la variabilidad de los metales traza y los nutrientes inorgánicos en distintos sistemas acuáticos mexicanos, incluyendo lagunas costeras y mares marginales como el Golfo de California y el Golfo de México. También está interesado en investigar las interacciones entre las partículas y las propiedades químicas del agua de mar para entender la influencia de los aportes atmosféricos de metales al océano en un escenario futuro de potencial incremento de la desertificación y de los flujos de polvo hacia el mar y, en consecuencia, valorar la magnitud de sus efectos sobre la actividad biológica de los productores primarios y el funcionamiento del ecosistema marino."
+            },
+            {
+              "id": 26,
+              "biografia": "Oceanólogo con estudios de doctorado en Oceanografía Costera en la Facultad de Ciencias Marinas de la Universidad Autónoma de Baja California y posdoctorado en Scripps Institution of Oceanography en San Diego, California. El Dr. Hernández es Especialista sobre el Sistema del Dióxido de Carbono en el agua de mar y biogeoquímica marina. Sus investigaciones se han enfocado estudiar el papel de las zonas costeras en el ciclo del carbono, incluyendo el efecto de la acidificación de los océanos (AO) en los ecosistemas marinos y la relación de la AO con otros factores de estrés como la hipoxia, cambio climático y flujos de CO2 en regiones costeras. Es autor en publicaciones internacionales y en capítulos de libro y ha sido revisor en revistas internacionales. Pertenece al Sistema Nacional de Investigadores y tiene reconocimiento Perfil PROMEP desde el 2000. Forma parte del comité científico del Programa Imecocal (Investigaciones Mexicanas de la Corriente de California), funge como Coordinador General del Programa Mexicano del Carbono desde el 2019, es Science member of the Ocean Acidification Observing Network (GOA-ON) Executive Council, es representante de Surface Ocean Lower Atmosphere Study (SOLAS) en México, es parte del North American Carbon Program Science Leadership Group y es enlace internacional  de la red Latinoamericana de estudios de la Acidificación del Océano (LAOCA) con el GOAON."
+            },
+            {
+              "id": 39,
+              "biografia": "Mi principal interés de investigación son los procesos biogeoquímicos de los metales traza en ambientes sedimentarios marinos costeros, en particular los ambientes extremos (e.g., hipersalinos, atalosalinos), así como en las vías por las cuales los metales traza pueden ser removidos de la columna de agua por tapetes microbianos y sedimentos. Adicionalmente, estoy interesado en el desarrollo de proxies de variables químicas en ambientes extremos (e.g., hipersalino, hidrotermal), especialmente si tienen implicaciones en geomicrobiología, oceanografía química, paleoceanografía y astrobiología. Finalmente, estoy interesado en determinar con índices geoquímicos la contaminación por metales en sedimentos particularmente en áreas naturales protegidas."
+            },
+            {
+              "id": 12,
+              "biografia": "Ecólogo por la Universidad Estatal de Sonora, la maestría en Ecología Marina en CICESE y estudios de doctorado en la UABC. La línea de investigación que desarrolla está enfocada en estudiar la interacción de procesos biogeoquímicos en ambientes arrecifales, especialmente en procesos que controlan la calcificación coralina. Para esto ha estudiado diversos componentes de estos ambientes, como la medición de variables biogeoquímicas en la columna de agua (mediante el uso de sensores autónomos), hasta cuantificar la respuesta de elementos del componente biológico, como la respuesta de la calcificación de corales a variables ambientales por medio de análisis esclerocronológicos de esqueletos de las principales especies constructoras de arrecifes en el Pacífico mexicano. Información clave para conocer y evaluar la respuesta del balance del CaCO3 en estos ambientes en el contexto de estresores del cambio global, como la acidificación del océano."
+            },
+            {
+              "id": 37,
+              "biografia": "Mi investigación sobre el ciclo del N se centra en aspectos de la ecología microbiana y procesos biogeoquímicos en ambientes acuáticos, principalmente sedimentos costeros, cuencas anóxicas y zonas de mínimo de oxígeno donde tienen lugar las principales rutas de eliminación y reciclado. Me interesa el vínculo entre la materia orgánica y microorganismos en ecosistemas acuáticos, principalmente oceánicos, estudiando rutas de mineralización de fracciones disueltas y modificaciones a flujos verticales de C en la columna de agua."
+            }
+          ]
+        }
+      ],
+      "serv_y_lab": {
+        "servicios": "<ul><li>Cuantificación de nutrientes y carbono orgánico en aguas naturales.</li><li>Cuantificación de metales en distintas matrices marinas (agua, sedimento, tejidos biológicos). </li><li>Cuantificación del pH, alcalinidad total y carbono inorgánico disuelto en aguas naturales.</li><li>Cuantificación de metales y elementos traza en distintas matrices (sedimentos y tejidos biológicos).</li></ul>",
+        "laboratorios": "<ul><li>Laboratorio de biogeoquímica de nutrientes: Cuenta con un analizador automatizado de nutrientes para análisis simultáneos de nitrato+nitrito, nitrito, amonio y ácido silícico en aguas naturales (SEAL HR-3). También se cuenta con un analizador de carbono orgánico disuelto y nitrógeno total disuelto (Shimadzu TOC-L). Se han implementado metodologías para la determinación de nutrientes y carbono orgánico disuelto en agua de mar comparables con bases de datos internacionales a través del análisis rutinario de materiales certificados de referencia para agua de mar.</li><li>Laboratorio de biogeoquímica de metales traza: Este espacio está dividido en dos secciones. La primera es la del laboratorio de ultra-limpieza, equipado con campanas de flujo laminar y atmósfera positiva, para el procesamiento y manejo impoluto de diferentes muestras sólidas o líquidas. La segunda sección es un laboratorio de instrumentación analítica especializado en el análisis cuantitativo de metales disueltos y particulados en muestras de origen marino. Este laboratorio cuenta con varios equipos de espectrofotometría de absorción atómica y tiene la capacidad de realizar mediciones de concentración a niveles traza (sub nanomolar). El personal que labora en estos espacios está capacitado para el manejo de los equipos de absorción atómica y la cuantificación con alta calidad analítica de la concentración de metales en matrices marinas, incluyendo agua, sedimentos, tapetes microbianos y tejidos biológicos de plantas y animales marinos. </li><li>Laboratorio de biogeoquímica de nutrientes y materia orgánica: Desarrollar cultivos controlados (microcosmos) que permitan entender los mecanismos que regulan la adquisición de los nutrientes y la exudación de materia orgánica por parte del fitoplancton. Así como determinar las tasas de las diferentes rutas que modulan el ciclo biogeoquímico del nitrógeno a partir de ensayos con muestras de agua y/o sedimento.</li><li>Laboratorio de biogeoquímica de metales: Medición de metales traza en sedimentos, suelos, tapetes microbianos, estromatolitos modernos y fósiles por espectrofotometría de absorción atómica (flama y grafito) y por fluorescencia de rayos-X. Determinación de metales disueltos en matrices complejas (hipersalinas). Experimentos en laboratorio e in situ de flujos de CO2 en tapetes microbianos hipersalinos.</li><li>Laboratorio del sistema del CO2: Laboratorio enfocado en el estudio del sistema del CO2 marino, empleando técnicas analíticas reconocidas a nivel internacional.</li><li>Laboratorio de biogeoquímica y contaminación marina: Laboratorio dividido en dos secciones: Laboratorio de Biogeoquímica y Contaminación Marina que es en donde se procesan las muestras, y Laboratorio de Espectroscopía en donde se encuentra la instrumentación analítica con la cual se miden las concentraciones de las muestras procesadas de sedimento, tejidos de organismos marinos y tapetes microbianos. En estos laboratorios, en donde también se desarrollan nuevas técnicas analíticas, se realizan mediciones de alta calidad y con personal calificado de metales traza (sedimentos, macroalgas, organismos marinos y tapetes microbianos), sulfuro volátil en ácido (AVS en sedimentos), carbonato de calcio (sedimentos) y fósforo (sedimentos y tapetes microbianos), para su aplicación a problemas de contaminación ambiental (ciencia aplicada) o para el estudio de sus ciclos biogeoquímicos (ciencia básica). Los dos laboratorios cuentan con campanas para la digestión de muestras, equipo de absorción atómica a la flama y con horno de grafito, equipo de espectrometría UV-Visible y equipo de fluorescencia de Rayos-X. La gran variedad de equipo analítico con que se cuenta hace posible realizar análisis de fósforo orgánico e inorgánico en sedimentos y de metales traza en diferentes fracciones geoquímicas presentes en matrices inorgánicas y orgánicas.</li><li>Laboratorio de biogeoquímica del carbono en arrecifes: Laboratorio enfocado en investigar procesos biogeoquímicos en arrecifes de coral interviniendo en el ciclo de los carbonatos, tanto en columna de agua como en organismos calcificadores. Para esto medimos variables del CO2 usando sensores autónomos, y el estudio de propiedades de esqueletos de coral, como densitometría, resistencia mecánica y análisis esclerocronológico.</li></ul>"
+      },
+      "tesistas": "<ul><li>Marcela Gómez-Romero. Controles de la distribución de los nutrientes en la Bahía Todos Santos, un estudio de modelación. Doctorado UNAM.</li><li>René Quintero Mata. Flujos verticales de nutrientes y carbono orgánico disuelto en un remolino de la Corriente de Lazo, Golfo de México. Doctorado UABC.</li><li>Jennifer Smith Saiza. Controles de la distribución espacial de los nutrientes inorgánicos disueltos en las zonas de Perdido y Coatzacoalcos, Golfo de México. Maestría UABC.</li><li>Paulina Torres Angulo. Distribución espacial de los nutrientes inorgánicos disueltos en la región profunda del Golfo de México durante el verano. Maestría UABC.</li><li>Jorge Velásquez Aristizábal. Bombeo vertical de nutrientes hacia la zona eufótica por remolinos de mesoescala en el Golfo de México. Doctorado UABC.</li><li>Erika Lee Sánchez. Controles físicos y biogeoquímicos de la distribución espacial y vertical de los nutrientes inorgánicos disueltos en aguas subsuperficiales de la región profunda del Golfo de México. Doctorado UABC.</li><li>Oscar Hernández Sánchez. δ15N de grupos selectos del zooplancton para inferir fuentes del nitrógeno en la zona de aguas profundas del golfo de México. Doctorado CICESE.</li><li>M. Quijano-del Olmo. Distribución horizontal y vertical de cobre disuelto en el Golfo de México. Doctorado UABC.</li><li>R.A. Gutiérrez. Variación espacial y estacional del manganeso disuelto en la bahía Todos Santos (verano 2008 – primavera 2009). Maestría UABC.</li><li>Paula Bonet. Metabolismo y flujos de nitrógeno en Phyllospadix sp. y su variación bajo condiciones de estrés térmico. Doctorado UABC.</li><li>Wilson Solís Tuberquías. Efecto de la presencia de la ostricultura en el ciclo del nitrógeno en la Bahía de San Quintín. Maestría UABC</li><li>Jair Ceja González. Enriquecimiento de Fe, Mn, Mo, As y Pb en núcleos sedimentarios del sistema lagunar atalosalino de Cuatro Ciénegas, Coahuila y del ambiente hipersalino de la salinera de Chula Vista, California. Maestría UABC.</li><li>Jonatan Paredes. Flujos de CO2 en la Región de las Grandes Islas. Licenciatura UABC.</li><li>Edgar Cortes. Metabolismo de Bahía de Los Ángeles. Maestría UABC.</li><li>Yamili Covarrubias. Química del carbono en la región sur de las costas de BC. Maestría IPN.</li><li>Gabriela Cervantes. Estudios de la química del carbono inorgánico y flujos de CO2 en el Golfo de México. Doctorado UABC.</li><li>Luz Martínez. Procesos oceanográficos que modifican los flujos de CO2 en Bahía de los Ángeles, Baja California. Doctorado UABC.</li><li>Lorena Trejo. Regionalización de la zona centro-sur del golfo de California con relación a los agentes forzantes que determinan la variabilidad del sistema de carbono. Doctorado UABC.</li><li>Cindy Rivera. Variabilidad del sistema de los carbonatos al Sur del Golfo de México. Doctorado ECOSUR.</li><li>Luz Martínez. Procesos oceanográficos que modifican los flujos de CO2 en Bahía de los Ángeles, Baja California. Doctorado UABC.</li><li>Alicia Uribe. Optimización de un sistema portátil de medición de pCO2 para cuantificar flujos de carbono. Maestría UABC.</li><li>Ángeles Milanés. Vulnerabilidad socioecológica y percepción social ante estresores ambientales en dos localidades arrecifales del Pacífico Mexicano. Doctorado UABC.</li><li>Jonathan García Orozco. Asociación del vanadio con la pirita sedimentaria y sus grados de piritización en diferentes ambientes sedimentarios modernos. Doctorado UABC.</li></ul>",
+      "proyectos_vigentes": "<ul><li>Florecimientos de fitoplancton en un remolino de la Corriente del Lazo. CONACYT Ciencia de Frontera-Sinergia. 2021-2024</li><li>Caracterización bio-óptica de la Bahía Todos Santos (Baja California, México): Línea base para el monitoreo de la variabilidad del color del océano usando sensores remotos de alta resolución en aguas costeras. CONACYT Ciencia de Frontera Grupo. 2020-2023.</li><li>Nitrogen cycling in marine sediments: canonical processes and new players assessed in an upwelling influenced coastal lagoon with oyster aquaculture. CONACYT Ciencia de Frontera-Grupo. 2021-2024.</li><li>Importancia de la biodisponibilidad de manganeso en la actividad diazotrófica y fotosintética de Trichodesmium erythraeum bajo diferentes condiciones lumínicas. PRODEP-NPTC. 2020-2022</li><li>Desarrollo de un sensor submarino de pH y temperatura con aplicaciones a estudios de la acidificación en zonas acuícolas. 22 Conv. Interna para CAs. 2020-2022.</li><li>Ambientes costeros naturalmente acidificados: Una ventana al futuro para evaluar los efectos de la acidificación del océano sobre organismos calcificadores. CONACYT Ciencia Básica. 2019-2022.</li><li>Objetando la hipótesis del refugio profundo y sus implicaciones ante un escenario de cambio climático. CONACYT Ciencia de Frontera 2019-Grupo. 2020-2023.</li></ul>",
+      "publicaciones": null,
+      "mision": "Realizar investigación básica y aplicada, así como formar recursos humanos de alto nivel, a través de dos enfoques fundamentales: (1) en el campo de la biogeoquímica del carbono, los nutrientes y los metales traza en mares mexicanos, con énfasis en comprender los ciclos de elementos importantes para sostener la vida marina (C, N, P, Si, Fe, Mn); y (2) investigación relacionada con elementos contaminantes que pueden tener con efectos potenciales adversos para la vida marina y la sociedad. Esta visión multidisciplinaria está orientada en comprender los efectos de problemáticas derivadas del cambio global sobre los océanos, como la desertificación, acidificación, hipoxia y eutrofización costera.",
+      "vision": "La UABC cuenta con un grupo líder en la investigación de la biogeoquímica marina y cambio global, el cual es ampliamente reconocido en América Latina por la calidad de sus investigaciones y la formación de recursos humanos. A través de sus estudios en ciencia básica se mejora el entendimiento del funcionamiento de ecosistemas marinos importantes para el desarrollo regional y nacional, abarcando desde aguas oceánicas hasta la zona costera. Las investigaciones que se realizan abordan tópicos de relevancia nacional e internacional, los cuales tienen un importante impacto en la sociedad, ya que se enfocan en estudiar los procesos biogeoquímicos que se presentan, o se han presentado, en los ecosistemas marinos, así como su potencial respuesta al calentamiento global, acidificación de los océanos, eutrofización costera y contaminación por metales pesados.",
+      "description": "El área de Biogeoquímica Marina y Cambio Global es un grupo líder en la investigación de los procesos involucrados en los ciclos biogeoquímicos de elementos como el C, N, Si, Fe y Mn, así como de elementos traza. Este grupo está conformado por investigadores de múltiples disciplinas que tienen como finalidad contribuir al conocimiento y comprensión de cómo los procesos naturales y antropogénicos modifican, y han modificado, la composición y flujo de elementos en los sistemas marinos, abarcando ambientes que van desde cuencas marinas hasta la zona costera.",
+      "link": ""
+    },
+    {
+      "name": "ciencias-ambientales-y-del-agua",
+      "title": "Ciencias Ambientales y del Agua",
+      "ta": [43, 60, 58],
+      "ca": [
+        {
+          "name": "Química Ambiental, Contaminación y Toxicología",
+          "integrantes": [
+            {
+              "id": 29,
+              "biografia": "Es un Oceanólogo egresado de Facultad de Ciencias Marinas de la Universidad Autónoma de Baja California, con estudios de Maestría en Química en la University of the Pacific en Stockton y de Doctorado en Química por la Universidad de California, San Diego, ambos ubicados en CA, E.U.A. Pertenece al Sistema Nacional de Investigadores Nivel II y cuenta con el Reconocimiento al Perfil Deseable (PRODEP-SEP) y ha sido galardonado con el Mérito Académico en el Área de Ciencias Naturales y Exactas por la UABC en 2010. Tiene una amplia experiencia en el campo de la contaminación ambiental (marina y terrestre), siendo reconocido a nivel local, estatal y nacional. Lo anterior le ha permitido colaborar con diferentes instituciones, como lo son el Instituto Nacional de Ecología (ahora INECC), con el Centro de Investigación y de Estudios Avanzados (CINVESTAV)-Unidad Mérida, con  el Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE), con la Universidad de Colima, con el Centro Interdisciplinario de Ciencias Marinas (CICIMAR)-Instituto Politécnico Nacional (IPN), con el Centro de Investigación y Desarrollo, A.C. (CIAD), con la Universidad Juárez Autónoma de Tabasco (UJAT), con el Instituto de Ciencias del Mar y Limnología de la UNAM,  e instituciones internacionales como the Southern California. Coastal Water Research Project (SCCWRP), Algalita Marine Research Foundation, la Universidad de Wisconsin Superior, entre otras. En la parte de investigación cuenta con cerca de 50 publicaciones. Así también tiene experiencia en cargos administrativos tales como integrante del Consejo Técnico del Instituto de Investigaciones Oceanológicas y actualmente forma parte del Comité de Estudios de Posgrado del Programa de Maestría y Doctorado en Oceanografía Costera."
+            },
+            {
+              "id": 10,
+              "biografia": "Es una Oceanóloga egresada de la Facultad de Ciencias Marinas, de la Universidad Autónoma de Baja California, misma en donde obtiene su grado de Maestría y Doctorado en Oceanografía Costera. En el campo de investigación de la Contaminación ambiental tiene una experiencia de ~20 años, en los cuales he participado en la formación de recursos humanos dentro de los programas de licenciatura y posgrado, tanto en la Facultad de Ciencias Marinas como de otras instituciones nacionales e internacionales. Pertenece al Sistema Nacional de Investigadores Nivel I y cuenta con el Reconocimiento al Perfil Deseable (PRODEP-SEP). Además, ha llevado a cabo la implementación y aplicación de diferentes técnicas de extracción y análisis de contaminantes orgánicos e inorgánicos, tales como: hidrocarburos del petróleo, pesticidas clorados, bifenilos policlorados, PBDEs, metales pesados y desde el 2016, trabaja en la implementación del análisis de microplásticos, lo que le ha permitido desarrollar esta línea de investigación. La Dra. Ramírez ha fungido como responsable técnico y coordinador de tres proyectos de investigación y ha participado como asociado en cerca de 17 proyectos. Como producto de estas investigaciones cuenta con 20 publicaciones. Actualmente se desempeña como jefe del Área de Ciencias Ambientales y del Agua. Además de participar en otros cargos administrativos tales como ser integrante del Consejo Técnico del Instituto de Investigaciones Oceanológicas, así como del Comité de Vinculación de la Facultad de Ciencias Marinas, y del Comité De Prevención y Atención de la Violencia de Género del campus Ensenada."
+            },
+            {
+              "id": 38,
+              "biografia": "Licenciada en Química por la Facultad de Química de la Universidad de Guanajuato y obtuvo el grado de Doctora en Ciencias (Biología) por el Instituto de Investigaciones en Biología Experimental (IIBE), ahora Departamento de Biología de la Universidad de Guanajuato. Realizó una estancia posdoctoral en el extranjero en la Estación Experimental del Zaidín del Consejo Superior de Investigaciones Científicas (EEZ-CSIC), en Granada, España y una estancia posdoctoral nacional en el Instituto de Fisiología Celular de la UNAM. Pertenece al Sistema Nacional de Investigadores Nivel I y cuenta con el Reconocimiento al Perfil Deseable (PRODEP-SEP).  Desde 2015 es investigadora del IIO y el objetivo de su investigación es generar conocimiento a nivel taxonómico, bioquímico y molecular sobre la diversidad microbiana, particularmente procariota, implicada en la degradación y/o transformación de compuestos tóxicos para utilizarla como herramientas en los procesos de descontaminación, así como su uso para monitorear el deterioro del ambiente marino costero. La Dra. Silva ha sido responsable técnico de cinco proyectos de investigación y asociado en 10 proyectos, tanto internos de la UABC, nacionales apoyados por CONACyT, así como internacionales.  Tiene alrededor de 25 publicaciones en revistas indizadas y ha participado en 17 congresos nacionales y 16 internacionales. También ha desempeñado cargos administrativos como ser parte del Consejo Técnico del IIO. Actualmente forma parte de la Academia de Ciencias Naturales y Exactas de la UABC."
+            }
+          ]
+        },
+        {
+          "name": "Agua y Ambiente",
+          "integrantes": [
+            {
+              "id": 0,
+              "biografia": "Egresado de la UABC y Doctor en Filosofía (PhD) en el área de Geoquímica por parte del Imperial College, Londres, Gran Bretaña. Desde 1998 ha sido investigador del Instituto de Investigaciones Oceanológicas de la UABC, en donde trabaja temas ambientales relacionados con el Río Colorado y el agua subterránea de Baja California.  Sus áreas de interés incluyen: intrusión marina, descargas subterráneas submarinas, recarga de acuíferos, trazadores geoquímicos, isótopos estables y radiactivos, así como la geoquímica sedimentaria y sedimentología. Cuenta con 65 publicaciones científicas y ha colaborado con diversos comités científicos en México y Alemania. Es miembro nivel 2 del Sistema Nacional de Investigadores del CONACYT. Fue reconocido por el Ayuntamiento de Ensenada como Ciudadano Distinguido en 2013. En 2016, la UABC le confirió el Reconocimiento al Mérito Académico de Ciencias Naturales y Exactas, por su contribución al estudio del agua y la formación de recursos humanos de alto nivel. En 2017, la Fundación Alexander von Humboldt lo reconoció por su destacado servicio en la colaboración académica internacional. Fue Editor en Jefe de la Revista Ciencias Marinas, Coordinador de Editorial y Difusión, Coordinador de Investigación y Posgrado, Fundador del Doctorado en Medio Ambiente y Desarrollo, así como Subdirector del IIO, entre otros cargos. Actualmente se desempeña como Director Provisional del IIO."
+            },
+            {
+              "id": 2,
+              "biografia": "Egresado de la Licenciatura en Oceanología de la UABC, con Maestría y Doctorado de la Universidad de Cranfield en el Reino Unido. Investigador del IIO desde 1999 en donde fundó el Laboratorio de Calidad del Agua del IIO. Ha colaborado con la Comisión Estatal de Servicios Públicos de Ensenada (CESPE) y con la Secretaría de Fomento Agropecuario (SEFOA) en la búsqueda de opciones de reuso del agua en la ciudad de Ensenada, lo cual finalmente se logró en mayo del 2016. Leopoldo también se ha vinculado con empresas como la Administración Portuaria Integral (API) de Ensenada, Energía Costa Azul y varias empresas consultoras locales y regionales. A su vez, ha recibido el apoyo de fundaciones como el CONACYT, UCMEXUS, la Agencia de Protección Ambiental del Estado de California (CalEPA) y proyectos internos de la UABC. El Dr. Mendoza ha publicado 1 libro y más de 45 artículos científicos los cuáles han sido citados en más de 1,100 ocasiones. Es Nivel 1 del Sistema Nacional de Investigadores desde el 2000. Ha realizado un par de estancias sabáticas en el Departamento de Ingeniería Civil y Ambiental de la Universidad de California en Davis. Ha sido árbitro de 20 revistas científicas internacionales. Actualmente es Editor Water Science and Technology (IWA) y miembro del Comité Editorial de Water and Environment Journal (Wiley & Sons) y se desempeña como Subdirector del IIO."
+            },
+            {
+              "id": 41,
+              "biografia": "Con formación como Ingeniería Civil (IT Chilpancingo, México), Maestra en Ingeniería Ambiental (UNAM), Doctora en Estudios Urbanos y Ambientales (El Colegio de México). Pertenece al Sistema Nacional de Investigadores Nivel I y Reconocimiento al Perfil Deseable (PRODEP-SEP). Coordinadora de Posgrado e Investigación en IIO-UABC y Coordinadora del programa de Doctorado en Medio Ambiente y Desarrollo de la UABC (agosto 2015-2017). Coordinadora del Nodo de Incidencia en Política Pública de Red de Socioecosistemas y Sustentabilidad y del Nodo de Conflictos por el Agua de la Red Temática de Gestión e Investigación del Agua (Ambas redes CONACyT). Dirección de nueve proyectos relacionados con estudios de impacto ambiental, la participación de la sociedad en el manejo del agua, el derecho humano al agua, la interfaz ciencia-política, y la comunicación pública de la ciencia ambiental y del agua. Trabajo con diferentes sectores: académicos, ONG’s y autoridades de los ámbitos federal, estatal y municipal para elaborar recomendaciones de políticas públicas basadas en evidencia científica y con usuarios del agua en zonas áridas, costeras y agrícolas. Su producción académica la componen 18 artículos arbitrados/indizados, 9 capítulos de libro, 4 derechos de autor, 12 tesistas de posgrado graduados, 3 reportes técnicos, 5 memorias, 30 conferencias, más de 20 congresos."
+            }
+          ]
+        }
+      ],
+      "serv_y_lab": {
+        "servicios": "<br>Los laboratorios del área de Ciencias Ambientales y del Agua ofrecen una diversidad de servicios analíticos en diferentes matrices ambientales: agua, suelo, sedimento, organismos, entre otras. De igual manera ofrecen servicios de consultoría para el desarrollo de proyectos, estudios e interpretación de resultados en los diversos campos de las ciencias ambientales. <br><br>El personal y equipo analítico es altamente especializado, cuyo objetivo es el análisis químico en todo tipo de muestras encaminados a detectar, identificar y cuantificar compuestos orgánicos a niveles bajos de concentración (niveles traza), así como compuestos inorgánicos, microbiológicos y fisicoquímicos, entre otros. <br><br><b>Análisis de contaminantes orgánicos persistentes:</b><ul><li>Pesticidas clorados, PCBs, PBDEs.</li><li>Análisis de hidrocarburos del petróleo (n-alcanos, PAHs y UCM), isótopos estables de carbono (δ¹³C) para compuestos específicos.</li></ul><br><br><b>Análisis de compuestos inorgánicos, microbiológicos y fisicoquímicos:</b><ul><li>Metales traza: Hg (total), Cu, Zn, Ni, Mn, Cr, Pb, Cd, así como Hierro, entre otros.</li><li>Microbiológicos:  coliformes fecales y totales.</li><li>Fisicoquímicos: dureza, DBO, DQO, etc.</li><li>Iones mayoritarios en agua mediante cromatografía de iones.</li></ul><br><br><b>Análisis de sedimentológicos, de suelos y de tasas de sedimentación:</b><ul><li>Distribución de tamaño de partículas mediante tamices y dispersión láser.</li><li>Medición de radioisótopos mediante decaimiento gamma (210Pb, 226Ra, 137Cs, etc.).</li></ul>"
+      },
+      "tesistas": "<ul><li>Angela Ángel-Moreno Briones.  “Ingestión de plásticos y niveles de compuestos orgánicos persistentes en tiburones en la Bahía de la Paz, Baja California Sur” (Codirección). Doctorado en Ciencias Marinas CICIMAR-Instituto Politécnico Nacional, La Paz, B.C.S.</li><li>Osmar Roberto Araujo Leyva. “Caracterización de la estructura de la comunidad de poliquetos y su asociación con la composición química del sedimento en espacio y tiempo a lo largo de la franja costera Tijuana-Ensenada, Baja California, México”. Doctorado en Oceanografía Costera UABC.</li><li>Martha Liliana Cifuentes Torres. “Hidroponia con aguas residuales para el cultivo de flores”. Doctorado en Medio Ambiente y Desarrollo UABC.</li><li>Astrid Hernández Cruz. “Modelación del manejo del agua en Baja California”. Doctorado en Medio Ambiente y Desarrollo UABC.</li><li>Guadalupe Díaz. “Modelación geoestadística y análisis hidrogeoquímico de la vulnerabilidad en el acuífero Valle de Guadalupe” con la implementación del método drastic”. Doctorado en Medio Ambiente y Desarrollo UABC.</li><li>Vanesa Elizabeth García Searcy. “Metodología para la evaluación del Derecho Humano al Saneamiento. Caso de estudio: Centro de Población de Ensenada, Baja California.” Doctorado en Medio Ambiente y Desarrollo UABC.</li><li>Elizabeth Violeta Iris Maldonado. “Manejo participativo de la calidad del agua en la región Camalú-San Quintín, B.C.: el caso de la colonia Benito Juárez”. Maestría en Manejo de Ecosistemas en Zonas Áridas UABC.</li><li>Juan Carlos Jara. “Acumulación de contaminantes orgánicos persistentes en el sitio RAMSAR, Estero de Punta Banda, Baja California”. Maestría en Oceanografía Costera UABC.</li><li>Eduardo Antonio Lozano Hernández. “Variación temporal de microplásticos y PAEs en organismos, sedimentos y agua superficial de Bahía de Todos Santos, México”. Doctorado en Oceanografía Costera UABC.</li><li>Nayla Berenice Muñoz Euán. “El empleo de aguas residuales en acuaponia”. Doctorado en Medio Ambiente y Desarrollo UABC. </li><li>Héctor Cortés Núñez. “Nanotecnologías de desalinización del agua para el municipio de San Quintín, Baja California, México”. Especialidad en Gestión Ambiental UABC. </li><li>Edith Domínguez Rendón. “El monitoreo participativo de la calidad del agua en delegaciones del municipio de San Quintín, Baja California.” Doctorado en Medio Ambiente y Desarrollo UABC.</li><li>Víctor Arturo Ricárdez García. “Análisis de sistemas socio-ecológicos costeros de Baja California para la gestión de conflictos por agua ante el desarrollo de proyectos extractivos”. Doctorado en Medio Ambiente y Desarrollo UABC.</li><li>Mariana Ana Laura Sáenz-Avalos. “Distribución de hidrocarburos (HA ́s n-alcanos y PHA ́s) en las aguas del Golfo de México”. Maestría en Oceanografía Costera UABC. </li><li>Ángeles Yazmín Sánchez Cruz. “Actualización del Plan de Manejo del Sitio Ramsar de Bahía Adair dentro de la Reserva del Alto Golfo de California y Delta del Río Colorado.” Maestría en Manejo de Ecosistemas en Zonas Áridas UABC.</li><li>Andrés Sandoval Villa. “Presencia de sistemas de transducción de señales en Pseudomonas stutzeri y su relación con características fenotípicas.” (Codirección). Licenciatura en Químico Farmacéutico Biólogo UACJ.</li><li>Daniela Soto Montes. “Caracterización de Pseudomonas stutzeri e identificación de sistemas de transducción de señales homólogos a CpxRA.” (Codirección). Licenciatura en Químico Farmacéutico Biólogo UACJ.</li><li>Ileana Sarahí Ramos Mendoza.  Maestría en Oceanografía Costera UABC </li><li>Osmar X. Villalobos Cristerna. “Estudio de la cultura de la legalidad en áreas marinas protegidas de Baja California.” Maestría en Manejo de Ecosistemas en Zonas Áridas UABC.</li></ul>",
+      "proyectos_vigentes": "<ul><li>Monitoreo participativo de la calidad del agua subterránea en zonas árido-costeras: el caso de la región de Camalú, Baja California” (2021-2022).</li><li>Estudio de la diversidad bacteriana y de genes marcadores asociados a la degradación de hidrocarburos y la resistencia a antibióticos en la zona costera de Baja California.</li><li>Fuentes, concentraciones, impactos y destinos de microplásticos (MP) en dos bahías de Baja California, México. Proyecto de la Convocatoria SEP-CONACyT. Ciencia Básica.2018-2022.</li><li>Investigación de las Interacciones Hidrogeoquímicas e Isotópicas Asociadas a la Recarga Artificial de Acuíferos Costeros con Agua Residual Tratada y su Descarga Submarina en el Noroeste de México (IRADES).</li><li>Hidroponía y acuaponía con agua residual tratada.</li><li>Cuenca de las Californias:  Bight 1998, 2003, 2008, 2013, 2018. Variación espacio-temporal de contaminantes orgánicos persistentes y metales traza de la parte sur de la Cuenca de las Californias (Frontera Tijuana-California a la BTS).</li><li>Proyecto CIGOM. Estudios de línea Base del Golfo de México (aguas profundas y sedimento). Monitoreo ambiental en aguas profundas del Golfo de México en respuesta al derrame petrolero asociado a la plataforma Deepwater Horizon.</li></ul>",
+      "mision": "Ampliar el conocimiento de los factores que intervienen en el deterioro ambiental, tierra-agua-aire, así como en los procesos que ayuden a la remediación de los impactos sobre él, incluyendo la incidencia en las políticas públicas, desde una perspectiva interdisciplinaria, de manera que se puedan regular o cambiar las tendencias del daño al ambiente ",
+      "vision": "Ser un área con reconocimiento nacional e internacional que contribuya al conocimiento del ambiente mediante la investigación y la formación de recursos humanos de alta calidad, a través de una formación interdisciplinaria, que incida en el cuidado del ambiente y el desarrollo de la sociedad, mediante tecnologías analíticas modernas y calidad humana.",
+      "description": "El área de Ciencias Ambientales y del Agua del Instituto de Investigaciones Oceanológicas está enfocada en la investigación interdisciplinaria del ambiente de manera que fomente el avance en el conocimiento de los factores que intervienen en el deterioro del medio, tierra-agua-aire, así como en los procesos que ayuden a la remediación de los impactos sobre él, incluyendo la incidencia en las políticas públicas que puedan regular o cambiar la tendencia del daño al ambiente y, por ende, a los seres vivos que habitamos en él.",
+      "publicaciones": null,
+      "link": ""
+    },
+    {
+      "name": "oceanografia-fisica",
+      "title": "Oceanografía Física",
+      "ta": [46, 44, 61],
+      "ca": [
+        {
+          "name": "Procesos Litorales",
+          "integrantes": [
+            {
+              "id": 36,
+              "biografia": "Licenciada en Ciencias Ambientales por la Universidad de Salamanca (España) y con maestría en Ingeniería Ambiental Costera por la Universidad de Southampton (Reino Unido), finalizó su doctorado en Morfodinámica Costera en la Universidad de Plymouth (Reino Unido) en el 2010. Posteriormente, realizó un posdoctorado en el Instituto de Ingeniería de la Universidad Nacional Autónoma de México (UNAM) en colaboración con el CINVESTAV-Mérida. Desde el 2012 es Investigadora Titular del Instituto de Investigaciones Oceanológicas de la Universidad Autónoma de Baja California (UABC), en Ensenada (Baja California, México). Pertenece al Sistema Nacional de Investigadores (SNI) de CONACyT y es nivel 1 desde el 2013. Ha sido la responsable de proyectos de investigación de relevancia nacional (SENER-CONACyT, INFR-CONACyT, Ciencia Básica-CONACyT, SEP-PRODEP, internos UABC) e internacional (UC-MEXUS). A la fecha ha titulado 1 estudiante de doctorado, 10 de maestría y 2 de licenciatura y actualmente dirige 4 tesis de doctorado y 1 de maestría. Es autora/coautora de más de 20 artículos indexados, contando con alrededor de 300 citas (ORCID:0000-0002-3872-1757; Scopus:21734550500) y ha presentado trabajos en 20 congresos internacionales (desde 2006) y en 8 nacionales (desde 2013). Ha dado 8 ponencias internacionales por invitación, es parte del Comité Editorial de la revista Frontiers in Marine Geosciences (https://www.frontiersin.org/journals/earth-science/sections/marine-geoscience#editorial-board), del Boletín de la Sociedad Geológica Mexicana (http://boletinsgm.igeolcu.unam.mx/bsgm/) y revisora de artículos en revistas de alto impacto (i.e. JGR, Scientific Reports, JCR, ESPL, MarGo, JEM)."
+            },
+            {
+              "id": 24,
+              "biografia": "El Dr. Héctor García Nava es Biólogo Marino por la Universidad del Mar y realizó estudios de Maestría y Doctorado en Oceanografía Física en el Centro de Investigación Científica y de Educación Superior de Ensenada, CICESE. Ha realizado estancias de investigación en la Universidad de Miami y una estancia posdoctoral en el marco de la Red de Desastres Hidrometeorológicos y Climáticos (ReDesClim-CONACyT). En 2012 se unió al Instituto de Investigaciones Oceanológicas de la Universidad Autónoma de Baja California donde labora como investigador titular. Es jefe del Área de Oceanografía Física desde 2017 y fue designado como Consejero Universitario para el periodo 2018-2019. <br><br>El Dr. García-Nava realiza investigación básica y aplicada en dinámica del oleaje, interacción atmósfera-océano y procesos costeros. En su trayectoria como investigador ha tenido a su cargo proyectos científicos en diferentes temas entre los que destacan el uso del oleaje como fuente de energía, el efecto del oleaje en la transferencia de propiedades entre el océano y la atmósfera, y el impacto de derrames de petróleo en la zona costera. Cuenta con 22 publicaciones en revistas especializadas con estricto arbitraje, es revisor para revistas nacionales e internacionales y es profesor de física en la licenciatura en Oceanología y de oceanografía física en los posgrados de Oceanografía Costera y de Medio Ambiente y Desarrollo de la UABC<br><br>Por su desempeño académico ha sido distinguido como miembro del Sistema Nacional de Investigadores desde 2013 (SNI-1) y como Profesor con Perfil Deseable PROMEP-SEP desde 2014. En 2011 recibió el Premio \"Francisco Medina Martínez\" a la mejor tesis de doctorado en geociencias, otorgado por la Unión Geofísica Mexicana. Otras distinciones recibidas incluyen becas para estancias de estudios e investigación otorgados por organismos internacionales como: Scientific Committee on Oceans Research <br>(SCOR), Nortek AS, Surface Ocean and Lower Atmosphere Study (SOLAS) y Waves In Shallow Environment (WISE) committee."
+            },
+            {
+              "id": 79,
+              "biografia": "Oceanólogo egresado de la Facultad de Ciencias Marinas de la UABC, con una Maestría en Oceanografía Física en CICESE y Doctorado en Ingeniería Costera y Oceanográfica de la Universidad de Florida. Ingresó al IIO en 2020. En 2021 obtuvo el nivel de candidato del Sistema Nacional de Investigadores. El objetivo de su investigación es ampliar el conocimiento limitado que se tiene de los procesos físicos que ocurren en los cuerpos costeros de México. "
+            }
+          ]
+        },
+        {
+          "name": "Oceanografía Operacional",
+          "integrantes": [
+            { "id": 32, "biografia": "" },
+            {
+              "id": 33,
+              "biografia": "Es Oceanólogo egresado de Escuela Superior de Ciencias Marinas hoy Facultad de Ciencias Marinas de la Universidad Autónoma de Baja California, realizo estudios de especialidad en Procesos Litorales y Maestría en Oceanografía Física en el Centro de Educación Científica y Educación Superior de Ensenada y posgrado de especialización en la Universidad de Sao Paulo Brasil, Universidad de Las palmas Gran Canaria y Universidad de Southampton Gran Bretaña. Finalizó el Doctorado en Oceanografía Costera em la Universidad Autónoma de Baja California, México. Es investigador titular de tiempo completo con 35 años de servicio en el Instituto de Investigaciones Oceanológicas. Pertenece al Sistema Nacional de Investigadores Nivel I y cuenta con el Reconocimiento al Perfil Deseable (PRODEP-SEP). Ha participado en un gran número de cruceros oceanográficos nacionales y del extranjero, entre los cuales se pueden destacar RRS Discovery, RRS James Cook, RV DeStaiguer, RV New Horizonte, RV Gordon Spraul, B/O Justo Sierra, B/O Francisco de Ulloa, B/O El Puma, y buques comisionados de la Armada de México, Alexander Humbold, ARM Altair y ARM Rio Suchiate, en los cuales se realizó toma de datos de oceanografía física, geológica y química en el Golfo de California, El Océano Pacífico, el Golfo de México y Mar  Caribe, además de incursiones en las costas del Reino Unido y costas Españolas. Miembro del Colegio de Oceanólogos de Baja California y de la Asociación de Oceanólogos de México en donde fue presidente 1990-92 y es actualmente vicepresidente 2019-2022. Miembro del comité organizador de 10 congresos nacionales de oceanografía y coordinador del Congreso de Investigadores del Mar de Cortés. Su producción académica está compuesta con artículos publicados en Deep Sea Research, Revista Ciencias Marinas, Estuarine Coastal and Shelf Science,,Revista de Ingeniería hidráulica en México, Revista Atmosfera, Science of the Total Environment ,Advances in microbiology, Journal of Marine Environmental engeneering. Tiene 5 capítulos de libro y un libro editado. Ha dirigido quince estudiantes, realizando tesis de licenciatura, uno de posgrado graduados, una gran cantidad de reportes técnicos, así como conferencias, congresos y cursos en el extranjero y en México. Ha participado como asociado en cerca de 30 proyectos de investigación de los cuales ha sido responsable técnico de más de 5 proyectos con diferentes fuentes de financiamiento tanto nacionales, CONACyT, PIFI, Universidad Autónoma de Baja California, Secretaría de Energía, Armada de México, así como financiamiento de fuentes extranjeras National Science Fundation, Naval Posgraduate School y UC MEXUS. Ha sido por 10 años el coordinador de la unidad académica del programa UABC internacional, centro de educación abierta y a distancia y programa de intercambio académico y estudiantil."
+            },
+            {
+              "id": 22,
+              "biografia": "Xavier Flores se graduó en 2002 como licenciado en Física, en 2006 obtuvo el grado de maestro en ciencias de la oceanografía y en 2011 el grado de doctor en ciencias. Entre 2007 y 2012 realizó diversas estancias académicas nacionales y extranjeras, además de una estancia posdoctoral en la Universidad de Hawaii USA. Pertenece al Sistema Nacional de Investigadores Nivel I y cuenta con el Reconocimiento al Perfil Deseable (PRODEP-SEP), además de tener en su historial la participación como miembro activo de diversos comités y nombramientos, entre los que destacan;  concejero del consorcio CONACIO/SEMAR, Jefe del Área de Oceanografía física del IIO-UABC, Consejo Técnico del IIO-UABC, Consejo de Vinculación del IIO-UABC, Comisión dictaminadora del IIO-UABC, Jurado de plazas del área de ciencias naturales y exactas de la UABC.  Dentro de sus proyectos más relevantes se pueden destacar; la creación de la red nacional de radares oceanográficos que es operativa desde el 2012 en las regiones del Pacifico, Golfo de México y Caribe mexicano. Creación del primer observatorio mexicano de variables oceanográficas en tiempo real. Diseño y construcción de instrumentación oceanográfica con telemetría en tiempo real.  Flores-Vidal cuenta con 19 trabajos publicados en revistas internacionales indexadas y arbitradas, es revisor de revistas como “Journal of Atmospheric and Ocean Technology” y “Journal of Geophysical Research”, además de evaluador de proyectos de investigación sometidos a instancias nacionales como CONACyT y extranjeras como COLCIENCIAS, Universidad de Costa Rica y programa ECOS México-Francia.  A la fecha, Flores-Vidal ha participado como jefe de más de 20 cruceros oceanográficos en países como; México, EE.UU., Filipinas, Taiwán y Perú. Sus metas a corto y mediano plazo son: impulsar la oceanografía operacional mediante la creación de observatorios en línea, desarrollo de instrumentación, generación de recursos humanos y colaboración con otras instituciones. Sus metas a largo plazo son: generar recursos humanos mexicanos altamente competitivos a nivel internacional, realizar mediciones oceanográficas con instrumentación desarrollada en México y generar un avance substancial en el estado actual de la investigación oceanográfica en México."
+            },
+            {
+              "id": 25,
+              "biografia": "El Dr. Napoleón Gudiño Elizondo es un Oceanólogo egresado de la Facultad de Ciencias Marinas de la UABC, con Maestría y Doctorado en Geociencias ambientales de CICESE. Director del laboratorio de Oceanografía aérea del Instituto de Investigaciones Oceanológicas (IIO-UABC). Sus principales temas de interés son la hidrología y transporte de sedimentos en cuencas costeras, procesos litorales, y la dispersión de sedimentos y otros contaminantes en la zona costera mediante el uso de percepción remota, vehículos aéreos no tripulados y modelos de simulación. El Dr. Gudiño pertenece al Sistema Nacional de Investigadores Nivel I, ha realizado estancias de investigación en Alemania, Islas Vírgenes y en los Estados Unidos. Estuvo contratado 2 años como investigador adjunto en San Diego State University, y 2 años como investigador postdoctoral en la escuela de ingeniería de University of California Irvine. Actualmente colabora activamente con otras instituciones de prestigio internacional, como lo son United States Geological Survey, US Environmental Protection Agency, NOAA, US Department of Agriculture, Universidad de Extremadura España, entre otras. Es autor / co-autor de 10 artículos científicos publicados en revistas indexadas, cuenta con más de 70 citas bibliográficas, y ha presentado sus trabajos en diversos congresos regionales, nacionales e internacionales. Ha sido Profesor por asignatura en licenciatura y posgrado en la UABC desde el 2012, y en marzo del 2020 se integró como investigador titular en el Departamento de Oceanografía física del IIO-UABC."
+            }
+          ]
+        }
+      ],
+      "mision": "Generar conocimiento y desarrollar tecnología en el ámbito de la Oceanografía Física para contribuir a la solución de problemas globales, nacionales y regionales a través de la investigación básica y aplicada, la difusión del conocimiento y la formación de estudiantes a nivel licenciatura y posgrado, dentro de un marco de responsabilidad, profesionalismo y ética que favorezca el beneficio social y el cuidado del medioambiente.",
+      "vision": "Ser un referente en el contexto científico nacional e internacional por la calidad y relevancia de la investigación realizada. Ser un ente que aporta al bienestar de la sociedad en general y de Baja California en particular a través de la investigación básica y aplicada y de la formación de recursos humanos de alta calidad. Contar con equipos y laboratorios científicos de vanguardia que permitan la realización de investigación científica de frontera así como proveer servicios de vinculación de la más alta calidad. Ser un ente que genera conocimiento del medio marino que permite promover el uso racional de los recursos naturales y fortalecer su gestión, contribuyendo así al bienestar social y la conservación del medio ambiente.",
+      "description": "El Área de Oceanografía Física del IIO está conformada por investigadores expertos en diferentes aspectos de la oceanografía física agrupados en los cuerpos académicos de Procesos Litorales y Oceanografía Operacional. El área realiza investigación científica básica y aplicada sobre procesos del medio marino y su interacción con la costa y la atmósfera. El Área de Oc. Física realiza investigación orientada a la solución de problemas marinos y costeros que incluyen, estudios de dispersión de contaminantes, de la variabilidad morfológica de las costas, cambios en patrones hidrodinámicos, la utilización de energías renovables marinas y los efectos del cambio climático",
+      "link": "",
+      "publicaciones": null,
+      "tesistas": "<ul><li>Angélica Romero Arteaga. Doctorado en Oceanografía Costera, UABC. Tesis: Variabilidad estacional de las corrientes costeras asociada al efecto de vientos sinópticos</li><li>Ashley David Gracia Barrera. Doctorado en Oceanografía Costera, UABC. Tesis: Morfodinámica del sistema playa-desembocadura lagunar de la Misión: procesos oceánicos y fluviales</li><li>Tadashi Kono Martínez. Doctorado en Oceanografía Costera, UABC. Tesis: Comportamiento cíclico de un sistema de barra-berma en una playa dominada por oleaje remoto: observaciones y modelación</li><li>Arantxa Villa Guerrero. Doctorado en Oceanografía Costera, UABC. Tesis: Variaciones hidrodinámicas de la Laguna San Ignacio (BCS) por efectos de cambio climático global, a través de mediciones de campo y la implementación de un modelo numérico</li><li>Beatriz Gasalla López. Maestría en Oceanografía Costera, UABC. Tesis: Efectos del oleaje asociado a tormentas lejanas en la morfodinámica de una playa intermedia en el NW de Baja California</li><li>Alexandre Tisseaux Navarro - Maestría en Oceanografía Costera, UABC. Tesis: Circulación residual en un estuario tropical</li><li>Natalia Pereida. Licenciatura en Oceanologia, UABC. Tesis: Remolinos en la Bahía de Todos Santos.</li><li>Noé Martínez Arias. Maestría en Oceanografía Costera, UABC. Tesis: Circulación superficial sobre la plataforma costera de Campeche-Yucatán</li><li>María del Rosario Ayala Enríquez. Doctorado en . IMTA. Tesis: Pronostico de Corrientes marinas en la Bahía de Todos Santos B.C.</li><li>Mayra Guadalupe Arredondo Gámez. Doctorado en Medio Ambiente y Desarrollo, UABC. Tesis: Evaluación del recurso eólico marino en la península de Baja California.</li><li>Emiliano Gorr Pozzi. Doctorado en Medio Ambiente y Desarrollo, UABC. Tesis: Viabilidad del uso del oleaje como energía renovable en Baja California.</li><li>Humberto Francisco Alonso Peinado. Doctorado en Medio Ambiente y Desarrollo, UABC. Tesis: Evaluación de la respuesta al aporte de nutrientes en la calidad del agua de una bahía somera.</li><li>Eduardo Santiago Ojeda. Doctorado en Oceanografía Costera, UABC. Tesis: Determinación de la potencia del oleaje y su extracción para la generación de energía eléctrica en las costas de Baja California</li><li>Mariana Elizabeth Espinosa Blas. Doctorado en Medio Ambiente y Desarrollo, UABC. Tesis: Estimación de la cobertura de nieve en la sierra San Pedro Martin.</li><li>Luis Alberto Peres-Carlos Yañez, Maestría en Ingeniería e Innovación, CETYS. Tesis: Diseño de un parque hidrológico-pedagógico en una zona de deslizamiento en Tijuana, B.C., México.</li></ul>",
+      "proyectos_vigentes": "<ul><li>Implementación de redes de observaciones oceanográficas para la generación de escenarios ante posibles contingencias relacionadas a la exploración y producción de hidrocarburos en aguas  profundas del Golfo de México, desarrollado por el Consorcio de Investigación Científica del Golfo de México (CIGoM). Financiado por el Fondo CONACyT-SENER Hidrocarburos (2016-2023)</li><li>Estudios morfológicos e hidrodinámicos para la instalación de una desalinizadora en San Quintín. Financiamiento externo: empresa Andrew and Williamson de México S.A. de C.V. (2020-2021).</li><li>Sistema de monitoreo en tiempo-real de corrientes marinas y presencia de sargazo en el Caribe mexicano. Financiado por el Fondo CONACyT Ciencia de Frontera. (2020-2023).</li><li>Red de radio escaterómetros oceanográficos y observatorio en tiempo real de las corrientes oceánicas superficiales en el Golfo de México. Financiado por el Fondo CONACyT-SENER hidrocarburos (2021-2023)</li><li>Evaluación del riesgo a la salud de usuarios de la playa Municipal de Ensenada por contaminación y ahogamiento. 20a Convocatoria Interna UABC. (2019-2021).</li><li>Centro Mexicano de Innovación en Energía del Océano CEMIE-Océano, linea temática Energía del Oleaje. Financiado por el Fondo CONACYT-SENER sustentabilidad energética (2017-2022).</li><li>Fortalecimiento del laboratorio de Oceanografía aérea del Instituto de Investigaciones Oceanológicas IIO-UABC. Financiado por el Fondo CONACyT Infraestructura (2021-2022)</li><li>Marco de referencia para el monitoreo de la extensión de escombros marinos y su impacto en la vegetación halófita utilizando Vehículos Aéreos No Tripulados y técnicas de fotogrametría. Financiado por US EPA - NADBANK (2021-2022).</li></ul>"
+    },
+    {
+      "name": "laboratorio-de-paleoceanografia",
+      "title": "Laboratorio de Paleoceanografía",
+      "description": "Gran parte de la investigación de José es interdisciplinaria, que va desde la Paleoceanografía – Paleoclimatología hasta la ecología marina y la biogeoquímica marina de estuarios, arrecifes de coral, lagunas costeras, praderas de pastos marinos, etc., principalmente a través del uso de aplicaciones geoquímicas de isótopos estables y metales traza en sedimentos, agua y corales. <br><br> Sus áreas de investigación incluyen el Pacífico Tropical Nororiental, el Golfo de California, el Sur del Golfo de México y el Caribe Mexicano. También realiza investigaciones sobre la degradación ambiental de los arrecifes de coral en el Caribe mexicano y el sur del Golfo de México.",
+      "ta": [47],
+      "ca": [
+        {
+          "name": "Geociencias Ambientales",
+          "integrantes": [
+            {
+              "id": 17,
+              "biografia": "José recibió su licenciatura en Oceanografía de la Universidad Autónoma de Baja California, México, y su doctorado en Geología/Geoquímica de la Universidad McMaster, Canadá (asesores: Dres. Mike Risk y Henry Schwarcz). Más tarde recibió una beca Fulbright para realizar investigaciones postdoctorales en la Institución Scripps de Oceanografía, Universidad de California, San Diego, EE. UU. (asesor: Prof. Chris Charles). José se desempaña como Investigador y Profesor del posgrado en Oceanografía Costera en el Instituto de Investigaciones Oceanográficas y de la Facultad de Ciencias Marinas, ambos de la Universidad Autónoma de Baja California, en Ensenada, México. Gran parte de la investigación de José es interdisciplinaria, que va desde la Paleoceanografía – Paleoclimatología hasta la ecología marina y la biogeoquímica marina de estuarios, arrecifes de coral, lagunas costeras, praderas de pastos marinos, etc., principalmente a través del uso de aplicaciones geoquímicas de isótopos estables y metales traza en sedimentos, agua y corales.<br> <br>Sus áreas de investigación incluyen el Pacífico Tropical Nororiental, el Golfo de California, el Sur del Golfo de México y el Caribe Mexicano. También realiza investigaciones sobre la degradación ambiental de los arrecifes de coral en el Caribe mexicano y el sur del Golfo de México. Colabora con numerosos científicos de México, Estados Unidos y Europa. Asimismo, ha organizado congresos nacionales en México y se ha desempeñado como organizador y moderador en reuniones internacionales como AGU, PAGES-IGBP, etc. Fue Presidente de la Sociedad Mexicana de Arrecifes de Coral, A.C.  Se desempeñó como jefe departamental durante varios años en su institución y ha servido en numerosos paneles de revisión científica nacionales e internacionales, como el Comité Directivo Científico PAGES-IGBP, etc. José es Editor Asociado del Comité Editorial de la revista científica Frontiers in Marine Sciences, sección de Arrecifes de Coral. También,  José ha sido profesor visitante en distinguidas universidades de Estados Unidos, Francia, España. La investigación de José se centra en comprender cómo el cambio climático afectará a los ecosistemas marinos costeros del Sistema de la Corriente de California y del Golfo de California"
+            }
+          ]
+        }
+      ],
+      "serv_y_lab": {
+        "laboratorios": "<ul><li>Laboratorio de Isótopos Estables y de Geociencias Ambientales</li></ul>"
+      },
+      "proyectos_vigentes": "<ul><li>Impacto del Calentamiento Global sobre las Surgencias Costeras de Baja California: Antropoceno vs Los últimos 2000 años</li></ul>",
+      "link": "",
+      "publicaciones": null
+    }
+  ],
+  "posgrados": [
+    {
+      "name": "doctorado-en-medio-ambiente-y-desarrollo",
+      "title": "Doctorado en Medio Ambiente y Desarrollo",
+      "description": "El programa propone un plan de estudios cuyo objetivo es introducir al alumno en las diversas metodologías para el estudio del medio ambiente y la planeación del desarrollo a través de la resolución de una serie de preguntas de investigación. Deseamos que el alumno idealmente sea capaz de analizar, entender y actuar sobre un sistema tratándolo como un todo. Los candidatos que sean aceptados al programa serán postulados para una beca CONACYT, cuyo otorgamiento dependerá del número de becas disponibles por parte del Consejo.",
+      "objetivos_gral": "Formar recursos humanos con alta capacidad innovadora, técnica y metodológica, para comprender los principios fundamentales que definen la relación sociedad-ambiente, con el fin de prevenir y prononer posibles soluciones para los problemas en el campo de Medio Ambiente y Desarrollo, mediante la realización de actividades de investigación original que pueda garantizar la conservación del medio ambiente y el desarrollo integral de la sociedad.",
+      "objetivos_espc": "<ul><li>Proveer al estudiante de una base teórica y metodológica para el trabajo interdisciplinario </li><li>Capacitar en actividades de investigación relacionadas con los problemas del Medio Ambiente y Desarrollo, con base en un entrenamiento y enfoque de trabajo interdisciplinario </li><li>Introducir a la complejidad de los estudios en materia ambiental</li><li>Desarrollar habilidades en el alumno que son útiles para el trabajo en equipo que se requiere para resolver problemas ambientales </li><li>La generación de conocimiento nuevo y original mediante una investigación propia como producto de un problema planteado desde su origen en la interdisciplinariedad. </li></ul>",
+      "link": "http://ambiente.ens.uabc.mx/"
+    },
+    {
+      "name": "oceanografia-costera",
+      "title": "Maestria y Doctorado en Oceanografía Costera",
+      "description": "Desde 1990 el programa de Maestría y Doctorado en Oceanografía Costera ha formado científicos que han destacado en diversas actividades académicas como investigadores, profesores, así como han tenido gran impacto en el desarrollo de planes de manejo, políticas públicas, emprendedores de empresas, así como impactos en la sociedad tanto a nivel regional como en el mundo. Los programas de Maestría y Doctorado en Oceanografía Costera están comprometidos en llevar a cabo investigación básica y aplicada, encaminada hacia la generación de nuevos conocimientos en el área de las ciencias del mar, que permitan un aprovechamiento responsable y sostenible de los recursos marinos y costeros.",
+      "objetivos": "El principal objetivo de la Maestría y Doctorado en Ciencias en Oceanografía Costera es proporcionar a sus estudiantes una formación rigurosa en las ciencias del mar, combinada con un conjunto de herramientas analíticas específicas que les permitan desarrollar investigación básica y aplicada de excelencia, para resolver una gran variedad de problemas que enfrentan nuestros mares, como el calentamiento global, acidificación del océano, contaminación y aprovechamiento de recursos de manera sostenible. Esta investigación deberá ser particularmente relevante para México, pero con presencia internacional. Los esfuerzos de estos programas de posgrado están dirigidos a generar profesionistas de primer nivel que puedan enfrentar con éxito los desafíos a los que se enfrenta la sociedad y el medio ambiente en el ámbito de la oceanografía costera.",
+      "link": "http://fcm.ens.uabc.mx/posgrado/oceanografia-costera.php"
+    },
+    {
+      "name": "gestion-ambiental",
+      "title": "Especialidad en Gestión Ambiental",
+      "description": "El programa de posgrado propone un esquema de enseñanza para egresar en un año, que entrene al alumno en el trabajo interdisciplinario a través de cursos teórico-prácticos obligatorios y optativos, que le permita integrar propuestas de solución a los problemas relacionados con la gestión ambiental.<br><br>El Programa de Posgrado de Especialidad en Gestión Ambiental tiene como principal objetivo entregar a sus alumnos un entrenamiento riguroso, junto con un conjunto de herramientas analíticas específicas que permita a los alumnos desarrollar un dominio sobre las herramientas metodológicas utilizadas en la gestión ambiental y en el diseño de políticas en el área ambiental y de recursos naturales. Los esfuerzos del programa estarán dirigidos a generar profesionales que puedan enfrentar con éxito los desafíos que impone la gestión ambiental.",
+      "objetivos": "<ul><li>Proveer bases teóricas, técnicas y metodologías interdisciplinarias para la propuesta de alternativas de solución a los problemas relacionados con la gestión ambiental.</li> <li>Capacitar en la identificación y estudio de los problemas asociados a la gestión ambiental, con base en un entrenamiento y enfoque de trabajo interdisciplinario, reflejo de la complejidad de los estudios en materia ambiental.</li> <li> Vincular las actividades de los estudiantes a las necesidades de los sectores, aportando insumos para la resolución de problemáticas socioambientales y logrando incidencia sistemática mediante la continuidad intergeneracional.</li></ul>",
+      "link": "http://fcm.ens.uabc.mx/posgrado/gestion-ambiental-especialidad.php"
+    }
+  ],
+  "transparencia": {
+    "cca": [
+      {
+        "name": "Comité de Estudios de Posgrado (Medio Ambiente y Desarrollo) 2021-2023",
+        "integrantes": [
+          { "name": "Dra. Cira Gabriela Montaño Moctezuma" },
+          { "name": "Dr. Rafael Bello Bedoy " },
+          { "name": "Dr. Luis Malpica Cruz" },
+          { "name": "Dr. Alberto Zepeda Domínguez" },
+          { "name": "Dra. Mariana Villada Canela" }
+        ]
+      },
+      {
+        "name": "Comité de Ética y de Evaluación de Investigación y Posgrado 2021-2023",
+        "integrantes": [
+          { "name": "Dr. Luis Malpica Cruz " },
+          { "name": "Dra. Nancy Ramírez Álvarez " },
+          { "name": "Dr. Juan Gabriel Correa Reyes " },
+          { "name": "Dra. Mariana Villada Canela" }
+        ]
+      },
+      {
+        "name": "Comité de Seguridad en Actividades Marinas 2021-2023 ",
+        "integrantes": [
+          { "name": "Dr. José Antonio Zertuche González" },
+          { "name": "Dr. Luis Malpica Cruz" },
+          { "name": "Dr. Guillermo Alberto Samperio Ramos " },
+          { "name": "Dr. Efraín Miguel Chávez Solís" },
+          { "name": "Ocean. José Manuel Guzmán Calderón " },
+          { "name": "M.C. Eunise Vanessa Torres Delgado " },
+          { "name": "Ocen. Arturo Siqueiros Valencia" }
+        ]
+      },
+      {
+        "name": "Comisión Dictaminadora 2021-2023",
+        "integrantes": [
+          { "name": "Dr. Héctor García Nava" },
+          { "name": "Dra. Mariana Villada Canela" },
+          { "name": "Dr. Xavier Flores Vidal" }
+        ]
+      },
+      {
+        "name": "Integrantes de la Comisión Académica 2021-2023",
+        "integrantes": [
+          { "name": "Dra. Hortencia Silva Jiménez" },
+          { "name": "Dr. José Miguel Sandoval Gil" }
+        ]
+      },
+      {
+        "name": "Consejeros universitarios 2021-2023",
+        "integrantes": [
+          {
+            "name": "Dr. Luis Felipe Navarro Olache",
+            "positions": "propietario"
+          },
+          {
+            "name": "Dra. María Teresa Viana Castrillón ",
+            "positions": "suplente"
+          }
+        ]
+      },
+      {
+        "name": "Consejo de Vinculación 2021-2023",
+        "integrantes": [
+          {
+            "name": "Dra. María Teresa Viana Castrillon",
+            "positions": "internos"
+          },
+          { "name": "Dr. Héctor Garcia Nava", "positions": "internos" },
+          { "name": "Dr. Xavier Flores Vidal", "positions": "internos" },
+          {
+            "name": "Ocean. Héctor Manuel González Alcalá",
+            "positions": "externos"
+          },
+          {
+            "name": "Ocean Erick Alfonso Peterson Chinolla",
+            "positions": "externos"
+          }
+        ]
+      },
+      {
+        "name": "Consejo Técnico 2021-2023",
+        "integrantes": [
+          { "name": "Dr. Nancy Ramírez Álvarez", "positions": "propietario" },
+          {
+            "name": "Dr. José Miguel Sandoval Gil",
+            "positions": "propietario"
+          },
+          { "name": "Dr. Héctor García Nava", "positions": "suplente" },
+          {
+            "name": "Dr. Laura Liliana López Galindo",
+            "positions": "suplente"
+          },
+          { "name": "Tránsito González Medina", "positions": "propietario" },
+          { "name": "Nayla Berenice Muñoz Euan", "positions": "suplente" },
+          { "name": "Axel Acosta Valdés", "positions": "propietario" },
+          {
+            "name": "Enrique Alfonso Retamoza González",
+            "positions": "suplente"
+          },
+          {
+            "name": "Dr. Víctor Froylan Camacho Ibar",
+            "positions": "propietario"
+          },
+          { "name": "Dr. Xavier Flores Vidal", "positions": "suplente" },
+          { "name": "Dr. Gabriel Correa Reyes", "positions": "propietario" },
+          {
+            "name": "Dr. Francisco Delgadillo Hinojosa",
+            "positions": "suplente"
+          }
+        ]
+      },
+      {
+        "name": "Academias de Ciencias Naturales y Exactas",
+        "integrantes": [
+          {
+            "name": "Dra. Hortencia Silva Jiménez",
+            "positions": "propietario"
+          },
+          {
+            "name": "Dra. Sheila Castellanos Martínez",
+            "positions": "propietario"
+          },
+          {
+            "name": "Dr. José Martin Hernández Ayón",
+            "positions": "propietario"
+          },
+          {
+            "name": "Dr. Francisco Delgadillo Hinojosa",
+            "positions": "suplente"
+          },
+          {
+            "name": "Dra. Tatiana N. Olivares Bañuelos",
+            "positions": "suplente"
+          }
+        ]
+      }
+    ]
+  },
+  "seminarios": [
+    {
+      "name": "Posgrado en Oceanografía Costera",
+      "image": "seminario-OC-2.jpeg",
+      "path": "posgrado-en-oceanografia-costera",
+      "description": "Es el seminario que más años lleva realizándose en el IIO. Su objetivo principal es apoyar a la maestría y doctorado en Oceanografía Costera que se imparte conjuntamente entre la Facultad de Ciencias Marinas y el IIO.",
+      "videos": [
+        {
+          "title": "El uso de las corrientes oceánicas para el desarrollo sostenible",
+          "link": "https://fb.watch/kHmo3IlWo-/",
+          "date": "2023/05/20"
+        },
+        {
+          "title": "La dinámica ecológica del estuario del delta del río Colorado",
+          "link": "https://fb.watch/kHmrecaLhQ/",
+          "date": "2023/05/12"
+        },
+        {
+          "title": "Experiencias y perspectiva de oportunidades en un contexto de Oceanografía Operacional",
+          "link": "https://fb.watch/kHmuKojodA/",
+          "date": "2023/05/05"
+        },
+        {
+          "title": "Síntesis de B12 por microorganismos marinos en distintas condiciones metabólicas",
+          "link": "https://fb.watch/kHmzvCOYaV/",
+          "date": "2023/04/28"
+        },
+        {
+          "title": "Reproducción asecual en kelp Macrocystis pyrifera: Evidencia de la incidencia de partenogénesis",
+          "link": "https://fb.watch/kHmBK8Vnsd/",
+          "date": "2023/04/21"
+        },
+        {
+          "title": "Propiedades bio-ópticas de la Bahía de Todos Santos (BC) y su aplicación a la detección remota de florecimiento algales nocivos",
+          "link": "https://fb.watch/kHmDc3tEhS/",
+          "date": "2023/04/14"
+        },
+        {
+          "title": "Aplicación de herramientas de secuenciación masiva en el análisis de la diversidad bacteriana asociada a la degradación de hidrocarburos",
+          "link": "https://fb.watch/kHmFBfIv4X/",
+          "date": "2023/03/24"
+        },
+        {
+          "title": "Conectividad sedimentaria entre la playa y la plataforma continental interna",
+          "link": "https://fb.watch/kHmHleTgMw/",
+          "date": "2023/03/17"
+        },
+        {
+          "title": "Avances en la tecnología para la producción controlada de semilla de almeja mano de león",
+          "link": "https://fb.watch/kHmISHayDw/",
+          "date": "2023/03/10"
+        },
+        {
+          "title": "Energías renovables marinas en Baja California",
+          "link": "https://fb.watch/kHmMz-rD0_/",
+          "date": "2023/03/03"
+        },
+        {
+          "title": "Desarrollo Sostenible: el caso de las islas del Pacífico de Baja California",
+          "link": "https://fb.watch/kHmOqH52zS/",
+          "date": "2023/02/24"
+        },
+        {
+          "title": "Foraminíferos plantónicos como termógrafos oceánicos",
+          "link": "https://fb.watch/kHmQ4-aWxr/",
+          "date": "2023/02/17"
+        },
+        {
+          "title": "Aditivos para dietas de camarón: Mitos y Realidades",
+          "link": "https://fb.watch/kHmResQ0QS/",
+          "date": "2023/02/10"
+        }
+      ]
+    },
+    {
+      "name": "Biogeoquímica Acuática",
+      "image": "seminario-BA-2.jpeg",
+      "path": "biogeoquimica-acuatíca",
+      "description": "Organizado por el área de Biogeoquímica Marina y Cambio Global en apoyo a la maestría y doctorado en Oceanografía Costera.",
+      "videos": [
+        {
+          "title": "Hidrodinámica actual de la Laguna San Ignacio y sus variaciones futuras asociadas al aumento del nivel del mar",
+          "link": "https://fb.watch/kHn6dJKWWK/",
+          "date": "2023/05/19"
+        },
+        {
+          "title": "Mecanismos que controlan la distribución de nutrientes y carbono orgánico disuelto a lo largo de un remolino anticiclónico de la Corriente de Lazo en el Golgo de México",
+          "link": "https://www.youtube.com/watch?v=Du09rIdKPyg",
+          "date": "2023/05/12"
+        },
+        {
+          "title": "Biogeoquímica de elementos traza en tapetes microbianos de ambientes sedimentarios hipersalinos, atalosalinos e hidrotermales profundos",
+          "link": "https://fb.watch/kHnfmWp3Tv/",
+          "date": "2023/05/05"
+        },
+        {
+          "title": "Estacionalidad en los flujos de CO2 Océano-Atmósfera en la región de las grandes islas del Golfo de California",
+          "link": "https://fb.watch/kHnhvdBLzr/",
+          "date": "2023/04/28"
+        },
+        {
+          "title": "Morphological assessment in response to two cumulative CO2-induced acidification scenarios in Haliotis rufescens during its early life-history stages",
+          "link": "https://fb.watch/kHnsc1w6od/",
+          "date": "2023/04/21"
+        },
+        {
+          "title": "Cronología y edad de reservorio marino para sedimentos marinos de Baja California",
+          "link": "https://fb.watch/kHnGMj4QwA/",
+          "date": "2023/03/24"
+        },
+        {
+          "title": "Pérdida de NH4+ mediada microbiológicamente por reducción de hierro y manganeso en sedimentos. Caso de estudio: Bahía de San Quintín",
+          "link": "https://fb.watch/kHnIyAox3P/",
+          "date": "2023/03/17"
+        },
+        {
+          "title": "Circulación mareal y submareal en una laguna costera hipersalina: Laguna Ojo de Liebre",
+          "link": "https://fb.watch/kHnJgEA23x/",
+          "date": "2023/03/10"
+        },
+        {
+          "title": "Los remolinos ciclónicos dominan los aportes de nitrógeno inorgánico disuelto a la zona eufótica de la región de aguas profundas del Golfo de México",
+          "link": "https://fb.watch/kHnKynZUSn/",
+          "date": "2023/03/03"
+        },
+        {
+          "title": "Una aproximación al estudio de la resilencia ecológica en la región central del Golgo de California",
+          "link": "https://fb.watch/kHnLqJAToD/",
+          "date": "2023/02/17"
+        }
+      ]
+    },
+    {
+      "name": "Medio Ambiente y Desarrollo",
+      "image": "seminario-MAyD-2.jpeg",
+      "path": "medio-ambiente-y-desarrollo",
+      "description": "Organizado principalmente para apoyar al doctorado en Medio Ambiente y Desarrollo, y aborda temas ambientales interdisciplinarios.",
+      "videos": [
+        {
+          "title": "Construcción de capacidades locales para la reforestación de bosques de kelp",
+          "link": "https://fb.watch/kHnOq4lg-k/",
+          "date": "2023/05/11"
+        },
+        {
+          "title": "Régimen jurídico ambiental de la energía eólica en México. Un estudio comparado con el régimen español y del Estado de California, y oportunidades de mejorar",
+          "link": "https://fb.watch/kHnP-Q4Yd2/",
+          "date": "2023/05/04"
+        },
+        {
+          "title": "Importancia y beneficios de una pesca ikejime",
+          "link": "https://fb.watch/kHwRlJMVXR/",
+          "date": "2023/04/27"
+        },
+        {
+          "title": "El poder del monitoreo participativo de la calidad del agua…",
+          "link": "https://fb.watch/kHnTykh64c/",
+          "date": "2023/04/20"
+        },
+        {
+          "title": "El impacto de los cambios en las asignaciones del agua del río Colorado en los usuarios agrícolas y urbanos de Baja California",
+          "link": "https://fb.watch/kHnUZ3ySMz/",
+          "date": "2023/04/13"
+        },
+        {
+          "title": "¿El qué, el cómo y el para qué de la resilencia socio-ecológica?",
+          "link": "https://fb.watch/kHnXKZQagK/",
+          "date": "2023/03/30"
+        },
+        {
+          "title": "Observatorio Guadalupe: Estrategia de manejo participativo para un paisaje singular",
+          "link": "https://fb.watch/kHnZkRaqSl/",
+          "date": "2023/03/23"
+        },
+        {
+          "title": "Manejo y aprovechamiento de residuos sólidos municipales",
+          "link": "https://fb.watch/kHn_uuToPg/",
+          "date": "2023/03/16"
+        },
+        {
+          "title": "Desafíos de la Comunicación entre Ciencia y Política: Caso de Estudio del uso de las Aguas Residuales Tratadas para el Valle de Guadalupe",
+          "link": "https://fb.watch/kHn-DcAxnt/",
+          "date": "2023/03/09"
+        },
+        {
+          "title": "El saneamiento en México: Un análisis desde la óptica de los derechos humanos",
+          "link": "https://fb.watch/kHo1gLFSBH/",
+          "date": "2023/03/02"
+        },
+        {
+          "title": "Reviviendo el Delta del Río Colorado",
+          "link": "https://fb.watch/kHo2jOU95r/",
+          "date": "2023/02/23"
+        },
+        {
+          "title": "Juventud y Vejez: Cambio de percepciones sociales, autopercepción y calidad de vida por medio de encuentros intergeneracionales",
+          "link": "https://fb.watch/kHo3j_4P1d/",
+          "date": "2023/02/16"
+        },
+        {
+          "title": "Proyectos de Mejora Pesquera: manejo basado en incentivos hacia la sostenibilidad",
+          "link": "https://fb.watch/kHo4Ni_H8G/",
+          "date": "2023/02/09"
+        }
+      
+      ]
+    },
+    {
+      "name": "Acuacultura",
+      "image": "seminario-acuacultura-2.jpeg",
+      "path": "acuacultura",
+      "description": "Organizado por el área de Acuacultura del IIO y en apoyo también a la maestría y doctorado en Oceanografía Costera. ",
+      "videos": [
+        {
+          "title": "Tecnología para la producción de semilla de almeja pismo",
+          "link": "https://fb.watch/kHo81cvQWT/",
+          "date": "2023/05/03"
+        },
+        {
+          "title": "Alimentos de origen marino: Trazabilidad, identificación y origen",
+          "link": "https://fb.watch/kHo9LyEQyf/",
+          "date": "2023/04/26"
+        },
+        {
+          "title": "Cosecha e industrialización de algas marinas para su aplicación en el sector agrícola",
+          "link": "https://fb.watch/kHoaOSqFxZ/",
+          "date": "2023/04/19"
+        },
+        {
+          "title": "¿Es necesaria la suplementación de colesterol en dietas de peces marinos formuladas con proteínas y aceites alternativos?",
+          "link": "https://fb.watch/kHobNQ0QvC/",
+          "date": "2023/04/12"
+        },
+        {
+          "title": "Potencial de las microalgas psicrófilas en biotecnología: una oportunidad para mejorar a las microalgas tropicales",
+          "link": "https://fb.watch/kHocSIDUAF/",
+          "date": "2023/03/29"
+        },
+        {
+          "title": "Cultivo de Macrocystis en mar para un desarrollo sustentable y economía circular",
+          "link": "https://fb.watch/kHodVe2ruW/",
+          "date": "2023/03/22"
+        },
+        {
+          "title": "Cultivo, caracterización morfológica y genética de Eisenia arborea; el sargazo ganador ante el cambio climático",
+          "link": "https://fb.watch/kHoeTJhJR4/",
+          "date": "2023/03/09"
+        },
+        {
+          "title": "Determinación de sitios con aptitud para el desarrollo de maricultivos mediante SIG",
+          "link": "https://fb.watch/kHog7gz8Ri/",
+          "date": "2023/03/01"
+        },
+        {
+          "title": "Crianza selectiva y el potencial de la selección genómica en acuicultura",
+          "link": "https://fb.watch/kHohaijw03/",
+          "date": "2023/02/22"
+        },
+        {
+          "title": "Acuacultura regenerativa, héroe o villano en la restauración marina.",
+          "link": "https://fb.watch/kHoisMHfGk/",
+          "date": "2023/02/15"
+        },
+        {
+          "title": "Enfermedades parasitarias que impactan el cultivo de peces marinos en Baja California",
+          "link": "https://fb.watch/kHojH-5Nf7/",
+          "date": "2023/02/08"
+        }
+      ]
+    }
+  ],
+  "estaciones": {
+    "investigador": {
+      "name": "Nombre del investigador",
+      "image": "investigador.jpeg",
+      "description": "ICAARO y EMASQUI forman parte de una red de estaciones de monitoreo atmosférico que serán instaladas a lo largo de la península de Baja California dentro del proyecto “Influencia de eventos Santa Ana e incendios forestales en la zona costera del noroeste de México en un contexto de cambio global: transporte y deposición de polvos, cenizas y metales, así como su impacto en la calidad del aire y el ambiente marino”, aprobado en el marco de la “Convocatoria Ciencia de Frontera 2023”. <br/><br/> <li>[ICAARO] IIO-UABC, ENS: estación de Investigación de Calidad del Aire y aportes Atmosféricos Regionales hacia el Océano (ICAARO), instalada en el Instituto de Investigaciones Oceanológicas, UABC-Unidad Punta Morro, Ensenada, Baja California, México.</li> <li class='mt-2'>[EMASQUI] FINSQ-UABC, SQ: Estación de Monitoreo Atmosférico en San Quintín (EMASQUI), instalada en la Facultad de Ingeniería y Negocios San Quintín, UABC-San Quintín, Baja California, México.</li>",
+      "history": "La puesta en marcha de las estaciones ICAARO y EMASQUI ha sido posible gracias al financiamiento de los investigadores Dr. Armando Félix Bermúdez y Dr. Francisco Delgadillo Hinojosa, así como del Instituto de Investigaciones Oceanológicas. El equipamiento y operatividad de ambas estaciones se encuentra en una etapa preliminar. <br/><br/> Las variables reportadas en tiempo real son temperatura, humedad relativa, radiación solar, radiación UV, velocidad del viento, dirección del viento, presión atmosférica, precipitación, entre otras."
+    },
+    "estacionesMeteorologicas":{
+      "description":"Resumen de las condiciones meteorológicas <br/> actuales en las estaciones ICAARO y EMASQUI. ",
+      "locations": [
+        {
+          "name":"Instituto de investigaciones oceanológicas",
+          "url": "https://www.weatherlink.com/embeddablePage/show/3ebd5596b7304649b8a9b6dfe1df5779/slim",
+          "location": {
+            "lat": 31.8632758,
+            "lng": -116.667494
+          }
+        },
+        {
+          "name": "Nuevo Centro de Población Padre Kino, B.C.",
+          "url": "https://www.weatherlink.com/embeddablePage/show/d7b0ab2c9f8f462fa59226e5f148165b/slim",
+          "location": {
+            "lat": 30.656581, 
+            "lng":-115.973159
+          }
+        }
+      ]
+    },
+    "calidadDelAire":{
+      "description":"Las estaciones ICAARO y EMASQUI se equiparon con sensores que monitorean la calidad del aire en términos de la concentración de material particulado suspendido (PM2.5 y PM10). A continuación, se reporta el índice de calidad del aire (AQI) para contaminación por partículas PM2.5 de la Agencia de Protección Ambiental de Estados Unidos.",
+      "urls": [
+        "https://map.purpleair.com/1/mAQI/a0/p604800/cC5?select=149216#10.48/31.7859/-116.7518"
+      ]
+    }
+  },
+  "version": { "no": 87, "last_update": "2022-01-27 12:33:21" }
+}

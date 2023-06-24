@@ -1,0 +1,83 @@
+{
+  "type": "object",
+  "title": "Pantalla de Inicio",
+  "description": "",
+  "properties": {
+    "announcement": {
+      "type": "object",
+      "title": "Anuncio",
+      "description": "información del banner, bla bla bla, ",
+      "properties": {
+        "starts": {
+          "title": "Desde",
+          "attrs": {
+            "type": "datetime",
+            "placeholder": "Sub Full Name",
+            "title": "Please enter your full name"
+          }
+        },
+        "ends": {
+          "title": "Hasta ",
+          "attrs": {
+            "type": "datetime",
+            "placeholder": "Sub Full Name",
+            "title": "Please enter your full name"
+          }
+        },
+        "image": {
+          "title": "Imágen ",
+          "attrs": {
+            "placeholder": "Sub Full Name",
+            "title": "Please enter your full name"
+          }
+        }
+      }
+    },
+    "banner": {
+      "type": "object",
+      "title": "Banner",
+      "description": "información del banner, bla bla bla, ",
+      "properties": {
+        "starts": {
+          "title": "Desde",
+          "attrs": {
+            "type": "datetime",
+            "placeholder": "Sub Full Name",
+            "title": "Please enter your full name"
+          }
+        },
+        "ends": {
+          "title": "Hasta ",
+          "attrs": {
+            "type": "datetime",
+            "placeholder": "Sub Full Name",
+            "title": "Please enter your full name"
+          }
+        },
+        "title": {
+          "title": "Titulo ",
+          "attrs": {
+            "placeholder": "Sub Full Name",
+            "title": "Please enter your full name"
+          }
+        },
+        "description": {
+          "title": "Descripción ",
+          "attrs": {
+            "placeholder": "Sub Full Name",
+            "title": "Please enter your full name"
+          }
+        },
+        "icon": {
+          "title": "Icono ",
+          "attrs": {
+            "placeholder": "Sub Full Name",
+            "title": "Please enter your full name"
+          }
+        }
+      }
+    }
+  },
+  "additionalProperties": false,
+  "required": ["name", "Imágen", "lists"]
+}
